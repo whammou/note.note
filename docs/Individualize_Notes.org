@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID: 164e1f8a-7b45-403a-9c36-15f263f00eb5
+:END:
+#+TITLE: Individualize Notes
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+FILETAGS: :DOC:PROJECT:LAYOUT:
+#+HTML:<details>
+
+* REVIEW Individualize Notes :DOC:META:LAYOUT:NOTE:
+ DEADLINE: <2025-08-18 Mon> CLOSED: [2025-08-28 Thu 16:20]
+#+HTML:</details>
+- The key concept to =individualize notes= lies in the differences between =functionality= of each note and follow by their =layout format=
+- Different types of note in the system serves different purposes and its important to get it clear what their purposes are
+** DONE Define Functionality of Each Note
+CLOSED: [2025-08-09 Sat 02:30]
+- Currently there are 4 types of note in the system
+  1. =Doc notes=: Contain documents and export
+  2. =List notes=: Contain reusable notes or items
+  3. =Task notes=: Scheduling and planning tasks or events
+  4. =Log notes=: Log =DONE=/=ABORTED= tasks
+** DONE Separating notes :NODE:
+CLOSED: [2025-08-28 Thu 16:20]
+:PROPERTIES:
+:ID:       8c7144c1-eb8e-4985-b537-3293809b858c
+:END:
+The purpose of separating big notes into smaller notes is to create a /cleaner documentation/, /better organized and structured information/; /easier to share/
+  + The =targets= of each notes have to be specifically formatted
+  + Customized unique =templates= for each notes
+  - Harder to maintenance

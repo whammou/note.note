@@ -1,0 +1,15 @@
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+LATEX_HEADER: \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
+#+TITLE: Note Incidental Tasks
+
+* List of Incidental Tasks :TASK:INCIDENTAL:NOTE:META:
+** DONE Note Paragraph Format :FORMAT:
+CLOSED: [2025-08-12 Tue 10:26] DEADLINE: <2025-08-12 Tue>
+- *OBJECTIVE:* Test orgmode =paragraph= format
+-----
+- *[NOTE]* taken on <2025-08-12 10:17>: \\
+  Orgmode paragraph a separated by at least one =empty line=.
+  To enforce a line break within a paragraph use =\\= at the end of the line
+-----
+- *Reference:* [[https://orgmode.org/manual/Paragraphs.html][Org Paragraph @Orgmode-doc]]

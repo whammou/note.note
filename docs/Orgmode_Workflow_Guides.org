@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: 2fab4149-510c-4100-8a81-7d7d6e515d77
+:END:
+#+TITLE: Orgmode Workflow Guides
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+FILETAGS: :DOC:META:NOTE:ORGMODE:WORKFLOW:
+#+HTML:<details>
+
+* Orgmode Worflow Guide :DOC:META:NOTE:ORGMODE:WORKFLOW:
+#+HTML:</details>
+A collection of niceties workflows using =orgmode= and attempts to incorporate them into the current =org-database=
+- *Reference:* [[http://doc.norang.ca/org-mode.html][A Detailed orgmode workflow guide @Blog]]
+** DONE The Principles :ORGMODE:
+CLOSED: [2025-09-07 Sun 02:54]
+1. *Do Not Add Tasks Indiscriminately* \\
+   Not every task should go into the system. Avoid filling the system with trivial =tasks= and diluting things that matter. Only add =tasks= that matters
+2. *Not All Tasks have to be done* \\
+   There are two reasons:
+   - First, =Tasks= could be /de-prioritize/ or become unnecessary
+   - Second, there are limitations and we can not do everything (/priorities/ matter)
+3. *Reduce The Numbers of Open Loops* \\
+   Open =loops= are =tasks= which have been started but not yet finished. They stay in our mind and occupy some of the our limited /working memory/, makes it harder to focus on other =tasks=
+
+#+NAME:Little's Law
+#+BEGIN_QUOTE
+[!NOTE]
+/Little's Law/ [fn:1] Points out that the more open =loops=, the more it takes to finish each =loops= on average
+#+END_QUOTE
+
+4. *Reduce the Decision Making of What Next* \\
+   The system should suggest the user what to do next so that the user can reserve the energy for the real tasks. Reduce skipping hard tasks for easy one subconsciously
+* Footnotes
+[fn:1] The queueing theory - [[https://en.wikipedia.org/wiki/Little%27s_law][Little's Law]]

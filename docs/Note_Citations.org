@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: d3d6e3d2-f893-4971-95ec-7e9927aeafd1
+:END:
+#+TITLE: Note Citations
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+FILETAGS: :DOC:PROJECT:CITATION:ZOTERO:
+#+HTML:<details>
+
+* Note Citations :DOC:META:CITATION:ZOTERO:NOTE:
+#+HTML:</details>
+/Integrate citation into current notes (using =zotero=)/

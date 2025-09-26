@@ -1,0 +1,20 @@
+#+TITLE: Note Document Drafts
+
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+FILETAGS: :DOC:DRAFT:NOTE:
+#+HTML:<details>
+
+* Document Drafts :DOC:DRAFT:NOTE:META:
+#+HTML:</details>
+
+#+NAME:Warning Message
+#+BEGIN_QUOTE
+[!WARNING]
+Draft items are subjected to change and refile!
+#+END_QUOTE
+** OUTLINE An Org Workflow for Task Management :ORGMODE:MANAGEMENT:
+/Take note of workflow from/ [[https://whhone.com/posts/org-mode-task-management/][Orgmode Task Management @Blog]]
+** OUTLINE Org Workflow with Org-Agenda :ORGMODE:WORKFLOW:
+/Take note from/ [[https://cachestocaches.com/2016/9/my-workflow-org-agenda/][My Workflow with Org-Agenda @Blog]]

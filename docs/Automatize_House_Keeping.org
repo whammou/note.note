@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID: f812d244-aaa5-49b1-9cca-c46d9474a24b
+:END:
+#+TITLE: Automatize House Keeping
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+FILETAGS: :DOC:PROJECT:HOUSEKEEPING:
+#+HTML:<details>
+
+* OUTLINE Automatize House Keeping :DOC:META:HOUSEKEEPING:NOTE:
+#+HTML:</details>
+/Speed up the process of house keeping my notes/
+** RESEARCH Replace Metadata
+/Replace the metadate of a single note/
+#+BEGIN_SRC org
+#+LATEX_HEADER: \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+OPTIONS: ^:nil todo:nil tags:nil t:f num:t pri:nil toc:t
+#+END_SRC
+/Quickly update this part of note/
