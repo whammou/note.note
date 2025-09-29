@@ -77,7 +77,7 @@ Both options are not viable, or not suitable for rendering on =Github=
 -----
 + *Reference:* [[https://ao.bloat.cat/exchange/emacs.stackexchange.com/questions/48317/display-include-file-contents-in-github-readme-org][Display Include on github workarounds @Overflow]]
 ** DONE Org Special Tasks :PARA:
- DEADLINE: <2025-09-22 Mon> CLOSED: [2025-09-23 Tue 05:51]
+CLOSED: [2025-09-23 Tue 05:51] DEADLINE: <2025-09-22 Mon>
 - *OBJECTIVE:* Create template to capture special tasks
 -----
 - *[NOTE]* taken on [2025-08-31 21:43]: \\
@@ -85,7 +85,7 @@ Both options are not viable, or not suitable for rendering on =Github=
     + =Special-tasks= should include project =tags= to differentiate from one another
     + Inherit =tags= might need some reworks
 *** DONE Rework list.note
-DEADLINE: <2025-09-22 Mon> CLOSED: [2025-09-23 Tue 05:51]
+CLOSED: [2025-09-23 Tue 05:51] DEADLINE: <2025-09-22 Mon>
 - *OBJECTIVE:* Separate =list.org= into list =exports=
 -----
 - *[NOTE]* taken on [2025-09-08 06:41]: \\
@@ -94,19 +94,19 @@ DEADLINE: <2025-09-22 Mon> CLOSED: [2025-09-23 Tue 05:51]
     + Transactions items
 -----
 **** DONE Org List Create Command :BASH:
-DEADLINE: <2025-09-21 Sun> CLOSED: [2025-09-21 Sun 19:15]
+CLOSED: [2025-09-21 Sun 19:15] DEADLINE: <2025-09-21 Sun>
 - *OBJECTIVE:* Create an =list.note= generation command via bash like =docs.note=
 ***** DONE Set Flags for List
-DEADLINE: <2025-09-21 Sun> CLOSED: [2025-09-21 Sun 19:14]
+CLOSED: [2025-09-21 Sun 19:14] DEADLINE: <2025-09-21 Sun>
 - *OBJECTIVE:* Base on =orgtask= create =orglist= and take into account different types of /lists/. Set =flags= for each /list/
 - *Checkout:* [[id:3ac3b4c9-e075-4345-a2a4-d7b6122983f8][Flag Handling @Org]]
 ****** PARTIAL Parse non-option Argument Before Options :COMMAND:
-DEADLINE: <2025-09-21 Sun> CLOSED: [2025-09-21 Sun 19:14]
+CLOSED: [2025-09-21 Sun 19:14] DEADLINE: <2025-09-21 Sun>
 - *OBJECTIVE:* Get =getopts= to parse =non-option= argument after =option= argument
 - *Reference:* [[https://ao.bloat.cat/exchange/unix.stackexchange.com/questions/140840/using-getopts-to-parse-options-after-a-non-option-argument][Using getopts to parse options after a non-option argument @Overflow]]
 - *Checkout:* [[id:1963e88a-c26f-4626-904d-72c9080c9055][Option Position @Org]]
 **** DONE List Todo Keywords :KEYWORD:
-DEADLINE: <2025-09-22 Mon> CLOSED: [2025-09-23 Tue 05:51]
+CLOSED: [2025-09-23 Tue 05:51] DEADLINE: <2025-09-22 Mon>
 - *OBJECTIVE:* Find =todo-keywords= for =list.note=
 -----
 - *[NOTE]* taken on [2025-09-23 00:27]: \\
@@ -219,3 +219,4 @@ DEADLINE: <2025-09-28 Sun>
 - *OBJECTIVE:* Separate =notes= into smaller =repos=
 - *Visit:* [[id:0ac3ce98-9f59-468f-acfd-c494c879986b][Managing A Nested Git Project @Org]]
 - *Checkout:* [[id:46113c10-28b3-4477-93f4-d22d50c941ff][Setup Git-Annex @org]]
+** test tile
