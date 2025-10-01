@@ -218,7 +218,7 @@ DEADLINE: <2025-10-01 Wed>
 - *OBJECTIVE:* Separate =notes= into smaller =repos=
 - *Visit:* [[id:0ac3ce98-9f59-468f-acfd-c494c879986b][Managing A Nested Git Project @Org]]
 *** DONE Isolated Node Container
-DEADLINE: <2025-09-30 Tue> CLOSED: [2025-09-30 Tue 20:31]
+CLOSED: [2025-09-30 Tue 20:31] DEADLINE: <2025-09-30 Tue>
 - *OBJECTIVE:* Create an =isolated container= (/git repo/) for each =node=
 - *Visit:*
   + [[id:92981451-4eaf-4d32-a2c4-afdaf455cba3][Modularize Digital Notes @Org]]
@@ -229,4 +229,3 @@ DEADLINE: <2025-09-30 Tue> CLOSED: [2025-09-30 Tue 20:31]
 ** PENDING External Assets :ASSET:DRIVE:
 - *OBJECTIVE:* Hosting =assets= on /Google Drive/ with shareable links
 - [[https://ao.bloat.cat/exchange/stackoverflow.com/questions/52063556/add-image-to-github-readme-md-from-google-drive][Github README images from goole drive @Overflow]]
-** This is a test headline
