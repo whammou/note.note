@@ -194,7 +194,7 @@ CLOSED: [2025-09-12 Fri 03:43] DEADLINE: <2025-09-12 Fri>
 CLOSED: [2025-09-12 Fri 08:48] DEADLINE: <2025-09-12 Fri>
 - *OBJECTIVE:* Create a =backlog.note= to quickly open and choose =tasks= /to do/ next
 ** TODO Clean up Backlogs :HOUSEKEEPING:
-DEADLINE: <2025-09-30 Tue>
+DEADLINE: <2025-10-01 Wed>
 - *OBJECTIVE:* Clean up and update =backlogs=
 ** PENDING Implement Milestone Notes :STRUCTURE:
 - *OBJECTIVE:* View =milestone.note= in notes to keep track of =Goals=
@@ -204,7 +204,7 @@ DEADLINE: <2025-09-30 Tue>
   + [[id:6fff52f0-e06e-4d64-a521-584bb19902fa][Image manipulate from terminal @Org]]
   + [[id:0635a10c-d33b-457f-b2eb-8d91480684bd][Fzf Scripting @Org]]
 ** NEXT Migrate Old Lists
-DEADLINE: <2025-09-30 Tue>
+DEADLINE: <2025-10-01 Wed>
 - *OBJECTIVE:* Migrate old =list.note=
 ** PENDING More Detailed Logs :STRUCTURE:
 - *OBJECTIVE:* Separate =log.note= into smaller files for more fine tune query search
@@ -215,7 +215,6 @@ DEADLINE: <2025-09-30 Tue>
   =item= notes are used to sync between notes without being outdated or have to re-define every time a repeating item is called
 -----
 ** WAITING Modular Notes Repos :GIT:STRUCTURE:
-DEADLINE: <2025-09-30 Tue>
 - *OBJECTIVE:* Separate =notes= into smaller =repos=
 - *Visit:* [[id:0ac3ce98-9f59-468f-acfd-c494c879986b][Managing A Nested Git Project @Org]]
 *** DONE Isolated Node Container
