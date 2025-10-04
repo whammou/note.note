@@ -1,4 +1,0 @@
-#+TITLE: Note Lists
-#+OPTIONS: todo:nil tasgs:nil ^:nil
-
-* Lists :LIST:NOTE:
