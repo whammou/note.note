@@ -229,5 +229,3 @@ CLOSED: [2025-09-30 Tue 20:31] DEADLINE: <2025-09-30 Tue>
 ** PENDING External Assets :ASSET:DRIVE:
 - *OBJECTIVE:* Hosting =assets= on /Google Drive/ with shareable links
 - [[https://ao.bloat.cat/exchange/stackoverflow.com/questions/52063556/add-image-to-github-readme-md-from-google-drive][Github README images from goole drive @Overflow]]
-** This is a test headline :TEST:
-test body
