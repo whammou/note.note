@@ -4,5 +4,15 @@
 #+TITLE: Note Planned Tasks
 
 * List of Planned Tasks :TASK:PLANNED:NOTE:META:
-** PENDING Implement Uniform Keywords :LAYOUT:KEYWORD:
+** NEXT Implement Uniform Keywords :LAYOUT:KEYWORD:
+DEADLINE: <2025-10-07 Tue>
 - *OBJECTIVE:* Implement the =4-letter= keywords method
+*** TODO Replace Identity Keywords
+- *OBJECTIVE:* Replace =identity keywords= of individual notes
+-----
+- *[NOTE]* taken on [2025-10-07 16:55]: \\
+  Use [[id:cd6ce3f7-b41e-485f-a4f8-b4263929b2b8][Search and Replace with Grep @Org]] method to replace =identity keywords=
+-----
+*** DOING Translate to Uniform Keywords
+DEADLINE: <2025-10-07 Tue>
+- *OBJECTIVE:* Translate /current keywords/ set to /uniform keywords set/
