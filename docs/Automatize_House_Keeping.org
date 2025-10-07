@@ -9,10 +9,10 @@
 #+FILETAGS: :DOC:PROJECT:HOUSEKEEPING:
 #+HTML:<details>
 
-* OUTLINE Automatize House Keeping :DOC:META:HOUSEKEEPING:NOTE:
+* OUTL Automatize House Keeping :DOC:META:HOUSEKEEPING:NOTE:
 #+HTML:</details>
 /Speed up the process of house keeping my notes/
-** RESEARCH Replace Metadata
+** EXPL Replace Metadata
 /Replace the metadate of a single note/
 #+BEGIN_SRC org
 #+LATEX_HEADER: \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}

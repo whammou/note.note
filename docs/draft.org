@@ -14,7 +14,7 @@
 [!WARNING]
 Draft items are subjected to change and refile!
 #+END_QUOTE
-** OUTLINE An Org Workflow for Task Management :ORGMODE:MANAGEMENT:
+** OUTL An Org Workflow for Task Management :ORGMODE:MANAGEMENT:
 /Take note of workflow from/ [[https://whhone.com/posts/org-mode-task-management/][Orgmode Task Management @Blog]]
-** OUTLINE Org Workflow with Org-Agenda :ORGMODE:WORKFLOW:
+** OUTL Org Workflow with Org-Agenda :ORGMODE:WORKFLOW:
 /Take note from/ [[https://cachestocaches.com/2016/9/my-workflow-org-agenda/][My Workflow with Org-Agenda @Blog]]

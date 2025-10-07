@@ -44,11 +44,11 @@ CLOSED: [2025-08-15 Fri 13:58] DEADLINE: <2025-08-15 Fri>
     - Use the same target logic as tasks
     - Separate docs using hierarchical directories
 -----
-** ABORTED Take Video Notes :ORGMODE:MEDIANOTE:
+** ABRT Take Video Notes :ORGMODE:MEDIANOTE:
 CLOSED: [2025-08-16 Sat 14:41] DEADLINE: <2025-08-16 Sat>
 - *OBJECTIVE:* Checkout a way to take note while playing media
 - *Reference:* [[https://github.com/yuchen-lea/org-media-note][Org-media-note @Github]]
-** ABORTED Test Orgmode Include :ORGMODE:PANDOC:GITHUB:LAYOUT:
+** ABRT Test Orgmode Include :ORGMODE:PANDOC:GITHUB:LAYOUT:
 CLOSED: [2025-08-17 Sun 14:56] DEADLINE: <2025-08-16 Sat>
 - *OBJECTIVE:* Test orgmode =#+include:= export with pandoc and github render 
 -----
@@ -58,7 +58,7 @@ CLOSED: [2025-08-17 Sun 14:56] DEADLINE: <2025-08-16 Sat>
 - *Reference:*
   - [[https://orgmode.org/manual/Include-Files.html][Include Files @Orgmode-doc]]
   - [[https://github.com/wallyqs/org-ruby/blob/7a28c2e6e91cdaceb1fddc2d870f4458632816e8/spec/html_examples/include-file.org][Render Test on Github @Org-ruby]]
-*** ABORTED Orgmode Include Workaround
+*** ABRT Orgmode Include Workaround
 CLOSED: [2025-08-17 Sun 14:56] DEADLINE: <2025-08-17 Sun>
 + *OBJECTIVE:* Workaround =org-ruby= not supported include function
 -----
@@ -100,7 +100,7 @@ CLOSED: [2025-09-21 Sun 19:15] DEADLINE: <2025-09-21 Sun>
 CLOSED: [2025-09-21 Sun 19:14] DEADLINE: <2025-09-21 Sun>
 - *OBJECTIVE:* Base on =orgtask= create =orglist= and take into account different types of /lists/. Set =flags= for each /list/
 - *Checkout:* [[id:3ac3b4c9-e075-4345-a2a4-d7b6122983f8][Flag Handling @Org]]
-****** PARTIAL Parse non-option Argument Before Options :COMMAND:
+****** PRTL Parse non-option Argument Before Options :COMMAND:
 CLOSED: [2025-09-21 Sun 19:14] DEADLINE: <2025-09-21 Sun>
 - *OBJECTIVE:* Get =getopts= to parse =non-option= argument after =option= argument
 - *Reference:* [[https://ao.bloat.cat/exchange/unix.stackexchange.com/questions/140840/using-getopts-to-parse-options-after-a-non-option-argument][Using getopts to parse options after a non-option argument @Overflow]]
@@ -140,10 +140,10 @@ CLOSED: [2025-09-05 Fri 19:13] DEADLINE: <2025-09-05 Fri>
   1. Capture using =draft= files (populate every =docs= directory)
        + /Include a warning message inside draft/
   2. Refile captured /items/ using =org-refile= (take advantage of headline listing method)
-** PENDING Files hierarchy :FILE:
+** PEND Files hierarchy :FILE:
 - *OBJECTIVE:* /Manage files with better hierarchy/
 - *References:* [[https://l.opnxng.com/r/linux/comments/om150l/personal_file_hierarchy_under_home/][Home hierarchy @Reddit]]
-** ABORTED Adding Citations :CITATIONS:ORGMODE:
+** ABRT Adding Citations :CITATIONS:ORGMODE:
 CLOSED: [2025-09-07 Sun 17:58]
 - *OBJECTIVE:* Adding citations to notes in orgmode 
 - *Reference:* [[https://orgmode.org/manual/Citations.html][Orgmode citations @Org-doc]]
@@ -160,7 +160,7 @@ CLOSED: [2025-09-07 Sun 17:58]
 - *[NOTE]* taken on [2025-09-07 17:56]: \\
   Github does not parse =.bib= citations format and thus there is no way to render citations format through =.bib= on github except for manually
 -----
-** PENDING Nvim-orgmode Bable :COMPLETION:
+** PEND Nvim-orgmode Bable :COMPLETION:
 - *OBJECTIVE:* Test orgmode-babel code output within orgmode
   
   #+NAME:test
@@ -184,7 +184,7 @@ CLOSED: [2025-09-12 Fri 03:43] DEADLINE: <2025-09-12 Fri>
 - *[NOTE]* taken on [2025-09-12 03:42]: \\
   *Checkout:* [[https://github.com/whammou/dotfiles/commit/de74c20e892e5c26cca5846f1eed3ef72ea635ed][Added overview doc templates @Commit]]
 -----
-** RESEARCH Change CSS style :STYLE:
+** EXPL Change CSS style :STYLE:
 - *OBJECTIVE:* Add css style to note export
   w
 - *Reference:*
@@ -196,9 +196,9 @@ CLOSED: [2025-09-12 Fri 08:48] DEADLINE: <2025-09-12 Fri>
 ** TODO Clean up Backlogs :HOUSEKEEPING:
 DEADLINE: <2025-10-07 Tue>
 - *OBJECTIVE:* Clean up and update =backlogs=
-** PENDING Implement Milestone Notes :STRUCTURE:
+** PEND Implement Milestone Notes :STRUCTURE:
 - *OBJECTIVE:* View =milestone.note= in notes to keep track of =Goals=
-** PENDING Capture Assets :ASSET:
+** PEND Capture Assets :ASSET:
 - *OBJECTIVE:* Capture and resize assets to note
 - *Checkout:*
   + [[id:6fff52f0-e06e-4d64-a521-584bb19902fa][Image manipulate from terminal @Org]]
@@ -206,15 +206,15 @@ DEADLINE: <2025-10-07 Tue>
 ** DONE Migrate Old Lists
 CLOSED: [2025-10-05 Sun 19:21] DEADLINE: <2025-10-05 Sun>
 - *OBJECTIVE:* Migrate old =list.note=
-** PENDING More Detailed Logs :STRUCTURE:
+** PEND More Detailed Logs :STRUCTURE:
 - *OBJECTIVE:* Separate =log.note= into smaller files for more fine tune query search
-** PENDING Implement Item List :STRUCTURE:
+** PEND Implement Item List :STRUCTURE:
 - *OBJECTIVE:* Implement =item.note=
 -----
 - *[NOTE]* taken on [2025-09-23 22:51]: \\
   =item= notes are used to sync between notes without being outdated or have to re-define every time a repeating item is called
 -----
-** WAITING Modular Notes Repos :GIT:STRUCTURE:
+** WAIT Modular Notes Repos :GIT:STRUCTURE:
 - *OBJECTIVE:* Separate =notes= into smaller =repos=
 - *Visit:* [[id:0ac3ce98-9f59-468f-acfd-c494c879986b][Managing A Nested Git Project @Org]]
 *** DONE Isolated Node Container
@@ -223,10 +223,10 @@ CLOSED: [2025-09-30 Tue 20:31] DEADLINE: <2025-09-30 Tue>
 - *Visit:*
   + [[id:92981451-4eaf-4d32-a2c4-afdaf455cba3][Modularize Digital Notes @Org]]
   + [[id:0ac3ce98-9f59-468f-acfd-c494c879986b][Managing A Nested Git Project @Org]]
-*** PENDING Asset Container
+*** PEND Asset Container
 - *OBJECTIVE:* Manage =asset= with =git annex=
 - *Checkout:* [[id:46113c10-28b3-4477-93f4-d22d50c941ff][Setup Git-Annex @org]]
-** PENDING External Assets :ASSET:DRIVE:
+** PEND External Assets :ASSET:DRIVE:
 - *OBJECTIVE:* Hosting =assets= on /Google Drive/ with shareable links
 - [[https://ao.bloat.cat/exchange/stackoverflow.com/questions/52063556/add-image-to-github-readme-md-from-google-drive][Github README images from goole drive @Overflow]]
 ** TODO Implement Recurring Keywords :KEYWORD:
