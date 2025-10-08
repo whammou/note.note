@@ -193,7 +193,7 @@ CLOSED: [2025-09-12 Fri 03:43] DEADLINE: <2025-09-12 Fri>
 ** DONE Create Note Backlogs :STRUCTURE:
 CLOSED: [2025-09-12 Fri 08:48] DEADLINE: <2025-09-12 Fri>
 - *OBJECTIVE:* Create a =backlog.note= to quickly open and choose =tasks= /to do/ next
-** TODO Clean up Backlogs :HOUSEKEEPING:
+** NEXT Clean up Backlogs :HOUSEKEEPING:
 DEADLINE: <2025-10-08 Wed>
 - *OBJECTIVE:* Clean up and update =backlogs=
 ** PEND Implement Milestone Notes :STRUCTURE:
@@ -229,7 +229,7 @@ CLOSED: [2025-09-30 Tue 20:31] DEADLINE: <2025-09-30 Tue>
 ** PEND External Assets :ASSET:DRIVE:
 - *OBJECTIVE:* Hosting =assets= on /Google Drive/ with shareable links
 - [[https://ao.bloat.cat/exchange/stackoverflow.com/questions/52063556/add-image-to-github-readme-md-from-google-drive][Github README images from goole drive @Overflow]]
-** DOIN Implement Recurring Keywords :KEYWORD:
-DEADLINE: <2025-10-08 Wed>
+** DONE Implement Recurring Keywords :KEYWORD:
+DEADLINE: <2025-10-08 Wed> CLOSED: [2025-10-08 Wed 16:47]
 - *OBJECTIVE:* Add Recurring keywords =recurring.task=
 - *Reference:* [[https://nvim-orgmode.github.io/configuration#org_todo_repeat_to_state][Nvim-orgmode repeat to state @Github]]
