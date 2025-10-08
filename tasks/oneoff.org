@@ -194,7 +194,7 @@ CLOSED: [2025-09-12 Fri 03:43] DEADLINE: <2025-09-12 Fri>
 CLOSED: [2025-09-12 Fri 08:48] DEADLINE: <2025-09-12 Fri>
 - *OBJECTIVE:* Create a =backlog.note= to quickly open and choose =tasks= /to do/ next
 ** NEXT Clean up Backlogs :HOUSEKEEPING:
-DEADLINE: <2025-10-08 Wed>
+DEADLINE: <2025-10-09 Thu>
 - *OBJECTIVE:* Clean up and update =backlogs=
 ** PEND Implement Milestone Notes :STRUCTURE:
 - *OBJECTIVE:* View =milestone.note= in notes to keep track of =Goals=
@@ -233,3 +233,6 @@ CLOSED: [2025-09-30 Tue 20:31] DEADLINE: <2025-09-30 Tue>
 DEADLINE: <2025-10-08 Wed> CLOSED: [2025-10-08 Wed 16:47]
 - *OBJECTIVE:* Add Recurring keywords =recurring.task=
 - *Reference:* [[https://nvim-orgmode.github.io/configuration#org_todo_repeat_to_state][Nvim-orgmode repeat to state @Github]]
+** Test Group Tag
+- *OBJECTIVE:* Test =tag-group= in =nvim-orgmode=
+- *Reference:* [[https://orgmode.org/guide/Tags.html#Tag-groups-1][Orgmode Tag-Group @Org-wiki]]
