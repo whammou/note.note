@@ -194,7 +194,7 @@ CLOSED: [2025-09-12 Fri 03:43] DEADLINE: <2025-09-12 Fri>
 CLOSED: [2025-09-12 Fri 08:48] DEADLINE: <2025-09-12 Fri>
 - *OBJECTIVE:* Create a =backlog.note= to quickly open and choose =tasks= /to do/ next
 ** NEXT Clean up Backlogs :HOUSEKEEPING:
-DEADLINE: <2025-10-09 Thu>
+DEADLINE: <2025-10-10 Fri>
 - *OBJECTIVE:* Clean up and update =backlogs=
 ** PEND Implement Milestone Notes :STRUCTURE:
 - *OBJECTIVE:* View =milestone.note= in notes to keep track of =Goals=
