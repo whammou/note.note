@@ -241,7 +241,7 @@ DEADLINE: <2025-10-09 Thu> CLOSED: [2025-10-09 Thu 02:08]
   =orgmode.nvim= is currently *not* supported =tag groups=
 -----
 - *Reference:* [[https://orgmode.org/guide/Tags.html#Tag-groups-1][Orgmode Tag-Group @Org-wiki]]
-** TODO Implement Note Sync :HOUSEKEEPING:
+** TODO Implement Note Sync :HOUSEKEEPING:notesync:
 DEADLINE: <2025-10-11 Sat>
 - *OBJECTIVE:* Implement =note= sync command
 -----
@@ -249,3 +249,10 @@ DEADLINE: <2025-10-11 Sat>
   =sync= command pull and push changes from remote. The command should run from =nvim= and from =terminal= (for =termnux=)
 -----
 - *Checkout:* [[id:f812d244-aaa5-49b1-9cca-c46d9474a24b][Automatize House Keeping @Org]]
+** DONE Implement Note Category :STRUCTURE:
+DEADLINE: <2025-10-11 Sat> CLOSED: [2025-10-11 Sat 22:12]
+- *OBJECTIVE:* Implement note category
+-----
+- *[NOTE]* taken on [2025-10-11 22:11]: \\
+  =orgzly= does not support =category= property search yet
+-----
