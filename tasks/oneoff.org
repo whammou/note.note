@@ -249,3 +249,5 @@ DEADLINE: <2025-10-11 Sat>
   =sync= command pull and push changes from remote. The command should run from =nvim= and from =terminal= (for =termnux=)
 -----
 - *Checkout:* [[id:f812d244-aaa5-49b1-9cca-c46d9474a24b][Automatize House Keeping @Org]]
+** Implement Reminder Note :STRUCTURE:
+- *OBJECTIVE:* Reminder notes are note that quick to deploy and short-lived
