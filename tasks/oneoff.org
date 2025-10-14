@@ -194,7 +194,7 @@ CLOSED: [2025-09-12 Fri 03:43] DEADLINE: <2025-09-12 Fri>
 CLOSED: [2025-09-12 Fri 08:48] DEADLINE: <2025-09-12 Fri>
 - *OBJECTIVE:* Create a =backlog.note= to quickly open and choose =tasks= /to do/ next
 ** NEXT Clean up Backlogs :HOUSEKEEPING:
-DEADLINE: <2025-10-14 Tue>
+DEADLINE: <2025-10-15 Wed>
 - *OBJECTIVE:* Clean up and update =backlogs=
 ** PEND Implement Milestone Notes :STRUCTURE:
 - *OBJECTIVE:* View =milestone.note= in notes to keep track of =Goals=
@@ -242,7 +242,7 @@ DEADLINE: <2025-10-09 Thu> CLOSED: [2025-10-09 Thu 02:08]
 -----
 - *Reference:* [[https://orgmode.org/guide/Tags.html#Tag-groups-1][Orgmode Tag-Group @Org-wiki]]
 ** TODO Implement Note Sync :HOUSEKEEPING:notesync:
-DEADLINE: <2025-10-14 Tue>
+DEADLINE: <2025-10-15 Wed>
 - *OBJECTIVE:* Implement =note= sync command
 -----
 - *[NOTE]* taken on [2025-10-11 15:54]: \\
