@@ -208,12 +208,16 @@ CLOSED: [2025-10-05 Sun 19:21] DEADLINE: <2025-10-05 Sun>
 - *OBJECTIVE:* Migrate old =list.note=
 ** PEND More Detailed Logs :STRUCTURE:
 - *OBJECTIVE:* Separate =log.note= into smaller files for more fine tune query search
-** PEND Implement Item List :STRUCTURE:
+** DONE Implement Item List :STRUCTURE:
+CLOSED: [2025-10-15 Wed 22:31]
 - *OBJECTIVE:* Implement =item.note=
------
-- *[NOTE]* taken on [2025-09-23 22:51]: \\
+#+name:LOGBOOK
+#+html:<details><summary>LOGBOOK</summary>
+:LOGBOOK:
+- Note taken on [2025-09-23 22:51]: \\
   =item= notes are used to sync between notes without being outdated or have to re-define every time a repeating item is called
------
+:END:
+#+html:</details>
 ** WAIT Modular Notes Repos :GIT:STRUCTURE:
 - *OBJECTIVE:* Separate =notes= into smaller =repos=
 - *Visit:* [[id:0ac3ce98-9f59-468f-acfd-c494c879986b][Managing A Nested Git Project @Org]]
