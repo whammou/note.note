@@ -18,5 +18,5 @@ DEADLINE: <2025-10-07 Tue> CLOSED: [2025-10-07 Tue 23:27]
 DEADLINE: <2025-10-07 Tue> CLOSED: [2025-10-07 Tue 23:26]
 - *OBJECTIVE:* Translate /current keywords/ set to /uniform keywords set/
 ** TODO Index Note :INDEX:
-DEADLINE: <2025-10-29 Wed>
+DEADLINE: <2025-10-31 Fri>
 - *OBJECTIVE:* Create an =index.note= that contains all the =tags= object of a =topic=
