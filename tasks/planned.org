@@ -19,7 +19,7 @@ DEADLINE: <2025-10-07 Tue> CLOSED: [2025-10-07 Tue 23:26]
 - *OBJECTIVE:* Translate /current keywords/ set to /uniform keywords set/
 ** PEND Index Note :INDEX:
 - *OBJECTIVE:* Create an =index.note= that contains all the =tags= object of a =topic=
-** TODO Cleaning up Logs Script :HOUSEKEEPING:
+** DOIN Cleaning up Logs Script :HOUSEKEEPING:
 DEADLINE: <2025-11-02 Sun>
 - *OBJECTIVE:* Create a script to clean up =logs.note=
 #+name:LOGBOOK
@@ -31,3 +31,7 @@ DEADLINE: <2025-11-02 Sun>
 2. Copy new =log.org= from =template.note=
 :END:
 #+html:</details>
+*** NEXT Github Actions Script Runner :GITHUB:githubactions:
+- *OBJECTIVE:* Create runner of =cleanup script=
+- *Check-out:* [[id:cdd00540-67f5-4480-9c4f-32807ad84962][Github Actions Script @Org]]
+
