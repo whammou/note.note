@@ -19,8 +19,8 @@ DEADLINE: <2025-10-07 Tue> CLOSED: [2025-10-07 Tue 23:26]
 - *OBJECTIVE:* Translate /current keywords/ set to /uniform keywords set/
 ** PEND Index Note :INDEX:
 - *OBJECTIVE:* Create an =index.note= that contains all the =tags= object of a =topic=
-** DOIN Cleaning up Logs Script :HOUSEKEEPING:
-DEADLINE: <2025-11-05 Wed>
+** NEXT Cleaning up Logs Script :HOUSEKEEPING:
+DEADLINE: <2025-11-06 Thu>
 - *OBJECTIVE:* Create a script to clean up =logs.note=
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
