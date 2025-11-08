@@ -258,5 +258,5 @@ DEADLINE: <2025-10-11 Sat> CLOSED: [2025-10-11 Sat 22:12]
 - *[NOTE]* taken on [2025-10-11 22:11]: \\
   =orgzly= does not support =category= property search yet
 -----
-** Implement Reminder Note :STRUCTURE:
+** PEND Implement Reminder Note :STRUCTURE:
 - *OBJECTIVE:* Reminder notes are note that quick to deploy and short-lived
