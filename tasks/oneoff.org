@@ -244,13 +244,23 @@ DEADLINE: <2025-10-09 Thu> CLOSED: [2025-10-09 Thu 02:08]
   =orgmode.nvim= is currently *not* supported =tag groups=
 -----
 - *Reference:* [[https://orgmode.org/guide/Tags.html#Tag-groups-1][Orgmode Tag-Group @Org-wiki]]
-** PEND Implement Note Sync :HOUSEKEEPING:notesync:
-- *OBJECTIVE:* Implement =note= sync command
------
-- *[NOTE]* taken on [2025-10-11 15:54]: \\
+** TODO Implement Note Sync :HOUSEKEEPING:notesync:
+DEADLINE: <2025-11-10 Mon>
+#+name:LOGBOOK
+#+html:<details><summary>LOGBOOK</summary>
+:LOGBOOK:
+- Note taken on [2025-10-11 15:54]: \\
   =sync= command pull and push changes from remote. The command should run from =nvim= and from =terminal= (for =termnux=)
------
-- *Checkout:* [[id:f812d244-aaa5-49b1-9cca-c46d9474a24b][Automatize House Keeping @Org]]
+- Note taken on [2025-11-09 Sun 21:37] \\
+  Trying using =samba= and allow =symlinks= to pass through, the idea is:
+    + Making changes in the =repo= and keep in sync with the same =repo= over =samba=
+    + =git= push/pull to make changes on =github=
+:END:
+#+html:</details>
+- *OBJECTIVE:* Implement =note= sync command
+- *Checkout:*
+  + [[id:f812d244-aaa5-49b1-9cca-c46d9474a24b][Automatize House Keeping @Org]]
+  + [[id:038b7433-7aa0-425f-a718-0b1ef8fbc11f][Local Repos Sync @Org]]
 ** DONE Implement Note Category :STRUCTURE:
 DEADLINE: <2025-10-11 Sat> CLOSED: [2025-10-11 Sat 22:12]
 - *OBJECTIVE:* Implement note category
