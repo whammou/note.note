@@ -244,8 +244,8 @@ DEADLINE: <2025-10-09 Thu> CLOSED: [2025-10-09 Thu 02:08]
   =orgmode.nvim= is currently *not* supported =tag groups=
 -----
 - *Reference:* [[https://orgmode.org/guide/Tags.html#Tag-groups-1][Orgmode Tag-Group @Org-wiki]]
-** TODO Implement Note Sync :HOUSEKEEPING:notesync:
-DEADLINE: <2025-11-10 Mon>
+** NEXT Implement Note Sync :HOUSEKEEPING:notesync:
+DEADLINE: <2025-11-12 Wed>
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
 :LOGBOOK:

@@ -20,7 +20,7 @@ DEADLINE: <2025-10-07 Tue> CLOSED: [2025-10-07 Tue 23:26]
 ** PEND Index Note :INDEX:
 - *OBJECTIVE:* Create an =index.note= that contains all the =tags= object of a =topic=
 ** TODO Cleaning up Logs Script :HOUSEKEEPING:
-DEADLINE: <2025-11-10 Mon>
+DEADLINE: <2025-11-12 Wed>
 - *OBJECTIVE:* Create a script to clean up =logs.note=
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
@@ -35,10 +35,10 @@ DEADLINE: <2025-11-10 Mon>
 - *OBJECTIVE:* Create runner of =cleanup script=
 - *Check-out:* [[id:cdd00540-67f5-4480-9c4f-32807ad84962][Github Actions Script @Org]]
 ** NEXT Orgmode Server :HOMELAB:homelabsetup:
-DEADLINE: <2025-11-10 Mon>
+DEADLINE: <2025-11-12 Wed>
 - *OBJECTIVE:* Create a synchronous orgmode server and get real-time notification
   
-*** TODO Repo Sync :syncfiles:
-DEADLINE: <2025-11-10 Mon>
+*** DOIN Repo Sync :syncfiles:
+DEADLINE: <2025-11-12 Wed>
 - *OBJECTIVE:* Sync between server and machines
 - *Reference:* [[https://whhone.com/posts/webdav-syncthing/][Webdav Syncthing Setup @Blog]]
