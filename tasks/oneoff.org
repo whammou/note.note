@@ -244,11 +244,17 @@ DEADLINE: <2025-10-09 Thu> CLOSED: [2025-10-09 Thu 02:08]
   =orgmode.nvim= is currently *not* supported =tag groups=
 -----
 - *Reference:* [[https://orgmode.org/guide/Tags.html#Tag-groups-1][Orgmode Tag-Group @Org-wiki]]
-** NEXT Implement Note Sync :HOUSEKEEPING:notesync:
-DEADLINE: <2025-11-12 Wed>
+** DONE Implement Note Sync :HOUSEKEEPING:notesync:
+DEADLINE: <2025-11-12 Wed> CLOSED: [2025-11-12 Wed 16:38]
+:PROPERTIES:
+:ID: e895a35f-c6ca-46fe-b875-8cc1620b87b5
+:END:
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
 :LOGBOOK:
+- Note taken on [2025-11-12 Wed 16:34] \\
+  Auto sync local repo with remote using =unison= file sync through =ssh= socket
+    + Setup =systemd= service to trigger the =exec=
 - Note taken on [2025-10-11 15:54]: \\
   =sync= command pull and push changes from remote. The command should run from =nvim= and from =terminal= (for =termnux=)
 - Note taken on [2025-11-09 Sun 21:37] \\
@@ -258,6 +264,10 @@ DEADLINE: <2025-11-12 Wed>
 :END:
 #+html:</details>
 - *OBJECTIVE:* Implement =note= sync command
+  + Run-command:
+    #+BEGIN_SRC sh
+    unison -bach -repeat watch -auto dirA ssh://dns//path/to/dirB
+    #+END_SRC
 - *Checkout:*
   + [[id:f812d244-aaa5-49b1-9cca-c46d9474a24b][Automatize House Keeping @Org]]
   + [[id:038b7433-7aa0-425f-a718-0b1ef8fbc11f][Local Repos Sync @Org]]

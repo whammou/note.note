@@ -18,3 +18,10 @@ Draft items are subjected to change and refile!
 /Take note of workflow from/ [[https://whhone.com/posts/org-mode-task-management/][Orgmode Task Management @Blog]]
 ** OUTL Org Workflow with Org-Agenda :ORGMODE:WORKFLOW:
 /Take note from/ [[https://cachestocaches.com/2016/9/my-workflow-org-agenda/][My Workflow with Org-Agenda @Blog]]
+** OUTL Orgmode Server :ORGMODE:HOMELAB:
+DEADLINE: <2025-11-12 Wed>
+:PROPERTIES:
+:ID: e5c883ff-bea6-4853-9514-5fa3fb6a2c6e
+:END:
+/Setup of an orgmode server that distribute notification in real-time and process org-files/ \\
+/Check out:/ [[id:e895a35f-c6ca-46fe-b875-8cc1620b87b5][Implement Note Sync @Org]]
