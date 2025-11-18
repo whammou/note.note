@@ -42,3 +42,14 @@ CLOSED: [2025-10-07 Tue 23:26] DEADLINE: <2025-10-07 Tue>
 :END:
 - *OBJECTIVE:* Sync between server and machines
 - *Reference:* [[https://whhone.com/posts/webdav-syncthing/][Webdav Syncthing Setup @Blog]]
+** TODO Orgmode Nvim Server :ORGMODE:NVIM:notesync:
+DEADLINE: <2025-11-19 Wed 19:00>
+#+name:LOGBOOK
+#+html:<details><summary>LOGBOOK</summary>
+:LOGBOOK:
+- Note taken on [2025-11-18 10:50]: \\
+Sending =flags= using =nvim --remote= and =inotifywait=
+:END:
+#+html:</details>
+- *OBJECTIVE:* Send update =flag= to running =nvim-orgmode= instances
+- *Check-out:* [[id:4c0ff61f-ac64-4d0f-a0ae-fec60a75aad1][Establish Nvim Server and Client @Org]]
