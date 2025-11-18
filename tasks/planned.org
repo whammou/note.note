@@ -20,7 +20,6 @@ CLOSED: [2025-10-07 Tue 23:26] DEADLINE: <2025-10-07 Tue>
 ** PEND Index Note :INDEX:
 - *OBJECTIVE:* Create an =index.note= that contains all the =tags= object of a =topic=
 ** TODO Cleaning up Logs Script :HOUSEKEEPING:
-DEADLINE: <2025-11-12 Wed>
 - *OBJECTIVE:* Create a script to clean up =logs.note=
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
@@ -35,11 +34,9 @@ DEADLINE: <2025-11-12 Wed>
 - *OBJECTIVE:* Create runner of =cleanup script=
 - *Check-out:* [[id:cdd00540-67f5-4480-9c4f-32807ad84962][Github Actions Script @Org]]
 ** DOIN Orgmode Server :HOMELAB:homelabsetup:notesync:
-DEADLINE: <2025-11-12 Wed 20:30>
 - *OBJECTIVE:* Create a synchronous orgmode server and get real-time notification
 - *Visit:* [[id:e5c883ff-bea6-4853-9514-5fa3fb6a2c6e][Orgmode Server @Org]]
 *** DOIN Repo Sync :syncfiles:notesync:
-DEADLINE: <2025-11-12 Wed 20:15>
 :PROPERTIES:
 :ID: b42b9f9b-d686-439c-bd76-6082787b0e99
 :END:
