@@ -42,14 +42,42 @@ CLOSED: [2025-10-07 Tue 23:26] DEADLINE: <2025-10-07 Tue>
 :END:
 - *OBJECTIVE:* Sync between server and machines
 - *Reference:* [[https://whhone.com/posts/webdav-syncthing/][Webdav Syncthing Setup @Blog]]
-** TODO Orgmode Nvim Server :ORGMODE:NVIM:notesync:
+** WAIT Orgmode Nvim Auto-update :ORGMODE:NVIM:notesync:
 DEADLINE: <2025-11-19 Wed 19:00>
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
 :LOGBOOK:
-- Note taken on [2025-11-18 10:50]: \\
-Sending =flags= using =nvim --remote= and =inotifywait=
+- Note taken on [2025-11-19 Wed 00:52] \\
+  Only 1 =server= per =socket=. Thus create multiple =sockets= and group them together
+  - Run =nvim --remote-send= to server =group= requires =script=
+- Note taken on [2025-11-18 10:50] \\
+  Sending =flags= using =nvim --remote= and =inotifywait=
 :END:
 #+html:</details>
 - *OBJECTIVE:* Send update =flag= to running =nvim-orgmode= instances
-- *Check-out:* [[id:4c0ff61f-ac64-4d0f-a0ae-fec60a75aad1][Establish Nvim Server and Client @Org]]
+*** DOIN Running Orgmode Server
+DEADLINE: <2025-11-19 Wed 01:35>
+#+name:LOGBOOK
+#+html:<details><summary>LOGBOOK</summary>
+:LOGBOOK:
+- Note taken on [2025-11-19 Wed 01:04] \\
+  =nvim= socket for =orgmode= will have the format =nvim-orgmode-*.socket= and placed in =/run/user/1000/=
+  - Matching the socket, use =regex= pattern of =nvim-orgmode-*.socket= will list out every /sockets/ in designated /directory/
+:END:
+#+html:</details>
+- *OBJECTIVE:* Using the same principle as =nvim-server= to create an =orgmode-server=
+- *Check-out:* [[id:ec0dd744-b94a-4403-8045-7c695693bb7b][Running Nvim Server @Org]]
+*** DOIN Connect to Orgmode Server
+DEADLINE: <2025-11-19 Wed 01:30>
+#+name:LOGBOOK
+#+html:<details><summary>LOGBOOK</summary>
+:LOGBOOK:
+- Note taken on [2025-11-19 Wed 01:09] \\
+  Designate every new =org= instances to listen to =nvim-orgmode.socket= /org-server/
+  - Distribute command under ={keys}= using =nvim --remote-send {keys}=
+    + ={keys}= press simulation acts just that of =tmux=
+  - =inotifywait= can be used to create /timed/ update event /(e.g. on file modificatin)/
+:END:
+#+html:</details>
+- *OBJECTIVE:* Successfully connect to =nvim-orgmode-server=
+- *Check-out:* [[id:f27a4dad-0408-48b7-80bb-5e2667f9e3c2][Nvim Auto Connect @Org]]
