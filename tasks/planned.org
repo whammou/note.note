@@ -42,8 +42,8 @@ CLOSED: [2025-10-07 Tue 23:26] DEADLINE: <2025-10-07 Tue>
 :END:
 - *OBJECTIVE:* Sync between server and machines
 - *Reference:* [[https://whhone.com/posts/webdav-syncthing/][Webdav Syncthing Setup @Blog]]
-** WAIT Orgmode Nvim Auto-update :ORGMODE:NVIM:notesync:
-DEADLINE: <2025-11-19 Wed 19:00>
+** RVIW Orgmode Nvim Auto-update :ORGMODE:NVIM:notesync:filesync:
+DEADLINE: <2025-11-19 Wed 19:00> CLOSED: [2025-11-19 Wed 01:25]
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
 :LOGBOOK:
@@ -55,8 +55,8 @@ DEADLINE: <2025-11-19 Wed 19:00>
 :END:
 #+html:</details>
 - *OBJECTIVE:* Send update =flag= to running =nvim-orgmode= instances
-*** DOIN Running Orgmode Server
-DEADLINE: <2025-11-19 Wed 01:35>
+*** RVIW Running Orgmode Server
+DEADLINE: <2025-11-19 Wed 01:35> CLOSED: [2025-11-19 Wed 01:25]
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
 :LOGBOOK:
@@ -67,8 +67,8 @@ DEADLINE: <2025-11-19 Wed 01:35>
 #+html:</details>
 - *OBJECTIVE:* Using the same principle as =nvim-server= to create an =orgmode-server=
 - *Check-out:* [[id:ec0dd744-b94a-4403-8045-7c695693bb7b][Running Nvim Server @Org]]
-*** DOIN Connect to Orgmode Server
-DEADLINE: <2025-11-19 Wed 01:30>
+*** RVIW Connect to Orgmode Server
+DEADLINE: <2025-11-19 Wed 01:30> CLOSED: [2025-11-19 Wed 01:25]
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
 :LOGBOOK:
