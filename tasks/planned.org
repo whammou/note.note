@@ -92,10 +92,10 @@ CLOSED: [2025-11-19 Wed 05:41] DEADLINE: <2025-11-19 Wed 05:10>
 :END:
 #+html:</details>
 - *OBJECTIVE:* Toggle show/hide for =log.note= files
-** NEXT Trigger Update via Notification :NTFY:notesync:
-DEADLINE: <2025-11-19 Wed 19:30>
+** DONE Trigger Update via Notification :NTFY:notesync:
+DEADLINE: <2025-11-19 Wed 19:30> CLOSED: [2025-11-19 Wed 21:17]
 - *OBJECTIVE:* Trigger Buffer Update via ntfy-notification
-*** TODO Test =inotifywait= Triggers With =webdav= :WEBDAV:INOTIFY:
-DEADLINE: <2025-11-19 Wed 19:00>
+*** DONE Test =inotifywait= Triggers With =webdav= :WEBDAV:INOTIFY:
+DEADLINE: <2025-11-19 Wed 19:00> CLOSED: [2025-11-19 Wed 21:17]
 - *OBJECTIVE:* Test if modification done via =webdav= triggers file-change =event= managed by =inotify=
 - *Reference:* [[https://www.linuxbash.sh/post/use-inotifywait-to-trigger-actions-on-file-changes][Trigger actions on file change @Linux-bash]]
