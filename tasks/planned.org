@@ -38,12 +38,12 @@ CLOSED: [2025-10-07 Tue 23:26] DEADLINE: <2025-10-07 Tue>
 - *Visit:* [[id:e5c883ff-bea6-4853-9514-5fa3fb6a2c6e][Orgmode Server @Org]]
 *** DOIN Repo Sync :syncfiles:notesync:
 :PROPERTIES:
-:ID: b42b9f9b-d686-439c-bd76-6082787b0e99
+:ID:       b42b9f9b-d686-439c-bd76-6082787b0e99
 :END:
 - *OBJECTIVE:* Sync between server and machines
 - *Reference:* [[https://whhone.com/posts/webdav-syncthing/][Webdav Syncthing Setup @Blog]]
 ** RVIW Orgmode Nvim Auto-update :ORGMODE:NVIM:notesync:filesync:
-DEADLINE: <2025-11-19 Wed 19:00> CLOSED: [2025-11-19 Wed 01:25]
+CLOSED: [2025-11-19 Wed 01:25] DEADLINE: <2025-11-19 Wed 19:00>
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
 :LOGBOOK:
@@ -56,7 +56,7 @@ DEADLINE: <2025-11-19 Wed 19:00> CLOSED: [2025-11-19 Wed 01:25]
 #+html:</details>
 - *OBJECTIVE:* Send update =flag= to running =nvim-orgmode= instances
 *** RVIW Running Orgmode Server
-DEADLINE: <2025-11-19 Wed 01:35> CLOSED: [2025-11-19 Wed 01:25]
+CLOSED: [2025-11-19 Wed 01:25] DEADLINE: <2025-11-19 Wed 01:35>
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
 :LOGBOOK:
@@ -68,7 +68,7 @@ DEADLINE: <2025-11-19 Wed 01:35> CLOSED: [2025-11-19 Wed 01:25]
 - *OBJECTIVE:* Using the same principle as =nvim-server= to create an =orgmode-server=
 - *Check-out:* [[id:ec0dd744-b94a-4403-8045-7c695693bb7b][Running Nvim Server @Org]]
 *** RVIW Connect to Orgmode Server
-DEADLINE: <2025-11-19 Wed 01:30> CLOSED: [2025-11-19 Wed 01:25]
+CLOSED: [2025-11-19 Wed 01:25] DEADLINE: <2025-11-19 Wed 01:30>
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
 :LOGBOOK:
@@ -81,3 +81,21 @@ DEADLINE: <2025-11-19 Wed 01:30> CLOSED: [2025-11-19 Wed 01:25]
 #+html:</details>
 - *OBJECTIVE:* Successfully connect to =nvim-orgmode-server=
 - *Check-out:* [[id:f27a4dad-0408-48b7-80bb-5e2667f9e3c2][Nvim Auto Connect @Org]]
+** DONE Toggle Log Files :ORGMODE:notestructure:
+CLOSED: [2025-11-19 Wed 05:41] DEADLINE: <2025-11-19 Wed 05:10>
+#+name:LOGBOOK
+#+html:<details><summary>LOGBOOK</summary>
+:LOGBOOK:
+- Note taken on [2025-11-19 Wed 05:08] \\
+  - *nvim-orgmode* =agenda= query does not include =.hidden-files= by default
+  - Thus we can choose to when to show log by including the =.hidden-files=
+:END:
+#+html:</details>
+- *OBJECTIVE:* Toggle show/hide for =log.note= files
+** NEXT Trigger Update via Notification :NTFY:notesync:
+DEADLINE: <2025-11-19 Wed 19:30>
+- *OBJECTIVE:* Trigger Buffer Update via ntfy-notification
+*** TODO Test =inotifywait= Triggers With =webdav= :WEBDAV:INOTIFY:
+DEADLINE: <2025-11-19 Wed 19:00>
+- *OBJECTIVE:* Test if modification done via =webdav= triggers file-change =event= managed by =inotify=
+- *Reference:* [[https://www.linuxbash.sh/post/use-inotifywait-to-trigger-actions-on-file-changes][Trigger actions on file change @Linux-bash]]

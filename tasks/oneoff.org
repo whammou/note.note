@@ -278,5 +278,13 @@ DEADLINE: <2025-10-11 Sat> CLOSED: [2025-10-11 Sat 22:12]
 - *[NOTE]* taken on [2025-10-11 22:11]: \\
   =orgzly= does not support =category= property search yet
 -----
-** PEND Implement Reminder Note :STRUCTURE:
+** DONE Implement Reminder Note :STRUCTURE:
+DEADLINE: <2025-11-19 Wed> CLOSED: [2025-11-19 Wed 08:38]
+#+name:LOGBOOK
+#+html:<details><summary>LOGBOOK</summary>
+:LOGBOOK:
+- Note taken on [2025-11-19 Wed 08:38] \\
+  Using =oneoff.note= as =reminder.note= and =planned.note= as =oneoff.note=
+:END:
+#+html:</details>
 - *OBJECTIVE:* Reminder notes are note that quick to deploy and short-lived
