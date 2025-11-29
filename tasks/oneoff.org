@@ -288,6 +288,6 @@ DEADLINE: <2025-11-19 Wed> CLOSED: [2025-11-19 Wed 08:38]
 :END:
 #+html:</details>
 - *OBJECTIVE:* Reminder notes are note that quick to deploy and short-lived
-** TODO Finish Drafts
+** DOIN Finish Drafts
 DEADLINE: <2025-11-29 Sat 18:00>
 - *OBJECTIVE:* Finish up unfinished =draft.note=
