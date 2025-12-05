@@ -291,7 +291,7 @@ DEADLINE: <2025-11-19 Wed> CLOSED: [2025-11-19 Wed 08:38]
 ** DOIN Finish Drafts
 DEADLINE: <2025-12-05 Fri 18:00>
 - *OBJECTIVE:* Finish up unfinished =draft.note=
-** TODO Create Journal Commit Service :SYSTEMD:gitcommit:
-DEADLINE: <2025-12-05 Fri 19:00>
+** DONE Create Journal Commit Service :SYSTEMD:gitcommit:
+DEADLINE: <2025-12-05 Fri 19:00> CLOSED: [2025-12-05 Fri 17:41]
 - *OBJECTIVE:* Auto commit repo hourly
 - *Visit:* [[id:865d441c-cf38-489d-9144-237aaecfcd6d][Git Commit Hourly @Org]]
