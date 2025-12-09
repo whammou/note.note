@@ -233,11 +233,11 @@ CLOSED: [2025-09-30 Tue 20:31] DEADLINE: <2025-09-30 Tue>
 - *OBJECTIVE:* Hosting =assets= on /Google Drive/ with shareable links
 - [[https://ao.bloat.cat/exchange/stackoverflow.com/questions/52063556/add-image-to-github-readme-md-from-google-drive][Github README images from goole drive @Overflow]]
 ** DONE Implement Recurring Keywords :KEYWORD:
-DEADLINE: <2025-10-08 Wed> CLOSED: [2025-10-08 Wed 16:47]
+CLOSED: [2025-10-08 Wed 16:47] DEADLINE: <2025-10-08 Wed>
 - *OBJECTIVE:* Add Recurring keywords =recurring.task=
 - *Reference:* [[https://nvim-orgmode.github.io/configuration#org_todo_repeat_to_state][Nvim-orgmode repeat to state @Github]]
 ** ABRT Test Group Tag
-DEADLINE: <2025-10-09 Thu> CLOSED: [2025-10-09 Thu 02:08]
+CLOSED: [2025-10-09 Thu 02:08] DEADLINE: <2025-10-09 Thu>
 - *OBJECTIVE:* Test =tag-group= in =nvim-orgmode=
 -----
 - *[NOTE]* taken on [2025-10-09 02:07]: \\
@@ -245,9 +245,9 @@ DEADLINE: <2025-10-09 Thu> CLOSED: [2025-10-09 Thu 02:08]
 -----
 - *Reference:* [[https://orgmode.org/guide/Tags.html#Tag-groups-1][Orgmode Tag-Group @Org-wiki]]
 ** DONE Implement Note Sync :HOUSEKEEPING:notesync:
-DEADLINE: <2025-11-12 Wed> CLOSED: [2025-11-12 Wed 16:38]
+CLOSED: [2025-11-12 Wed 16:38] DEADLINE: <2025-11-12 Wed>
 :PROPERTIES:
-:ID: e895a35f-c6ca-46fe-b875-8cc1620b87b5
+:ID:       e895a35f-c6ca-46fe-b875-8cc1620b87b5
 :END:
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
@@ -272,14 +272,14 @@ DEADLINE: <2025-11-12 Wed> CLOSED: [2025-11-12 Wed 16:38]
   + [[id:f812d244-aaa5-49b1-9cca-c46d9474a24b][Automatize House Keeping @Org]]
   + [[id:038b7433-7aa0-425f-a718-0b1ef8fbc11f][Local Repos Sync @Org]]
 ** DONE Implement Note Category :STRUCTURE:
-DEADLINE: <2025-10-11 Sat> CLOSED: [2025-10-11 Sat 22:12]
+CLOSED: [2025-10-11 Sat 22:12] DEADLINE: <2025-10-11 Sat>
 - *OBJECTIVE:* Implement note category
 -----
 - *[NOTE]* taken on [2025-10-11 22:11]: \\
   =orgzly= does not support =category= property search yet
 -----
 ** DONE Implement Reminder Note :STRUCTURE:
-DEADLINE: <2025-11-19 Wed> CLOSED: [2025-11-19 Wed 08:38]
+CLOSED: [2025-11-19 Wed 08:38] DEADLINE: <2025-11-19 Wed>
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
 :LOGBOOK:
@@ -289,9 +289,9 @@ DEADLINE: <2025-11-19 Wed> CLOSED: [2025-11-19 Wed 08:38]
 #+html:</details>
 - *OBJECTIVE:* Reminder notes are note that quick to deploy and short-lived
 ** DOIN Finish Drafts
-DEADLINE: <2025-12-08 Mon 18:00>
+DEADLINE: <2025-12-09 Tue 18:00>
 - *OBJECTIVE:* Finish up unfinished =draft.note=
 ** DONE Create Journal Commit Service :SYSTEMD:gitcommit:
-DEADLINE: <2025-12-05 Fri 19:00> CLOSED: [2025-12-05 Fri 17:41]
+CLOSED: [2025-12-05 Fri 17:41] DEADLINE: <2025-12-05 Fri 19:00>
 - *OBJECTIVE:* Auto commit repo hourly
 - *Visit:* [[id:865d441c-cf38-489d-9144-237aaecfcd6d][Git Commit Hourly @Org]]
