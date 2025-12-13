@@ -289,7 +289,7 @@ CLOSED: [2025-11-19 Wed 08:38] DEADLINE: <2025-11-19 Wed>
 #+html:</details>
 - *OBJECTIVE:* Reminder notes are note that quick to deploy and short-lived
 ** DOIN Finish Drafts
-DEADLINE: <2025-12-12 Fri 18:00>
+DEADLINE: <2025-12-13 Sat 18:00>
 - *OBJECTIVE:* Finish up unfinished =draft.note=
 ** DONE Create Journal Commit Service :SYSTEMD:gitcommit:
 CLOSED: [2025-12-05 Fri 17:41] DEADLINE: <2025-12-05 Fri 19:00>
