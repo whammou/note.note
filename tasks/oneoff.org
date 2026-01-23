@@ -186,7 +186,6 @@ CLOSED: [2025-09-12 Fri 03:43] DEADLINE: <2025-09-12 Fri>
 -----
 ** EXPL Change CSS style :STYLE:
 - *OBJECTIVE:* Add css style to note export
-  w
 - *Reference:*
   + [[https://github.com/a-dma/gruvbox-css][Gruvbox css style html @Github]]
   + [[https://orgmode.org/manual/CSS-support.html][Orgmode CSS Support @Org-doc]]
