@@ -25,11 +25,25 @@ DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 13:53]
 :ID: 3057de0a-69c4-46c5-b2b9-cb92287fcf39
 :END:
 - *OBJECTIVE:*  Update =tasks.note= capture to include =uuid=
-** TODO Update Orgmode Templates :TEMPLATE:
-DEADLINE: <2026-02-05 Thu>
+** DONE Update Orgmode Templates :TEMPLATE:
+DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 15:39]
 :PROPERTIES:
 :ID: 7468fc68-251b-499c-a7f3-4547c4f024c7
 :END:
-- *OBJECTIVE:*  Update =templates= and =snippet= for orgmode
+- *OBJECTIVE:*  Update =templates= for orgmode
 - *Visit:*      [[id:3057de0a-69c4-46c5-b2b9-cb92287fcf39][Note Capture Add UUID @Org]]
-  
+** DONE Update Orgmode Snippets :SNIPPET:
+DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 15:48]
+:PROPERTIES:
+:ID: b86a8e51-a3fe-4509-91e3-6c9f985fff89
+:END:
+#+name:LOGBOOK
+#+html:<details><summary>LOGBOOK</summary>
+:LOGBOOK:
+- Note taken on [2026-02-05 Thu 15:47] \\
+  Using =orgmode.link-store= to add =uuid= to current headline
+:END:
+#+html:</details>
+- *OBJECTIVE:*  Manage =snippets= for =orgmode=
+- *Visit:*       [[id:3057de0a-69c4-46c5-b2b9-cb92287fcf39][Note Capture Add UUID @Org]]
+
