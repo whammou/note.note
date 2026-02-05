@@ -19,3 +19,17 @@ DEADLINE: <2026-02-05 Thu>
 *** TODO Implement Task-tracking Notes
 DEADLINE: <2026-02-05 Thu>
 - *OBJECTIVE:*  Implement =track.note= for complicated =tasks.note=
+** DONE Note Capture Add UUID :TEMPLATE:
+DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 13:53]
+:PROPERTIES:
+:ID: 3057de0a-69c4-46c5-b2b9-cb92287fcf39
+:END:
+- *OBJECTIVE:*  Update =tasks.note= capture to include =uuid=
+** TODO Update Orgmode Templates :TEMPLATE:
+DEADLINE: <2026-02-05 Thu>
+:PROPERTIES:
+:ID: 7468fc68-251b-499c-a7f3-4547c4f024c7
+:END:
+- *OBJECTIVE:*  Update =templates= and =snippet= for orgmode
+- *Visit:*      [[id:3057de0a-69c4-46c5-b2b9-cb92287fcf39][Note Capture Add UUID @Org]]
+  
