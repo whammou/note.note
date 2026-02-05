@@ -194,8 +194,6 @@ CLOSED: [2025-09-12 Fri 08:48] DEADLINE: <2025-09-12 Fri>
 - *OBJECTIVE:* Create a =backlog.note= to quickly open and choose =tasks= /to do/ next
 ** TODO Clean up Backlogs :HOUSEKEEPING:
 - *OBJECTIVE:* Clean up and update =backlogs=
-** PEND Implement Milestone Notes :STRUCTURE:
-- *OBJECTIVE:* View =milestone.note= in notes to keep track of =Goals=
 ** PEND Capture Assets :ASSET:
 - *OBJECTIVE:* Capture and resize assets to note
 - *Checkout:*

@@ -13,3 +13,9 @@ CLOSED: [2025-08-12 Tue 10:26] DEADLINE: <2025-08-12 Tue>
   To enforce a line break within a paragraph use =\\= at the end of the line
 -----
 - *Reference:* [[https://orgmode.org/manual/Paragraphs.html][Org Paragraph @Orgmode-doc]]
+** NEXT Implement Milestone Notes :STRUCTURE:
+DEADLINE: <2026-02-05 Thu>
+- *OBJECTIVE:* View =milestone.note= in notes to keep track of =Goals=
+*** TODO Implement Task-tracking Notes
+DEADLINE: <2026-02-05 Thu>
+- *OBJECTIVE:*  Implement =track.note= for complicated =tasks.note=
