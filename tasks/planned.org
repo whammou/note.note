@@ -30,16 +30,25 @@ CLOSED: [2025-10-07 Tue 23:26] DEADLINE: <2025-10-07 Tue>
 2. Copy new =log.org= from =template.note=
 :END:
 #+html:</details>
-*** NEXT Github Actions Script Runner :GITHUB:githubactions:
+*** PEND Github Actions Script Runner :GITHUB:githubactions:
 - *OBJECTIVE:* Create runner of =cleanup script=
 - *Check-out:* [[id:cdd00540-67f5-4480-9c4f-32807ad84962][Github Actions Script @Org]]
-** TODO Initiate Orgmode Server :HOMELAB:homelabsetup:notesync:
+** DONE Initiate Orgmode Server :HOMELAB:homelabsetup:notesync:
+CLOSED: [2026-02-09 Mon 20:53]
 - *OBJECTIVE:* Create a synchronous orgmode server and get real-time notification
 - *Visit:* [[id:e5c883ff-bea6-4853-9514-5fa3fb6a2c6e][Orgmode Server @Org]]
-*** DOIN Repo Sync :syncfiles:notesync:
+*** DONE Repo Sync :syncfiles:notesync:
+CLOSED: [2026-02-09 Mon 20:58]
 :PROPERTIES:
 :ID:       b42b9f9b-d686-439c-bd76-6082787b0e99
 :END:
+#+name:LOGBOOK
+#+html:<details><summary>LOGBOOK</summary>
+:LOGBOOK:
+- Note taken on [2026-02-09 Mon 20:54] \\
+  Syncing repos using =unison=
+:END:
+#+html:</details>
 - *OBJECTIVE:* Sync between server and machines
 - *Reference:* [[https://whhone.com/posts/webdav-syncthing/][Webdav Syncthing Setup @Blog]]
 ** RVIW Orgmode Nvim Auto-update :ORGMODE:NVIM:notesync:filesync:
