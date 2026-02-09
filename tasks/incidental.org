@@ -14,10 +14,10 @@ CLOSED: [2025-08-12 Tue 10:26] DEADLINE: <2025-08-12 Tue>
 -----
 - *Reference:* [[https://orgmode.org/manual/Paragraphs.html][Org Paragraph @Orgmode-doc]]
 ** NEXT Implement Milestone Notes :STRUCTURE:
-DEADLINE: <2026-02-08 Sun>
+DEADLINE: <2026-02-09 Mon>
 - *OBJECTIVE:* View =milestone.note= in notes to keep track of =Goals=
 *** TODO Implement Task-tracking Notes
-DEADLINE: <2026-02-08 Sun>
+DEADLINE: <2026-02-09 Mon>
 - *OBJECTIVE:*  Implement =track.note= for complicated =tasks.note=
 ** DONE Note Capture Add UUID :TEMPLATE:
 DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 13:53]
