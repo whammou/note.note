@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 347a2846-38d7-4920-98b0-d37c47724f6c
+:END:
+#+TITLE: Implementing Task Tracker Note
+
+#+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
+#+FILETAGS: :TRACKER:META:NOTE:STRUCTURE:
+#+HTML:<details>
+
+* OPEN Implementing Task Tracker Note :TRACKER:META:NOTE:STRUCTURE:
+#+HTML:</details>
+Creating a =tracker.note= for better tasks tracking and eliminate the needs to creating =sub-tasks=

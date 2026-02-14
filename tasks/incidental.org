@@ -25,6 +25,7 @@ DEADLINE: <2026-02-10 Tue>
 :ID: 1df74197-c9c6-4b13-83cf-15a8f94d830a
 :END:
 - *OBJECTIVE:*  Implement =track.note= for complicated =tasks.note=
+- *Tracker:*    [[id:347a2846-38d7-4920-98b0-d37c47724f6c][Implementing Task Tracker Note @Tracker]]
 ** DONE Note Capture Add UUID :TEMPLATE:
 DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 13:53]
 :PROPERTIES:
