@@ -12,3 +12,8 @@
 * OPEN Implementing Task Tracker Note :TRACKER:META:NOTE:STRUCTURE:
 #+HTML:</details>
 Creating a =tracker.note= for better tasks tracking and eliminate the needs to creating =sub-tasks=
+** Task Tracker Agenda
+:PROPERTIES:
+:ID: ece2e0ca-c8b5-488f-80dd-58ceec757a0d
+:END:
+Monitoring =tracker.note= with =org_agenda=
