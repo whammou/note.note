@@ -108,11 +108,10 @@ DEADLINE: <2025-11-19 Wed 19:30> CLOSED: [2025-11-19 Wed 21:17]
 DEADLINE: <2025-11-19 Wed 19:00> CLOSED: [2025-11-19 Wed 21:17]
 - *OBJECTIVE:* Test if modification done via =webdav= triggers file-change =event= managed by =inotify=
 - *Reference:* [[https://www.linuxbash.sh/post/use-inotifywait-to-trigger-actions-on-file-changes][Trigger actions on file change @Linux-bash]]
-** TODO Task Tracker Agenda :ORGMODE:org_agenda:
-DEADLINE: <2026-02-15 Sun>
+** TODO Create Task Tracker Agenda :ORGMODE:org_agenda:
+DEADLINE: <2026-02-15 Sun 20:30>
 :PROPERTIES:
 :ID: 1695c157-867c-4401-9def-e2656442fac6
 :END:
 - *OBJECTIVE:*  Create =org_agenda= template for monitoring =tracker.note=
 - *Tracker:*    [[id:ece2e0ca-c8b5-488f-80dd-58ceec757a0d][Task Tracker Agenda @Tracker]]
-  
