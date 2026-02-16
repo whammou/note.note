@@ -19,8 +19,8 @@ DEADLINE: <2026-02-10 Tue>
 :ID: e24bcb83-9333-4bb8-a538-9ecdd2844c97
 :END:
 - *OBJECTIVE:* View =milestone.note= in notes to keep track of =Goals=
-*** DOIN Implement Task-tracking Notes
-DEADLINE: <2026-02-15 Sun 20:00>
+*** DONE Implement Task-tracking Notes
+DEADLINE: <2026-02-15 Sun 20:00> CLOSED: [2026-02-16 Mon 23:22]
 :PROPERTIES:
 :ID: 1df74197-c9c6-4b13-83cf-15a8f94d830a
 :END:
