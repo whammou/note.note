@@ -22,3 +22,8 @@ Monitoring =tracker.note= with =org_agenda=
 :ID: 495bb16e-db11-4ee3-b754-2fb9db54dfc8
 :END:
 Open kitty =session= with pre-defined layouts
+*** Execute Hardcoded Script in Kitty Session
+:PROPERTIES:
+:ID: 3511cb38-19ae-4b99-aee0-de325a82b579
+:END:
+How to execute a script via kitty session without creating a =binary=
