@@ -17,3 +17,8 @@ Creating a =tracker.note= for better tasks tracking and eliminate the needs to c
 :ID: ece2e0ca-c8b5-488f-80dd-58ceec757a0d
 :END:
 Monitoring =tracker.note= with =org_agenda=
+** Executing Tracker Note via Kitty
+:PROPERTIES:
+:ID: 495bb16e-db11-4ee3-b754-2fb9db54dfc8
+:END:
+Open kitty =session= with pre-defined layouts
