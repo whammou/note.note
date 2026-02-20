@@ -22,6 +22,15 @@ Monitoring =tracker.note= with =org_agenda=
 :ID: 495bb16e-db11-4ee3-b754-2fb9db54dfc8
 :END:
 Open kitty =session= with pre-defined layouts
+- Example =session= file:
+  #+BEGIN_SRC confini
+  layout tall
+  cd /home/whammou/Workspace/kitty-session
+  launch orgmode-agenda
+  launch orgmode-tracker
+  new_tab
+  launch orgmode-browse
+  #+END_SRC
 *** Execute Hardcoded Script in Kitty Session
 :PROPERTIES:
 :ID: 3511cb38-19ae-4b99-aee0-de325a82b579

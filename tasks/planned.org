@@ -115,3 +115,11 @@ DEADLINE: <2026-02-15 Sun 20:30> CLOSED: [2026-02-19 Thu 22:04]
 :END:
 - *OBJECTIVE:*  Create =org_agenda= template for monitoring =tracker.note=
 - *Tracker:*    [[id:ece2e0ca-c8b5-488f-80dd-58ceec757a0d][Task Tracker Agenda @Tracker]]
+** NEXT Improve Archive :NVIM:ORGMODE:
+DEADLINE: <2026-02-20 Fri>
+:PROPERTIES:
+:ID: fe0ba4ec-c186-4ec4-8a92-3c25052eb79a
+:END:
+- *OBJECTIVE:*  Improving =archive= notes for future reference and cleanup current workspace
+- *Reference:*  [[https://nvim-orgmode.github.io/configuration#org_archive_location][Nvim-orgmode archive location @Github]]
+- *Tracker:*    [[id:ee10580f-462e-4bf2-a31a-241adc1e195f][Orgmode Archive @Tracker]]
