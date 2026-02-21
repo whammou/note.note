@@ -1,5 +1,4 @@
 :PROPERTIES:
-ty
 :ID: ee10580f-462e-4bf2-a31a-241adc1e195f
 :END:
 #+TITLE: Orgmode Archive
