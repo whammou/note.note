@@ -54,7 +54,7 @@ DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 15:48]
 - *OBJECTIVE:*  Manage =snippets= for =orgmode=
 - *Visit:*       [[id:3057de0a-69c4-46c5-b2b9-cb92287fcf39][Note Capture Add UUID @Org]]
 ** TODO Remove Note Latex Header :PANDOC:ORGMODE:STRUCTURE:
-DEADLINE: <2026-02-18 Wed>
+DEADLINE: <2026-02-21 Sat>
 :PROPERTIES:
 :ID: 8a7e0ad8-a4f9-46f7-831d-ecbd858263ff
 :END:

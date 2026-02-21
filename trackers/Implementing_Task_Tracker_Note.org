@@ -36,3 +36,13 @@ Open kitty =session= with pre-defined layouts
 :ID: 3511cb38-19ae-4b99-aee0-de325a82b579
 :END:
 How to execute a script via kitty session without creating a =binary=
+** Rework Tracker Template :NVIM:ORGMODE:
+:PROPERTIES:
+:ID: 56d5a31c-31e6-44ab-8f88-2373e2662bb8
+:END:
+Current =templates= create issue when archiving due to =orgmode_archive= does not select whole file for archiving instead just the =headlines= and =sub-headlines=
+*** Generate Template via Lua Module :LUA:
+:PROPERTIES:
+:ID: 7f5f7885-73c0-434a-a5dc-45217948c0a3
+:END:
+
