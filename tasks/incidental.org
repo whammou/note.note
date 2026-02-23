@@ -60,4 +60,3 @@ DEADLINE: <2026-02-21 Sat>
 :END:
 - *OBJECTIVE:*  Remove current =latex= hardcoded =header= and replace with with =pandoc= include header
 - *Reference:*  [[https://pandoc.org/MANUAL.html][Pandoc Manual @Doc]]
-  
