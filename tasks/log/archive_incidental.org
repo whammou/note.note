@@ -1,5 +1,5 @@
-* TODO Testing Orgmode Property Inheritance :ORGMODE:STRUCTURE:
-DEADLINE: <2026-02-23 Mon>
+* DONE Testing Orgmode Property Inheritance :ORGMODE:STRUCTURE:
+DEADLINE: <2026-02-23 Mon> CLOSED: [2026-02-25 Wed 20:44]
 :PROPERTIES:
 :ID: 73722436-9e43-4252-aa26-d23b4cad14dd
 :TYPE: Task
@@ -10,8 +10,8 @@ DEADLINE: <2026-02-23 Mon>
 :ARCHIVE_TODO: TODO
 :END:
 - *OBJECTIVE:*  Orgmode inheritance when using =archive=
-** TODO Sub-headline Inheritance
-DEADLINE: <2026-02-23 Mon>
+** DONE Sub-headline Inheritance
+DEADLINE: <2026-02-23 Mon> CLOSED: [2026-02-25 Wed 20:44]
 :PROPERTIES:
 :ID: a4e2577f-b38b-4198-b280-1b7ca638c18e
 :END:
