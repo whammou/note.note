@@ -31,7 +31,8 @@ Open kitty =session= with pre-defined layouts
   new_tab
   launch orgmode-browse
   #+END_SRC
-*** Execute Hardcoded Script in Kitty Session
+*** DONE Execute Hardcoded Script in Kitty Session
+CLOSED: [2026-02-26 Thu 18:56]
 :PROPERTIES:
 :ID: 3511cb38-19ae-4b99-aee0-de325a82b579
 :END:

@@ -115,7 +115,7 @@ DEADLINE: <2026-02-15 Sun 20:30> CLOSED: [2026-02-19 Thu 22:04]
 :END:
 - *OBJECTIVE:*  Create =org_agenda= template for monitoring =tracker.note=
 - *Tracker:*    [[id:ece2e0ca-c8b5-488f-80dd-58ceec757a0d][Task Tracker Agenda @Tracker]]
-** NEXT Improve Archive :NVIM:ORGMODE:
+** DOIN Improve Archive :NVIM:ORGMODE:
 DEADLINE: <2026-02-21 Sat>
 :PROPERTIES:
 :ID: fe0ba4ec-c186-4ec4-8a92-3c25052eb79a
