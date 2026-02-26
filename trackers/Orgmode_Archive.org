@@ -12,3 +12,4 @@
 * OPEN Orgmode Archive :TRACKER:META:NVIM:ORGMODE:
 #+HTML:</details>
 How to improve archives for all notes using =nvim-orgmode=
+** Archive Filename With Date
