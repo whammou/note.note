@@ -1,0 +1,4 @@
+#+TITLE: Note Logs
+#+OPTIONS: todo:nil tasgs:nil ^:nil
+
+* Logs :LOG:NOTE:
