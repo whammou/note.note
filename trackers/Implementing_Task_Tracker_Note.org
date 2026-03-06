@@ -42,8 +42,8 @@ How to execute a script via kitty session without creating a =binary=
 :ID: 56d5a31c-31e6-44ab-8f88-2373e2662bb8
 :END:
 Current =templates= create issue when archiving due to =orgmode_archive= does not select whole file for archiving instead just the =headlines= and =sub-headlines=
-*** Generate Template via Lua Module :LUA:
+*** Dynamic Tags
 :PROPERTIES:
 :ID: 7f5f7885-73c0-434a-a5dc-45217948c0a3
 :END:
-
+Automatically assign =tags= for the topic of current tracker
