@@ -11,11 +11,13 @@
 :END:
 Testing =nvim-orgmode= table render \\
 
+- Orgmode style:\\
 | Name  | Phone | Age |
 |-------+-------+-----|
 | Peter |  1234 |  17 |
 | Anna  |  4321 |  25 |
 
+- Markdown style: \\
 | Header 1 | Header 2 | Header 3 |
 |----------|----------|----------|
 | Cell 1   | Cell 2   | Cell 3   |
