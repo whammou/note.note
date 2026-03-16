@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID: afeb0c3e-fca2-4cca-9da0-f6c50cfe4475
+:END:
+
+#+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
+#+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
+* Trackers List :NOTE:TRACKER:META:

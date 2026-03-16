@@ -291,3 +291,6 @@ CLOSED: [2025-11-19 Wed 08:38] DEADLINE: <2025-11-19 Wed>
 CLOSED: [2025-12-05 Fri 17:41] DEADLINE: <2025-12-05 Fri 19:00>
 - *OBJECTIVE:* Auto commit repo hourly
 - *Visit:* [[id:865d441c-cf38-489d-9144-237aaecfcd6d][Git Commit Hourly @Org]]
+** DONE Change Keyword Palette :ORGMODE:UI:
+DEADLINE: <2026-02-11 Wed> CLOSED: [2026-03-04 Wed 23:00]
+- *OBJECTIVE:* Update color palette for orgmode keywords
