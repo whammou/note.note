@@ -47,13 +47,13 @@ CLOSED: [2026-03-16 Mon 22:34]
 :ID: 83f55b3e-cf56-4900-be90-b8aae79c96ed
 :END:
 - [-] Headline Matching
-  + -----
+-----
   - Note taken on [2026-03-16 22:31]: \\
     =orgzly= partially support =org-tag= syntax
     - =_= is treated as separator instead of a full tag (=_foo= is a child of =_foo_bar=)
-  -----
+-----
 - [-] Differentiate between =uppercase= and =lowercase= tags
 -----
   - Note taken on [2026-03-16 22:34]: \\
     =orgzly= matching method is "case-insensitive"
------
+  -----
