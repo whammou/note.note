@@ -11,6 +11,7 @@
 :END:
 Testing =nvim-orgmode= table render \\
 
+
 - Orgmode style:\\
 | Name  | Phone | Age |
 |-------+-------+-----|
@@ -22,3 +23,8 @@ Testing =nvim-orgmode= table render \\
 |----------|----------|----------|
 | Cell 1   | Cell 2   | Cell 3   |
 | Cell 4   | Cell 5   | Cell 6   |
+
+ - This is a test
+|Header 1|Header 2|Header 3|
+|---
+|Cell 1|Cell 2|Cell3|
