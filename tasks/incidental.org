@@ -14,7 +14,6 @@ CLOSED: [2025-08-12 Tue 10:26] DEADLINE: <2025-08-12 Tue>
 -----
 - *Reference:* [[https://orgmode.org/manual/Paragraphs.html][Org Paragraph @Orgmode-doc]]
 ** TODO Implement Milestone Notes :STRUCTURE:
-DEADLINE: <2026-02-10 Tue>
 :PROPERTIES:
 :ID: e24bcb83-9333-4bb8-a538-9ecdd2844c97
 :END:
@@ -54,14 +53,12 @@ DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 15:48]
 - *OBJECTIVE:*  Manage =snippets= for =orgmode=
 - *Visit:*       [[id:3057de0a-69c4-46c5-b2b9-cb92287fcf39][Note Capture Add UUID @Org]]
 ** TODO Remove Note Latex Header :PANDOC:ORGMODE:STRUCTURE:
-DEADLINE: <2026-02-21 Sat>
 :PROPERTIES:
 :ID: 8a7e0ad8-a4f9-46f7-831d-ecbd858263ff
 :END:
 - *OBJECTIVE:*  Remove current =latex= hardcoded =header= and replace with with =pandoc= include header
 - *Reference:*  [[https://pandoc.org/MANUAL.html][Pandoc Manual @Doc]]
 ** TODO Explore Orgmode Tangle :NVIM:ORGMODE:
-DEADLINE: <2026-02-23 Mon>
 :PROPERTIES:
 :ID: 06b7c1f9-7cb4-4a57-8e5a-1c0e8ddf2838
 :END:
@@ -69,14 +66,13 @@ DEADLINE: <2026-02-23 Mon>
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#extract-source-code-(tangle)][Nvim-orgmode extract source-code block @Github-doc]]
 - *Tracker:*    [[id:cbf6f577-5700-4e40-88bc-3b6160c732b4][Nvim-orgmode Babel Tangle @Tracker]]
 ** TODO Orgmode Tracker Template Rework :NVIM:ORGMODE:
-DEADLINE: <2026-03-05 Thu 20:27>
+DEADLINE: <2026-03-17 Tue 20:27>
 :PROPERTIES:
 :ID: d4ccb6e5-4d1d-4e63-966d-61fb94b66061
 :END:
 - *OBJECTIVE:*  Rework =template= of =tracker.note= due to some issues when *archiving*
 - *Tracker:*    [[id:56d5a31c-31e6-44ab-8f88-2373e2662bb8][Rework Tracker Template @Tracker]]
 ** TODO Test Orgmode Property Inheritance :NVIM:ORGMODE:
-DEADLINE: <2026-02-21 Sat>
 :PROPERTIES:
 :ID: 70c77db9-3624-49ac-8203-c8266c485e87
 :END:
