@@ -4,7 +4,7 @@
 
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
-* Trackers List :NOTE:TRACKER:META:
+* Trackers List :@note:TRACKER:META:
 ** OPEN [TEST] Table Render :TEST:ORGMODE:
 :PROPERTIES:
 :ID: fe211ecb-ef53-41bd-9eb6-86d8873876a2
@@ -32,7 +32,7 @@ Testing =nvim-orgmode= table render \\
 :PROPERTIES:
 :ID: d95dff11-93ed-4f7b-9e6f-96c152127c2b
 :END:
-*** CLSD Nvim-orgmode Test :@note:%tracker:#meta:_This_is_a_headline:
+*** CLSD Nvim-orgmode Test :@note:%tracker:#meta:_This_is_a_headline:_Identifier:
 CLOSED: [2026-03-16 Mon 21:58]
 :PROPERTIES:
 :ID: 25848b1a-3eb5-4f3c-9755-0efb19bcb5e4
@@ -41,7 +41,19 @@ CLOSED: [2026-03-16 Mon 21:58]
 - [X] Matching headline
 - [X] Correctly Render
 - [X] Following =org= syntax
-*** Orgzly Test :@note:%tracker:#meta:_This_is_a_headline:
+*** CLSD Orgzly Test :@note_orgzly:%tracker_orgzly:#meta_orgzly:_This_is_a_headline:@orgzly:_identifier:
+CLOSED: [2026-03-16 Mon 22:34]
 :PROPERTIES:
 :ID: 83f55b3e-cf56-4900-be90-b8aae79c96ed
 :END:
+- [-] Headline Matching
+  + -----
+  - Note taken on [2026-03-16 22:31]: \\
+    =orgzly= partially support =org-tag= syntax
+    - =_= is treated as separator instead of a full tag (=_foo= is a child of =_foo_bar=)
+  -----
+- [-] Differentiate between =uppercase= and =lowercase= tags
+-----
+  - Note taken on [2026-03-16 22:34]: \\
+    =orgzly= matching method is "case-insensitive"
+-----
