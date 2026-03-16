@@ -82,3 +82,11 @@ DEADLINE: <2026-02-21 Sat>
 :END:
 - *OBJECTIVE:*  Testing orgmode =property_inheritance= when moving to archive
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#org_use_property_inheritance][Nvim-orgmode org_use_property_inheritance @Github-doc]]
+** TODO Test Render Table :ORGMODE:
+:PROPERTIES:
+:ID: 274913a8-f8f2-456e-8ba6-34b4b19525c6
+:END:
+- *OBJECTIVE:*  Test table rendering on github using plugin
+- *Reference:*  [[https://github.com/numEricL/table.vim][Table.nvim @Github]]
+- *Tracker:*    [[id:fe211ecb-ef53-41bd-9eb6-86d8873876a2][[TEST] Table Render @Tracker]]
+  
