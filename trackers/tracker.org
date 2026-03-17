@@ -40,14 +40,27 @@ Naming =tags= is like =naming variable=, There are different ways to name a tag.
 - [-] Snake Case (snake_case)
 - [-] Kebab Case (kebab-case)
 - [-] Upper Snake Case (UPPER_SNAKE_CASE)
-- [X] Hungarian Notation (strHungarianNotation)
+- [X] *Hungarian Notation (strHungarianNotation)*
+  + Plain text method
 - [X] Abbreviation-Based Naming (abbr)
 
 *Reference:*  [[https://dev.to/mutu/variable-naming-techniques-24hn][Variable naming techniques @Blog]]
-** OPEN [TEST] Orgmode Tag Tests :TEST:ORGMODE:STRUCTURE:
+*** Implement Plaintext Tag System
+:PROPERTIES:
+:ID:       7aed2570-be6d-4dd4-9566-ed2747fc55e6
+:END:
+** CLSD [TEST] Orgmode Tag Tests :TEST:ORGMODE:STRUCTURE:
+CLOSED: [2026-03-17 Tue 21:29]
 :PROPERTIES:
 :ID:       d95dff11-93ed-4f7b-9e6f-96c152127c2b
 :END:
+#+name:LOGBOOK
+#+html:<details><summary>LOGBOOK</summary>
+:LOGBOOK:
+- Note taken on [2026-03-17 Tue 21:27] \\
+  Failed on =github= and =orgzly= -> resort to plaintext method ([[id:08b9ebef-b31d-4a2b-99fe-c0bc968065f1][Hungarian Notation]])
+:END:
+#+html:</details>
 *** CLSD Nvim-orgmode Test :@note:%tracker:#meta:_This_is_a_headline:_Identifier:
 CLOSED: [2026-03-16 Mon 21:58]
 :PROPERTIES:

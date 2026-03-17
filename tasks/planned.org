@@ -129,6 +129,7 @@ DEADLINE: <2026-02-15 Sun 20:30> CLOSED: [2026-02-19 Thu 22:04]
 - *OBJECTIVE:*  Clean up =orgmode= config for scalability
 - *Tracker:*    [[id:1ecd804b-9eda-4d93-aa6b-8366eec17169][Implementing Task Tracker Note @Tracker]]
 ** DOIN Rework Tag System :ORGMODE:STRUCTURE:
+DEADLINE: <2026-03-17 Tue>
 :PROPERTIES:
 :ID: 58a9ea91-dea1-4d09-aaf7-946b753bc3e3
 :END:
