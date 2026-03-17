@@ -45,7 +45,7 @@ Naming =tags= is like =naming variable=, There are different ways to name a tag.
 - [X] Abbreviation-Based Naming (abbr)
 
 *Reference:*  [[https://dev.to/mutu/variable-naming-techniques-24hn][Variable naming techniques @Blog]]
-*** OPEN Implement Plaintext Tag System
+*** OPEN Implement Plaintext Tag System :@Tags:
 :PROPERTIES:
 :ID:       7aed2570-be6d-4dd4-9566-ed2747fc55e6
 :END:
@@ -60,11 +60,11 @@ Naming =tags= is like =naming variable=, There are different ways to name a tag.
 :END:
 #+html:</details>
 Using =tag-system= prefix:
-- =%= - as headline with fixed placeholder -> =%Tracker=
-- =@= - as global topics -> =@Opsys=
-- =_= - as category tags -> =_Planned=
-- =#= - as headline sections -> =#Meta=
-- =[A-Z]= - as internal topic tags -> =NVIM=
+- =%=                 - as headline with fixed placeholder -> =%Tracker=
+- =UPPCASE=           - as global topics -> =OPSYS=
+- =_=                 - as category tags -> =_Planned=
+- =#=                 - as headline sections -> =#Meta=
+- =@=                 - Shared tags -> =@Nvim=
 - =HungarianNotation= - as specific tag -> =NvimConfig=
 ** CLSD [TEST] Orgmode Tag Tests :_Test:ORGMODE:STRUCTURE:
 CLOSED: [2026-03-17 Tue 21:29]
