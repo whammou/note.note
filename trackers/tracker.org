@@ -6,7 +6,7 @@
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
 
 * Trackers List :@Note:%Tracker:#Meta:
-** OPEN [TEST] Table Render :TEST:ORGMODE:
+** OPEN [TEST] Table Render :_Test:ORGMODE:
 :PROPERTIES:
 :ID:       fe211ecb-ef53-41bd-9eb6-86d8873876a2
 :END:
@@ -62,10 +62,11 @@ Naming =tags= is like =naming variable=, There are different ways to name a tag.
 Using =tag-system= prefix:
 - =%= - as headline with fixed placeholder e.g. =%Tracker=
 - =@= - as global topics e.g. =@Opsys=
-- =_= - as internal topics e.g. =_Nvim=
+- =_= - as category tags e.g. =_Planned=
 - =#= - as headline sections e.g. =#Content=
-- =a= - as tag e.g. =NvimConfig=
-** CLSD [TEST] Orgmode Tag Tests :TEST:ORGMODE:STRUCTURE:
+- =[A-Z]= - as internal topic tags e.g. =NVIM=
+- =HungarianNotation= - as specific tag e.g. =NvimConfig=
+** CLSD [TEST] Orgmode Tag Tests :_Test:ORGMODE:STRUCTURE:
 CLOSED: [2026-03-17 Tue 21:29]
 :PROPERTIES:
 :ID:       d95dff11-93ed-4f7b-9e6f-96c152127c2b

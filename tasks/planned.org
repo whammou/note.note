@@ -3,7 +3,7 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TITLE: Note Planned Tasks
 
-* List of Planned Tasks :#Meta:%Task:PLANNED:@Note:
+* List of Planned Tasks :#Meta:%Task:_Planned:@Note:
 ** DONE Implement Uniform Keywords :LAYOUT:KEYWORD:
 CLOSED: [2025-10-07 Tue 23:27] DEADLINE: <2025-10-07 Tue>
 - *OBJECTIVE:* Implement the =4-letter= keywords method
