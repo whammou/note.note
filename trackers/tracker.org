@@ -4,10 +4,11 @@
 
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
+
 * Trackers List :@note:TRACKER:META:
 ** OPEN [TEST] Table Render :TEST:ORGMODE:
 :PROPERTIES:
-:ID: fe211ecb-ef53-41bd-9eb6-86d8873876a2
+:ID:       fe211ecb-ef53-41bd-9eb6-86d8873876a2
 :END:
 Testing =nvim-orgmode= table render \\
 
@@ -24,15 +25,15 @@ Testing =nvim-orgmode= table render \\
 | Cell 4   | Cell 5   | Cell 6   |
 ** OPEN [ENHANCE] Orgmode Tag System Prefix :ORGMODE:STRUCTURE:
 :PROPERTIES:
-:ID: fad7fd61-ac4d-4886-819e-f3acfdad2353
+:ID:       fad7fd61-ac4d-4886-819e-f3acfdad2353
 :END:
 /Implement prefixes for tag system/
 /Test:/  [[id:d95dff11-93ed-4f7b-9e6f-96c152127c2b][[TEST] Orgmode Tag Tests @test]]
 *** CLSD Tag Naming Technique
-:PROPERTIES:
-:ID: 08b9ebef-b31d-4a2b-99fe-c0bc968065f1
-:END:
 CLOSED: [2026-03-17 Tue 17:43]
+:PROPERTIES:
+:ID:       08b9ebef-b31d-4a2b-99fe-c0bc968065f1
+:END:
 Naming =tags= is like =naming variable=, There are different ways to name a tag. Determine which usage case is suitable for a tag
 - [X] Camel Case (camelCase)
 - [X] Pascal Case (PascalCase)
@@ -45,21 +46,21 @@ Naming =tags= is like =naming variable=, There are different ways to name a tag.
 *Reference:*  [[https://dev.to/mutu/variable-naming-techniques-24hn][Variable naming techniques @Blog]]
 ** OPEN [TEST] Orgmode Tag Tests :TEST:ORGMODE:STRUCTURE:
 :PROPERTIES:
-:ID: d95dff11-93ed-4f7b-9e6f-96c152127c2b
+:ID:       d95dff11-93ed-4f7b-9e6f-96c152127c2b
 :END:
 *** CLSD Nvim-orgmode Test :@note:%tracker:#meta:_This_is_a_headline:_Identifier:
 CLOSED: [2026-03-16 Mon 21:58]
 :PROPERTIES:
-:ID: 25848b1a-3eb5-4f3c-9755-0efb19bcb5e4
+:ID:       25848b1a-3eb5-4f3c-9755-0efb19bcb5e4
 :END:
 - [X] Treesitter grammar
 - [X] Matching headline
 - [X] Correctly Render
 - [X] Following =org= syntax
-*** CLSD Orgzly Test :@note_orgzly:%tracker_orgzly:#meta_orgzly:_This_is_a_headline:@orgzly:_identifier:
+*** CLSD Orgzly Test :@NoteOrgzly:%tracker_orgzly:#meta_orgzly:_This_is_a_headline:@orgzly:_identifier:
 CLOSED: [2026-03-16 Mon 22:34]
 :PROPERTIES:
-:ID: 83f55b3e-cf56-4900-be90-b8aae79c96ed
+:ID:       83f55b3e-cf56-4900-be90-b8aae79c96ed
 :END:
 - [-] Headline Matching
 -----
@@ -75,6 +76,6 @@ CLOSED: [2026-03-16 Mon 22:34]
 *** CLSD Github Test :_github:_orgmode:
 CLOSED: [2026-03-17 Tue 17:31]
 :PROPERTIES:
-:ID: 00758ee1-900e-418b-9fa7-cab4cb41b62c
+:ID:       00758ee1-900e-418b-9fa7-cab4cb41b62c
 :END:
 =Snack_case= variable is not a valid syntax for a tag on github =org-ruby= parser. But =_= as prefix is valid e.g. =_foo= is a valid tag
