@@ -7,10 +7,10 @@
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TODO: TODO(t) (e) DOIN(d) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
-#+FILETAGS: :DOC:PROJECT:@Note:NOTETAKING:
+#+FILETAGS: :%Doc:@Project:@Note:NOTETAKING:
 #+HTML:<details>
 
-* Note Taking Methods :DOC:#Meta:@Note:NOTETAKING:
+* Note Taking Methods :%Doc:#Meta:@Note:NOTETAKING:
 #+HTML:</details>
 - *Goal(s):* learn effective note-taking method form lecture slides
 - *Stumble upon:* [[https://zettelkasten.de/overview/][zettelkasten method]]

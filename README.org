@@ -20,7 +20,7 @@
   - *States* – TODO, PEND, GOING, DONE, ARCHIVED, etc. (see main README).
   - *Tags* – Use the hierarchical tag format:
     :@Note:<CATEGORY>:<TYPE>:<DETAIL>:
-    Example: =:@Note:IDEA:PROJECT:=
+    Example: =:@Note:IDEA:@Project:=
 
 * Typical Files
   - =docs/<something>.org= – quick notes, ideas, and miscellaneous information.
