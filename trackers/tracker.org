@@ -28,6 +28,21 @@ Testing =nvim-orgmode= table render \\
 :END:
 /Implement prefixes for tag system/
 /Test:/  [[id:d95dff11-93ed-4f7b-9e6f-96c152127c2b][[TEST] Orgmode Tag Tests @test]]
+*** CLSD Tag Naming Technique
+:PROPERTIES:
+:ID: 08b9ebef-b31d-4a2b-99fe-c0bc968065f1
+:END:
+CLOSED: [2026-03-17 Tue 17:43]
+Naming =tags= is like =naming variable=, There are different ways to name a tag. Determine which usage case is suitable for a tag
+- [X] Camel Case (camelCase)
+- [X] Pascal Case (PascalCase)
+- [-] Snake Case (snake_case)
+- [-] Kebab Case (kebab-case)
+- [-] Upper Snake Case (UPPER_SNAKE_CASE)
+- [X] Hungarian Notation (strHungarianNotation)
+- [X] Abbreviation-Based Naming (abbr)
+
+*Reference:*  [[https://dev.to/mutu/variable-naming-techniques-24hn][Variable naming techniques @Blog]]
 ** OPEN [TEST] Orgmode Tag Tests :TEST:ORGMODE:STRUCTURE:
 :PROPERTIES:
 :ID: d95dff11-93ed-4f7b-9e6f-96c152127c2b
@@ -59,4 +74,7 @@ CLOSED: [2026-03-16 Mon 22:34]
   -----
 *** CLSD Github Test :_github:_orgmode:
 CLOSED: [2026-03-17 Tue 17:31]
+:PROPERTIES:
+:ID: 00758ee1-900e-418b-9fa7-cab4cb41b62c
+:END:
 =Snack_case= variable is not a valid syntax for a tag on github =org-ruby= parser. But =_= as prefix is valid e.g. =_foo= is a valid tag
