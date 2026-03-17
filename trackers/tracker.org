@@ -63,9 +63,10 @@ Using =tag-system= prefix:
 - =%=                 - as headline with fixed placeholder -> =%Tracker=
 - =UPPCASE=           - as global topics -> =OPSYS=
 - =_=                 - as category tags -> =_Planned=
-- =#=                 - as headline sections -> =#Meta=
+- =#=                 - !as headline sections -> =#Meta=
 - =@=                 - Shared tags -> =@Nvim=
 - =HungarianNotation= - as specific tag -> =NvimConfig=
+  ! Not probably parsed =github=
 ** CLSD [TEST] Orgmode Tag Tests :_Test:ORGMODE:STRUCTURE:
 CLOSED: [2026-03-17 Tue 21:29]
 :PROPERTIES:
