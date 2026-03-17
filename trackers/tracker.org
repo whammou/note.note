@@ -60,12 +60,12 @@ Naming =tags= is like =naming variable=, There are different ways to name a tag.
 :END:
 #+html:</details>
 Using =tag-system= prefix:
-- =%= - as headline with fixed placeholder e.g. =%Tracker=
-- =@= - as global topics e.g. =@Opsys=
-- =_= - as category tags e.g. =_Planned=
-- =#= - as headline sections e.g. =#Content=
-- =[A-Z]= - as internal topic tags e.g. =NVIM=
-- =HungarianNotation= - as specific tag e.g. =NvimConfig=
+- =%= - as headline with fixed placeholder -> =%Tracker=
+- =@= - as global topics -> =@Opsys=
+- =_= - as category tags -> =_Planned=
+- =#= - as headline sections -> =#Meta=
+- =[A-Z]= - as internal topic tags -> =NVIM=
+- =HungarianNotation= - as specific tag -> =NvimConfig=
 ** CLSD [TEST] Orgmode Tag Tests :_Test:ORGMODE:STRUCTURE:
 CLOSED: [2026-03-17 Tue 21:29]
 :PROPERTIES:
