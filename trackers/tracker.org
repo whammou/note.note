@@ -57,3 +57,6 @@ CLOSED: [2026-03-16 Mon 22:34]
   - Note taken on [2026-03-16 22:34]: \\
     =orgzly= matching method is "case-insensitive"
   -----
+*** CLSD Github Test :_github:_orgmode:
+CLOSED: [2026-03-17 Tue 17:31]
+=Snack_case= variable is not a valid syntax for a tag on github =org-ruby= parser. But =_= as prefix is valid e.g. =_foo= is a valid tag
