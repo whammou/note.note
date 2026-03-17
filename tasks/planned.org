@@ -3,7 +3,7 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TITLE: Note Planned Tasks
 
-* List of Planned Tasks :TASK:PLANNED:NOTE:META:
+* List of Planned Tasks :TASK:PLANNED:@Note:#Meta:
 ** DONE Implement Uniform Keywords :LAYOUT:KEYWORD:
 CLOSED: [2025-10-07 Tue 23:27] DEADLINE: <2025-10-07 Tue>
 - *OBJECTIVE:* Implement the =4-letter= keywords method
@@ -134,7 +134,9 @@ DEADLINE: <2026-03-17 Tue>
 :ID: 58a9ea91-dea1-4d09-aaf7-946b753bc3e3
 :END:
 - *OBJECTIVE:*  Improve =org-tag= system with prefixes
-- *Tracker:*    [[id:fad7fd61-ac4d-4886-819e-f3acfdad2353][[ENHANCE] Orgmode Tag System Prefix @Tracker]]
+- *Tracker:*
+  + [X] [[id:fad7fd61-ac4d-4886-819e-f3acfdad2353][[ENHANCE] Orgmode Tag System Prefix @Tracker]]
+  + [ ] [[id:7aed2570-be6d-4dd4-9566-ed2747fc55e6][Implement Plaintext Tag System @Org]]
 - *Reference:*  [[https://orgmode.org/manual/Tags.html][Tags Manual @Orgmode]]
 ** TODO Rework global-todo List :ORGMODE:STRUCTURE:
 :PROPERTIES:

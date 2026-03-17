@@ -9,6 +9,6 @@
 #+FILETAGS: :DOC:PROJECT:CITATION:ZOTERO:
 #+HTML:<details>
 
-* Note Citations :DOC:META:CITATION:ZOTERO:NOTE:
+* Note Citations :DOC:#Meta:CITATION:ZOTERO:@Note:
 #+HTML:</details>
 /Integrate citation into current notes (using =zotero=)/
