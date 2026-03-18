@@ -45,28 +45,40 @@ Naming =tags= is like =naming variable=, There are different ways to name a tag.
 - [X] Abbreviation-Based Naming (abbr)
 
 *Reference:*  [[https://dev.to/mutu/variable-naming-techniques-24hn][Variable naming techniques @Blog]]
-*** OPEN Implement Plaintext Tag System :TEST_TAG:
+**** CLSD Implement Symbol System :TEST_TAG:
+CLOSED: [2026-03-18 Wed 08:17]
 :PROPERTIES:
 :ID:       7aed2570-be6d-4dd4-9566-ed2747fc55e6
 :END:
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
 :LOGBOOK:
+- Note taken on [2026-03-18 Wed 08:15] \\
+Special characters =#=, =%= breaks on github orgmode parser -> resort to plain text method
 - Note taken on [2026-03-17 Tue 22:22] \\
-  Implement method:
-  - Using =sed= as search and replace operation
-    + Run: =sed s/oldPattern/newPattern=
-  - Replace matching old tags with new tags patterns
+Implement method:
+- Using =sed= as search and replace operation
++ Run: =sed s/oldPattern/newPattern=
+- Replace matching old tags with new tags patterns
 :END:
 #+html:</details>
 Using =tag-system= prefix:
 - =%=                 - as headline with fixed placeholder -> =%Tracker=
 - =UPPCASE=           - as global topics -> =OPSYS=
 - =_=                 - as category tags -> =_Planned=
-- =#=                 - !as headline sections -> =#Meta=
+- =lowercase=         - as headline sections -> =meta=
 - =@=                 - Shared tags -> =@Nvim=
 - =HungarianNotation= - as specific tag -> =NvimConfig=
   ! Not probably parsed =github=
+**** OPEN Implement Plaintext Tag System
+:PROPERTIES:
+:ID: 55bcb839-0b9f-4f7a-ba4b-a00f29d2f730
+:END:
+Plaintext Prefixes:
+- =@= - for shared tag e.g. =@Nvim=
+- =_= - for internal tag e.g. =_Nvim=
+- =cat= - for identifier tag e.g. =catOneoff=
+- =typ= - for type tag e.g. =typDoc=
 ** CLSD [TEST] Orgmode Tag Tests :_Test:ORGMODE:STRUCTURE:
 CLOSED: [2026-03-17 Tue 21:29]
 :PROPERTIES:

@@ -136,7 +136,8 @@ DEADLINE: <2026-03-17 Tue>
 - *OBJECTIVE:*  Improve =org-tag= system with prefixes
 - *Tracker:*
   + [X] [[id:fad7fd61-ac4d-4886-819e-f3acfdad2353][[ENHANCE] Orgmode Tag System Prefix @Tracker]]
-  + [ ] [[id:7aed2570-be6d-4dd4-9566-ed2747fc55e6][Implement Plaintext Tag System @Org]]
+  + [-] [[id:7aed2570-be6d-4dd4-9566-ed2747fc55e6][Implement Plaintext Tag System @Org]]
+  + [ ] [[id:55bcb839-0b9f-4f7a-ba4b-a00f29d2f730][Implement Plaintext Tag System @Tracker]]
 - *Reference:*  [[https://orgmode.org/manual/Tags.html][Tags Manual @Orgmode]]
 ** TODO Rework global-todo List :ORGMODE:STRUCTURE:
 :PROPERTIES:
