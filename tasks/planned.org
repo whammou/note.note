@@ -3,7 +3,7 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TITLE: Note Planned Tasks
 
-* List of Planned Tasks :meta:catTask:_Planned:NOTE:
+* List of Planned Tasks :meta:typTask:catPlanned:NOTE:
 ** DONE Implement Uniform Keywords :_Layout:KEYWORD:
 CLOSED: [2025-10-07 Tue 23:27] DEADLINE: <2025-10-07 Tue>
 - *OBJECTIVE:* Implement the =4-letter= keywords method
@@ -30,7 +30,7 @@ CLOSED: [2025-10-07 Tue 23:26] DEADLINE: <2025-10-07 Tue>
 2. Copy new =log.org= from =template.note=
 :END:
 #+html:</details>
-*** PEND Github Actions Script Runner :GITHUB:githubactions:
+*** PEND Github Actions Script Runner :@Github:githubactions:
 - *OBJECTIVE:* Create runner of =cleanup script=
 - *Check-out:* [[id:cdd00540-67f5-4480-9c4f-32807ad84962][Github Actions Script @Org]]
 ** DONE Initiate Orgmode Server :@Homelab:HomelabSetup:FileSync:
@@ -108,7 +108,7 @@ DEADLINE: <2025-11-19 Wed 19:30> CLOSED: [2025-11-19 Wed 21:17]
 DEADLINE: <2025-11-19 Wed 19:00> CLOSED: [2025-11-19 Wed 21:17]
 - *OBJECTIVE:* Test if modification done via =webdav= triggers file-change =event= managed by =inotify=
 - *Reference:* [[https://www.linuxbash.sh/post/use-inotifywait-to-trigger-actions-on-file-changes][Trigger actions on file change @Linux-bash]]
-** DONE Create Task Tracker Agenda :@Orgmode:org_agenda:
+** DONE Create Task Tracker Agenda :@Orgmode:OrgAgenda:
 DEADLINE: <2026-02-15 Sun 20:30> CLOSED: [2026-02-19 Thu 22:04]
 :PROPERTIES:
 :ID: 1695c157-867c-4401-9def-e2656442fac6

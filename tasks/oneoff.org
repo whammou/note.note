@@ -3,7 +3,7 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TITLE: Note Oneoff Tasks
 
-* List of Oneoff Tasks :catTask:_Oneoff:NOTE:meta:
+* List of Oneoff Tasks :typTask:catOneoff:NOTE:meta:
 ** DONE Rework todo-keywords :@Orgmode:_Layout:KEYWORD:
 CLOSED: [2025-08-09 Sat 02:23] DEADLINE: <2025-08-09 Sat>
 - *OBJECTIVE:* Rework =todo-keywords= to work with =pandoc= and =github=
@@ -27,11 +27,11 @@ CLOSED: [2025-08-15 Fri 21:03] DEADLINE: <2025-08-15 Fri>
 *** DONE Scripting Note Templates
 CLOSED: [2025-08-15 Fri 21:03] DEADLINE: <2025-08-15 Fri>
 - *OBJECTIVE:* Write =template= for each type of =note=
-**** DONE Add Github Special Blocks :GITHUB:@Orgmode:
+**** DONE Add Github Special Blocks :@Github:@Orgmode:
 CLOSED: [2025-08-14 Thu 21:35] DEADLINE: <2025-08-14 Thu>
 - *OBJECTIVE:* Add Github special block into templates
 - *Reference:* [[https://ao.bloat.cat/exchange/webapps.stackexchange.com/questions/44118/special-characters-in-github-markdown-code-blocks][Github special character code block @Github-doc]]
-** DONE Rework Orgroam Capture Templates :TEMPLATE:ORGROAM:
+** DONE Rework Orgroam Capture Templates :_Template:ORGROAM:
 CLOSED: [2025-08-16 Sat 21:10] DEADLINE: <2025-08-16 Sat>
 - *OBJECTIVE:* Rework capture template for =orgroam=
 - *Reference:* [[https://github.com/chipsenkbeil/org-roam.nvim/blob/main/DOCS.org#immediate][Nvim-orgroam immediate mode @Github-doc]]
@@ -48,7 +48,7 @@ CLOSED: [2025-08-15 Fri 13:58] DEADLINE: <2025-08-15 Fri>
 CLOSED: [2025-08-16 Sat 14:41] DEADLINE: <2025-08-16 Sat>
 - *OBJECTIVE:* Checkout a way to take note while playing media
 - *Reference:* [[https://github.com/yuchen-lea/org-media-note][Org-media-note @Github]]
-** ABRT Test Orgmode Include :@Orgmode:PANDOC:GITHUB:_Layout:
+** ABRT Test Orgmode Include :@Orgmode:@Pandoc:@Github:_Layout:
 CLOSED: [2025-08-17 Sun 14:56] DEADLINE: <2025-08-16 Sat>
 - *OBJECTIVE:* Test orgmode =#+include:= export with pandoc and github render 
 -----
@@ -214,7 +214,7 @@ CLOSED: [2025-10-15 Wed 22:31]
   =item= notes are used to sync between notes without being outdated or have to re-define every time a repeating item is called
 :END:
 #+html:</details>
-** WAIT Modular Notes Repos :GIT:_Structure:
+** WAIT Modular Notes Repos :@Git:_Structure:
 - *OBJECTIVE:* Separate =notes= into smaller =repos=
 - *Visit:* [[id:0ac3ce98-9f59-468f-acfd-c494c879986b][Managing A Nested Git Project @Org]]
 *** DONE Isolated Node Container
@@ -287,7 +287,7 @@ CLOSED: [2025-11-19 Wed 08:38] DEADLINE: <2025-11-19 Wed>
 - *OBJECTIVE:* Reminder notes are note that quick to deploy and short-lived
 ** PEND Finish Drafts
 - *OBJECTIVE:* Finish up unfinished =draft.note=
-** DONE Create Journal Commit Service :SYSTEMD:gitcommit:
+** DONE Create Journal Commit Service :@Systemd:gitcommit:
 CLOSED: [2025-12-05 Fri 17:41] DEADLINE: <2025-12-05 Fri 19:00>
 - *OBJECTIVE:* Auto commit repo hourly
 - *Visit:* [[id:865d441c-cf38-489d-9144-237aaecfcd6d][Git Commit Hourly @Org]]
