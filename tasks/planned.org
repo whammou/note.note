@@ -143,3 +143,11 @@ DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 10:05]
 :ID: 0d7797e4-b1b2-4860-a804-763abf8dd8c0
 :END:
 - *OBJECTIVE:*  Rework the =global-todo= list
+** NEXT Rework Orgmode Snippets :@Orgmode:_Snippet:_Structure:
+:PROPERTIES:
+:ID: ab3ba562-f44b-4d49-9741-ddf66534a4b1
+:END:
+- *OBJECTIVE:*
+  + [ ] Refactor =snippets= db
+  + [ ] Add headlines snippets (include =ID=)
+- *Tracker:*    [[id:e733de64-736b-4ec7-99d9-f5904b87f476][Orgmode Snippets Refactor @Tracker]]

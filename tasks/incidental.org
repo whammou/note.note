@@ -67,7 +67,7 @@ DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 20:21]
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#extract-source-code-(tangle)][Nvim-orgmode extract source-code block @Github-doc]]
 - *Tracker:*    [[id:cbf6f577-5700-4e40-88bc-3b6160c732b4][Nvim-orgmode Babel Tangle @Tracker]]
 ** DOIN Orgmode Tracker Template Rework :@Nvim:@Orgmode:
-DEADLINE: <2026-03-18 Wed 20:30>
+DEADLINE: <2026-03-18 Wed 23:45>
 :PROPERTIES:
 :ID: d4ccb6e5-4d1d-4e63-966d-61fb94b66061
 :END:
