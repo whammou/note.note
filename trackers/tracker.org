@@ -5,8 +5,8 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
 
-* Trackers List :NOTE:%Tracker:meta:
-** OPEN [TEST] Table Render :_Test:ORGMODE:
+* Trackers List :NOTE:catTracker:meta:
+** OPEN [TEST] Table Render :_Test:@Orgmode:
 :PROPERTIES:
 :ID:       fe211ecb-ef53-41bd-9eb6-86d8873876a2
 :END:
@@ -23,7 +23,7 @@ Testing =nvim-orgmode= table render \\
 |----------|----------|----------|
 | Cell 1   | Cell 2   | Cell 3   |
 | Cell 4   | Cell 5   | Cell 6   |
-** OPEN [ENHANCE] Orgmode Tag System Prefix :ORGMODE:STRUCTURE:
+** OPEN [ENHANCE] Orgmode Tag System Prefix :@Orgmode:_Structure:
 :PROPERTIES:
 :ID:       fad7fd61-ac4d-4886-819e-f3acfdad2353
 :END:
@@ -77,9 +77,11 @@ Using =tag-system= prefix:
 Plaintext Prefixes:
 - =@= - for shared tag e.g. =@Nvim=
 - =_= - for internal tag e.g. =_Nvim=
-- =cat= - for identifier tag e.g. =catOneoff=
 - =typ= - for type tag e.g. =typDoc=
-** CLSD [TEST] Orgmode Tag Tests :_Test:ORGMODE:STRUCTURE:
+- =cat= - for identifier tag e.g. =catOneoff=
+- =HungarianNotation= - for specific tag e.g. =NvimConfig=
+- =lowercase= - for special tag e.g. =noexport=, =meta=, =content=
+** CLSD [TEST] Orgmode Tag Tests :_Test:@Orgmode:_Structure:
 CLOSED: [2026-03-17 Tue 21:29]
 :PROPERTIES:
 :ID:       d95dff11-93ed-4f7b-9e6f-96c152127c2b
