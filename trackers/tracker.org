@@ -5,7 +5,7 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
 
-* Trackers List :@Note:%Tracker:#Meta:
+* Trackers List :NOTE:%Tracker:meta:
 ** OPEN [TEST] Table Render :_Test:ORGMODE:
 :PROPERTIES:
 :ID:       fe211ecb-ef53-41bd-9eb6-86d8873876a2
@@ -45,7 +45,7 @@ Naming =tags= is like =naming variable=, There are different ways to name a tag.
 - [X] Abbreviation-Based Naming (abbr)
 
 *Reference:*  [[https://dev.to/mutu/variable-naming-techniques-24hn][Variable naming techniques @Blog]]
-*** OPEN Implement Plaintext Tag System :@Tags:
+*** OPEN Implement Plaintext Tag System :TEST_TAG:
 :PROPERTIES:
 :ID:       7aed2570-be6d-4dd4-9566-ed2747fc55e6
 :END:

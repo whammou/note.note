@@ -9,7 +9,7 @@
 #+FILETAGS: :%Doc:@Project:HOUSEKEEPING:
 #+HTML:<details>
 
-* OUTL Automatize House Keeping :%Doc:#Meta:HOUSEKEEPING:@Note:
+* OUTL Automatize House Keeping :%Doc:meta:HOUSEKEEPING:NOTE:
 #+HTML:</details>
 /Speed up the process of house keeping my notes/
 ** EXPL Replace Metadata

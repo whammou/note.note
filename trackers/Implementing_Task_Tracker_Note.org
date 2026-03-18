@@ -2,10 +2,10 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
-#+FILETAGS: :%Tracker:#Meta:@Note:STRUCTURE:
+#+FILETAGS: :%Tracker:meta:NOTE:STRUCTURE:
 #+HTML:<details>
 
-* OPEN Implementing Task Tracker Note :%Tracker:#Meta:@Note:STRUCTURE:
+* OPEN Implementing Task Tracker Note :%Tracker:meta:NOTE:STRUCTURE:
 :PROPERTIES:
 :ID: 1ecd804b-9eda-4d93-aa6b-8366eec17169
 :END:

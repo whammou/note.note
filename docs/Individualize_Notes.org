@@ -9,7 +9,7 @@
 #+FILETAGS: :%Doc:@Project:LAYOUT:
 #+HTML:<details>
 
-* RVIW Individualize Notes :%Doc:#Meta:LAYOUT:@Note:
+* RVIW Individualize Notes :%Doc:meta:LAYOUT:NOTE:
  DEADLINE: <2025-08-18 Mon> CLOSED: [2025-08-28 Thu 16:20]
 #+HTML:</details>
 - The key concept to =individualize notes= lies in the differences between =functionality= of each note and follow by their =layout format=

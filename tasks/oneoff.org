@@ -3,7 +3,7 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TITLE: Note Oneoff Tasks
 
-* List of Oneoff Tasks :%Task:_Oneoff:@Note:#Meta:
+* List of Oneoff Tasks :%Task:_Oneoff:NOTE:meta:
 ** DONE Rework todo-keywords :ORGMODE:LAYOUT:KEYWORD:
 CLOSED: [2025-08-09 Sat 02:23] DEADLINE: <2025-08-09 Sat>
 - *OBJECTIVE:* Rework =todo-keywords= to work with =pandoc= and =github=
