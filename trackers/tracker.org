@@ -6,24 +6,28 @@
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
 
 * Trackers List :NOTE:typTracker:meta:
-** OPEN [TEST] Table Render :_Test:@Orgmode:
+** CLSD [TEST] Table Render :_Test:@Orgmode:
+CLOSED: [2026-03-18 Wed 10:15]
 :PROPERTIES:
 :ID:       fe211ecb-ef53-41bd-9eb6-86d8873876a2
 :END:
 Testing =nvim-orgmode= table render \\
 
 - Orgmode style:\\
-| Name  | Phone | Age |
-|-------+-------+-----|
-| Peter |  1234 |  17 |
-| Anna  |  4321 |  25 |
+
+| ID   | Name  | Phone | Age |
+|------+-------+-------+-----|
+| 19   | Peter | 1234  | 17  |
+| 0880 | Anna  | 4321  | 25  |
 
 - Markdown style: \\
+
 | Header 1 | Header 2 | Header 3 |
 |----------|----------|----------|
 | Cell 1   | Cell 2   | Cell 3   |
 | Cell 4   | Cell 5   | Cell 6   |
-** OPEN [ENHANCE] Orgmode Tag System Prefix :@Orgmode:_Structure:
+** CLSD [ENHANCE] Orgmode Tag System Prefix :@Orgmode:_Structure:
+CLOSED: [2026-03-18 Wed 10:15]
 :PROPERTIES:
 :ID:       fad7fd61-ac4d-4886-819e-f3acfdad2353
 :END:
@@ -70,7 +74,8 @@ Using =tag-system= prefix:
 - =@=                 - Shared tags -> =@Nvim=
 - =HungarianNotation= - as specific tag -> =NvimConfig=
   ! Not probably parsed =github=
-**** OPEN Implement Plaintext Tag System
+**** CLSD Implement Plaintext Tag System
+CLOSED: [2026-03-18 Wed 10:05]
 :PROPERTIES:
 :ID: 55bcb839-0b9f-4f7a-ba4b-a00f29d2f730
 :END:

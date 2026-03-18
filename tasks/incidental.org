@@ -53,6 +53,7 @@ DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 15:48]
 - *OBJECTIVE:*  Manage =snippets= for =orgmode=
 - *Visit:*       [[id:3057de0a-69c4-46c5-b2b9-cb92287fcf39][Note Capture Add UUID @Org]]
 ** TODO Remove Note Latex Header :@Pandoc:@Orgmode:_Structure:
+DEADLINE: <2026-03-18 Wed>
 :PROPERTIES:
 :ID: 8a7e0ad8-a4f9-46f7-831d-ecbd858263ff
 :END:
@@ -66,6 +67,7 @@ DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 15:48]
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#extract-source-code-(tangle)][Nvim-orgmode extract source-code block @Github-doc]]
 - *Tracker:*    [[id:cbf6f577-5700-4e40-88bc-3b6160c732b4][Nvim-orgmode Babel Tangle @Tracker]]
 ** TODO Orgmode Tracker Template Rework :@Nvim:@Orgmode:
+DEADLINE: <2026-03-18 Wed>
 :PROPERTIES:
 :ID: d4ccb6e5-4d1d-4e63-966d-61fb94b66061
 :END:

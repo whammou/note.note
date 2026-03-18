@@ -30,7 +30,7 @@ CLOSED: [2025-10-07 Tue 23:26] DEADLINE: <2025-10-07 Tue>
 2. Copy new =log.org= from =template.note=
 :END:
 #+html:</details>
-*** PEND Github Actions Script Runner :@Github:githubactions:
+*** PEND Github Actions Script Runner :@Github:GithubActions:
 - *OBJECTIVE:* Create runner of =cleanup script=
 - *Check-out:* [[id:cdd00540-67f5-4480-9c4f-32807ad84962][Github Actions Script @Org]]
 ** DONE Initiate Orgmode Server :@Homelab:HomelabSetup:FileSync:
@@ -128,8 +128,8 @@ DEADLINE: <2026-02-15 Sun 20:30> CLOSED: [2026-02-19 Thu 22:04]
 :END:
 - *OBJECTIVE:*  Clean up =orgmode= config for scalability
 - *Tracker:*    [[id:1ecd804b-9eda-4d93-aa6b-8366eec17169][Implementing Task Tracker Note @Tracker]]
-** DOIN Rework Tag System :@Orgmode:_Structure:
-DEADLINE: <2026-03-17 Tue>
+** DONE Rework Tag System :@Orgmode:_Structure:
+DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 10:05]
 :PROPERTIES:
 :ID: 58a9ea91-dea1-4d09-aaf7-946b753bc3e3
 :END:
@@ -137,7 +137,7 @@ DEADLINE: <2026-03-17 Tue>
 - *Tracker:*
   + [X] [[id:fad7fd61-ac4d-4886-819e-f3acfdad2353][[ENHANCE] Orgmode Tag System Prefix @Tracker]]
   + [-] [[id:7aed2570-be6d-4dd4-9566-ed2747fc55e6][Implement Plaintext Tag System @Org]]
-  + [ ] [[id:55bcb839-0b9f-4f7a-ba4b-a00f29d2f730][Implement Plaintext Tag System @Tracker]]
+  + [X] [[id:55bcb839-0b9f-4f7a-ba4b-a00f29d2f730][Implement Plaintext Tag System @Tracker]]
 - *Reference:*  [[https://orgmode.org/manual/Tags.html][Tags Manual @Orgmode]]
 ** TODO Rework global-todo List :@Orgmode:_Structure:
 :PROPERTIES:
