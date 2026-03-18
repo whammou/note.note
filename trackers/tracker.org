@@ -129,3 +129,12 @@ CLOSED: [2026-03-17 Tue 17:31]
 :ID:       00758ee1-900e-418b-9fa7-cab4cb41b62c
 :END:
 =Snack_case= variable is not a valid syntax for a tag on github =org-ruby= parser. But =_= as prefix is valid e.g. =_foo= is a valid tag
+** CLSD Match and Remove :@Bash:
+CLOSED: [2026-03-18 Wed 20:18]
+:PROPERTIES:
+:ID: b6a92a84-88ad-468d-ad71-f10ba43d4cd9
+:END:
+/Removing matching pattern using cmdline/
+#+BEGIN_SRC sh
+rg -l  "\#\+LATEX_HEADER: \\\usepackage" /home/whammou/Journal/ | xargs -i sed -i '/^#+LATEX_HEADER:.*helvet/d' {}
+#+END_SRC

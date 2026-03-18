@@ -1,5 +1,4 @@
 #+TODO: TODO(t) (e) DOIN(d) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
-#+LATEX_HEADER: \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TITLE: Note Incidental Tasks
 
@@ -52,12 +51,13 @@ DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 15:48]
 #+html:</details>
 - *OBJECTIVE:*  Manage =snippets= for =orgmode=
 - *Visit:*       [[id:3057de0a-69c4-46c5-b2b9-cb92287fcf39][Note Capture Add UUID @Org]]
-** DOIN Remove Note Latex Header :@Pandoc:@Orgmode:_Structure:
-DEADLINE: <2026-03-18 Wed>
+** DONE Remove Note Latex Header :@Pandoc:@Orgmode:_Structure:
+DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 20:21]
 :PROPERTIES:
 :ID: 8a7e0ad8-a4f9-46f7-831d-ecbd858263ff
 :END:
 - *OBJECTIVE:*  Remove current =latex= hardcoded =header= and replace with with =pandoc= include header
+- *Tracker:*    [[id:b6a92a84-88ad-468d-ad71-f10ba43d4cd9][Match and Remove @Tracker]]
 - *Reference:*  [[https://pandoc.org/MANUAL.html][Pandoc Manual @Doc]]
 ** TODO Explore Orgmode Tangle :@Nvim:@Orgmode:
 :PROPERTIES:
@@ -66,8 +66,8 @@ DEADLINE: <2026-03-18 Wed>
 - *OBJECTIVE:*  Explore orgmode =tangle= feature
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#extract-source-code-(tangle)][Nvim-orgmode extract source-code block @Github-doc]]
 - *Tracker:*    [[id:cbf6f577-5700-4e40-88bc-3b6160c732b4][Nvim-orgmode Babel Tangle @Tracker]]
-** NEXT Orgmode Tracker Template Rework :@Nvim:@Orgmode:
-DEADLINE: <2026-03-18 Wed>
+** DOIN Orgmode Tracker Template Rework :@Nvim:@Orgmode:
+DEADLINE: <2026-03-18 Wed 20:30>
 :PROPERTIES:
 :ID: d4ccb6e5-4d1d-4e63-966d-61fb94b66061
 :END:
