@@ -113,20 +113,20 @@ DEADLINE: <2026-02-15 Sun 20:30> CLOSED: [2026-02-19 Thu 22:04]
 :ID: 1695c157-867c-4401-9def-e2656442fac6
 :END:
 - *OBJECTIVE:*  Create =org_agenda= template for monitoring =tracker.note=
-- *Tracker:*    [[id:ece2e0ca-c8b5-488f-80dd-58ceec757a0d][Task Tracker Agenda @Tracker]]
+- *Tracker:*    [[id:ece2e0ca-c8b5-488f-80dd-58ceec757a0d][Task Tracker Agenda @Issue]]
 ** TODO Improve Archive :@Nvim:@Orgmode:
 :PROPERTIES:
 :ID: fe0ba4ec-c186-4ec4-8a92-3c25052eb79a
 :END:
 - *OBJECTIVE:*  Improving =archive= notes for future reference and cleanup current workspace
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#org_archive_location][Nvim-orgmode archive location @Github]]
-- *Tracker:*    [[id:ee10580f-462e-4bf2-a31a-241adc1e195f][Orgmode Archive @Tracker]]
+- *Tracker:*    [[id:ee10580f-462e-4bf2-a31a-241adc1e195f][Orgmode Archive @Issue]]
 ** TODO Orgmode Config Cleanup :@Nvim:@Orgmode:
 :PROPERTIES:
 :ID:       c03503ef-a001-4b75-ac5d-f3d7d0fadcfe
 :END:
 - *OBJECTIVE:*  Clean up =orgmode= config for scalability
-- *Tracker:*    [[id:1ecd804b-9eda-4d93-aa6b-8366eec17169][Implementing Task Tracker Note @Tracker]]
+- *Tracker:*    [[id:1ecd804b-9eda-4d93-aa6b-8366eec17169][Implementing Task Tracker Note @Issue]]
 ** DONE Rework Tag System :@Orgmode:_Structure:
 DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 10:05]
 :PROPERTIES:
@@ -134,9 +134,9 @@ DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 10:05]
 :END:
 - *OBJECTIVE:*  Improve =org-tag= system with prefixes
 - *Tracker:*
-  + [X] [[id:fad7fd61-ac4d-4886-819e-f3acfdad2353][[ENHANCE] Orgmode Tag System Prefix @Tracker]]
+  + [X] [[id:fad7fd61-ac4d-4886-819e-f3acfdad2353][[ENHANCE] Orgmode Tag System Prefix @Issue]]
   + [-] [[id:7aed2570-be6d-4dd4-9566-ed2747fc55e6][Implement Plaintext Tag System @Org]]
-  + [X] [[id:55bcb839-0b9f-4f7a-ba4b-a00f29d2f730][Implement Plaintext Tag System @Tracker]]
+  + [X] [[id:55bcb839-0b9f-4f7a-ba4b-a00f29d2f730][Implement Plaintext Tag System @Issue]]
 - *Reference:*  [[https://orgmode.org/manual/Tags.html][Tags Manual @Orgmode]]
 ** TODO Rework global-todo List :@Orgmode:_Structure:
 :PROPERTIES:
@@ -150,4 +150,4 @@ DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 10:05]
 - *OBJECTIVE:*
   + [ ] Refactor =snippets= db
   + [ ] Add headlines snippets (include =ID=)
-- *Tracker:*    [[id:e733de64-736b-4ec7-99d9-f5904b87f476][Orgmode Snippets Refactor @Tracker]]
+- *Tracker:*    [[id:e733de64-736b-4ec7-99d9-f5904b87f476][Orgmode Snippets Refactor @Issue]]

@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID: d65cac6f-1c55-464f-840e-ef12b9977f18
+:END:
+
+#+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
+#+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
+* Enhancements List :typDev:catEnhancement:meta:NOTE:
+** OPEN Implementing Task Tracker Note :_Structure:@Orgmode:
+:PROPERTIES:
+:ID: 1ecd804b-9eda-4d93-aa6b-8366eec17169
+:END:
+Creating a =tracker.note= for better tasks tracking and eliminate the needs to creating =sub-tasks=
+*** Task Tracker Agenda
+:PROPERTIES:
+:ID: ece2e0ca-c8b5-488f-80dd-58ceec757a0d
+:END:
+Monitoring =tracker.note= with =org_agenda=
+*** Executing Tracker Note via Kitty
+:PROPERTIES:
+:ID: 495bb16e-db11-4ee3-b754-2fb9db54dfc8
+:END:
+Open kitty =session= with pre-defined layouts
+- Example =session= file:
+  #+BEGIN_SRC confini
+  layout tall
+  cd /home/whammou/Workspace/kitty-session
+  launch orgmode-agenda
+  launch orgmode-tracker
+  new_tab
+  launch orgmode-browse
+  #+END_SRC
+**** DONE Execute Hardcoded Script in Kitty Session
+CLOSED: [2026-02-26 Thu 18:56]
+:PROPERTIES:
+:ID: 3511cb38-19ae-4b99-aee0-de325a82b579
+:END:
+How to execute a script via kitty session without creating a =binary=
+*** Rework Tracker Template :@Nvim:@Orgmode:
+:PROPERTIES:
+:ID: 56d5a31c-31e6-44ab-8f88-2373e2662bb8
+:END:
+Current =templates= create issue when archiving due to =orgmode_archive= does not select whole file for archiving instead just the =headlines= and =sub-headlines=
+**** DONE Dynamic Tags
+CLOSED: [2026-03-19 Thu 18:58]
+:PROPERTIES:
+:ID: 7f5f7885-73c0-434a-a5dc-45217948c0a3
+:END:
+Automatically assign tags for the topic of current tracker e.g. =_Enhancement=, =@Bug=
+**** DONE Separate Tracker Note
+CLOSED: [2026-03-19 Thu 18:58]
+:PROPERTIES:
+:ID: b57ba4f3-d752-4a83-9e0d-aae05dbbd53b
+:END:
+Separate =tracker.note= into smaller category e.g. =enhancement.org=, =bug.org=, =test.org=

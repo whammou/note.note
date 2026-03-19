@@ -23,7 +23,7 @@ DEADLINE: <2026-02-15 Sun 20:00> CLOSED: [2026-02-16 Mon 23:22]
 :ID: 1df74197-c9c6-4b13-83cf-15a8f94d830a
 :END:
 - *OBJECTIVE:*  Implement =track.note= for complicated =tasks.note=
-- *Tracker:*    [[id:1ecd804b-9eda-4d93-aa6b-8366eec17169][Implementing Task Tracker Note @Tracker]]
+- *Tracker:*    [[id:1ecd804b-9eda-4d93-aa6b-8366eec17169][Implementing Task Tracker Note @Issue]]
 ** DONE Note Capture Add UUID :_Template:
 DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 13:53]
 :PROPERTIES:
@@ -57,7 +57,7 @@ DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 20:21]
 :ID: 8a7e0ad8-a4f9-46f7-831d-ecbd858263ff
 :END:
 - *OBJECTIVE:*  Remove current =latex= hardcoded =header= and replace with with =pandoc= include header
-- *Tracker:*    [[id:b6a92a84-88ad-468d-ad71-f10ba43d4cd9][Match and Remove @Tracker]]
+- *Tracker:*    [[id:b6a92a84-88ad-468d-ad71-f10ba43d4cd9][Match and Remove @Issue]]
 - *Reference:*  [[https://pandoc.org/MANUAL.html][Pandoc Manual @Doc]]
 ** TODO Explore Orgmode Tangle :@Nvim:@Orgmode:
 :PROPERTIES:
@@ -65,14 +65,14 @@ DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 20:21]
 :END:
 - *OBJECTIVE:*  Explore orgmode =tangle= feature
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#extract-source-code-(tangle)][Nvim-orgmode extract source-code block @Github-doc]]
-- *Tracker:*    [[id:cbf6f577-5700-4e40-88bc-3b6160c732b4][Nvim-orgmode Babel Tangle @Tracker]]
+- *Tracker:*    [[id:cbf6f577-5700-4e40-88bc-3b6160c732b4][Nvim-orgmode Babel Tangle @Issue]]
 ** DOIN Orgmode Tracker Template Rework :@Nvim:@Orgmode:
 DEADLINE: <2026-03-19 Thu 13:00>
 :PROPERTIES:
 :ID: d4ccb6e5-4d1d-4e63-966d-61fb94b66061
 :END:
 - *OBJECTIVE:*  Rework =template= of =tracker.note= due to some issues when *archiving*
-- *Tracker:*    [[id:56d5a31c-31e6-44ab-8f88-2373e2662bb8][Rework Tracker Template @Tracker]]
+- *Tracker:*    [[id:56d5a31c-31e6-44ab-8f88-2373e2662bb8][Rework Tracker Template @Issue]]
 ** TODO Test Orgmode Property Inheritance :@Nvim:@Orgmode:
 :PROPERTIES:
 :ID: 70c77db9-3624-49ac-8203-c8266c485e87
@@ -85,5 +85,5 @@ DEADLINE: <2026-03-19 Thu 13:00>
 :END:
 - *OBJECTIVE:*  Test table rendering on github using plugin
 - *Reference:*  [[https://github.com/numEricL/table.vim][Table.nvim @Github]]
-- *Tracker:*    [[id:fe211ecb-ef53-41bd-9eb6-86d8873876a2][[TEST] Table Render @Tracker]]
+- *Tracker:*    [[id:fe211ecb-ef53-41bd-9eb6-86d8873876a2][[TEST] Table Render @Issue]]
   
