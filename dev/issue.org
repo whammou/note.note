@@ -5,7 +5,7 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
 
-* Trackers List :NOTE:typTracker:meta:
+* Issues List :NOTE:typDev:catIssue:meta:
 ** CLSD Test Table Render :_Test:@Orgmode:
 CLOSED: [2026-03-18 Wed 10:15]
 :PROPERTIES:
