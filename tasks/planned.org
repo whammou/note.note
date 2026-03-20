@@ -152,7 +152,7 @@ DEADLINE: <2026-03-20 Fri>
   + [ ] Refactor =snippets= db
   + [X] Add headlines snippets (include =ID=)
 - *Tracker:*    [[id:e733de64-736b-4ec7-99d9-f5904b87f476][Orgmode Snippets Refactor @Issue]]
-*** DOIN Switching to Lua-snippet
+*** NEXT Switching to Lua-snippet
 DEADLINE: <2026-03-20 Fri>
 :PROPERTIES:
 :ID: 88291de4-6ce3-437e-8a98-efbc17ef1462
