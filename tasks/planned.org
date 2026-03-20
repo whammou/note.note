@@ -152,10 +152,17 @@ DEADLINE: <2026-03-20 Fri>
   + [ ] Refactor =snippets= db
   + [X] Add headlines snippets (include =ID=)
 - *Tracker:*    [[id:e733de64-736b-4ec7-99d9-f5904b87f476][Orgmode Snippets Refactor @Issue]]
-*** NEXT Switching to Lua-snippet
-DEADLINE: <2026-03-20 Fri>
+*** DONE Switching to Lua-snippet
+DEADLINE: <2026-03-20 Fri> CLOSED: [2026-03-20 Fri 23:47]
 :PROPERTIES:
 :ID: 88291de4-6ce3-437e-8a98-efbc17ef1462
 :END:
 - *OBJECTIVE:*  Moving on from =friendly-snippet= to =lua-snippet=
 - *Reference:*  [[https://github.com/L3MON4D3/LuaSnip][LuaSnip upstream @Github]]
+*** Snippets with LSP :@Lsp:
+:PROPERTIES:
+:ID: d55af4b9-fc06-450f-ae3b-6e6a7164fb6c
+:END:
+- *OBJECTIVE:*  Running snippets along with =completion= from lsp
+
+- *Issue:*    [[id:184a34b1-9e01-4ae8-b92d-ef580c8f007d][Snippets With triggerCharacters @Issue]]
