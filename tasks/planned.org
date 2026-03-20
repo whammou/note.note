@@ -158,5 +158,4 @@ DEADLINE: <2026-03-20 Fri>
 :ID: 88291de4-6ce3-437e-8a98-efbc17ef1462
 :END:
 - *OBJECTIVE:*  Moving on from =friendly-snippet= to =lua-snippet=
-- *Reference:*  
-[[https://github.com/L3MON4D3/LuaSnip][LuaSnip upstream @Github]]
+- *Reference:*  [[https://github.com/L3MON4D3/LuaSnip][LuaSnip upstream @Github]]
