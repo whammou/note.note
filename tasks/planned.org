@@ -144,6 +144,7 @@ DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 10:05]
 :END:
 - *OBJECTIVE:*  Rework the =global-todo= list
 ** NEXT Rework Orgmode Snippets :@Orgmode:_Snippet:_Structure:
+DEADLINE: <2026-03-23 Mon>
 :PROPERTIES:
 :ID: ab3ba562-f44b-4d49-9741-ddf66534a4b1
 :END:
