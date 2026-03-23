@@ -160,9 +160,10 @@ CLOSED: [2026-03-20 Fri 23:47] DEADLINE: <2026-03-20 Fri>
 :END:
 - *OBJECTIVE:*  Moving on from =friendly-snippet= to =lua-snippet=
 - *Reference:*  [[https://github.com/L3MON4D3/LuaSnip][LuaSnip upstream @Github]]
-*** Snippets with LSP :@Lsp:
+*** DONE Snippets with LSP :@Lsp:
+DEADLINE: <2026-03-24 Tue> CLOSED: [2026-03-24 Tue 03:40]
 :PROPERTIES:
 :ID:       d55af4b9-fc06-450f-ae3b-6e6a7164fb6c
 :END:
 - *OBJECTIVE:*  Running snippets along with =completion= from lsp
-- *Issue:*    [[id:184a34b1-9e01-4ae8-b92d-ef580c8f007d][Trigger Character Conflict @Issue]]
+- *Issue:*      [[id:184a34b1-9e01-4ae8-b92d-ef580c8f007d][Trigger Character Conflict @Issue]]
