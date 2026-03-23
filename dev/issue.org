@@ -144,7 +144,8 @@ rg -l  "\#\+LATEX_HEADER: \\\usepackage" /home/whammou/Journal/ | xargs -i sed -
 :END:
 - [-] /Refactor snippets db/
 - [X] /Refactor snippets to include ID creation on new headline/
-*** OPEN Snippets With triggerCharacters
+*** DONE Trigger Character Conflict
+CLOSED: [2026-03-24 Tue 02:07]
 :PROPERTIES:
 :ID: 184a34b1-9e01-4ae8-b92d-ef580c8f007d
 :END:

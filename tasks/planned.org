@@ -151,7 +151,7 @@ DEADLINE: <2026-03-24 Tue>
 - *OBJECTIVE:*
   + [ ] Refactor =snippets= db
   + [X] Add headlines snippets (include =ID=)
-  + [ ] Moving from =VSCode json= to =luasnip=
+  + [X] Moving from =VSCode json= to =luasnip=
 - *Tracker:*    [[id:e733de64-736b-4ec7-99d9-f5904b87f476][Orgmode Snippets Refactor @Issue]]
 *** DONE Switching to Lua-snippet
 CLOSED: [2026-03-20 Fri 23:47] DEADLINE: <2026-03-20 Fri>
@@ -165,4 +165,4 @@ CLOSED: [2026-03-20 Fri 23:47] DEADLINE: <2026-03-20 Fri>
 :ID:       d55af4b9-fc06-450f-ae3b-6e6a7164fb6c
 :END:
 - *OBJECTIVE:*  Running snippets along with =completion= from lsp
-- *Issue:*    [[id:184a34b1-9e01-4ae8-b92d-ef580c8f007d][Snippets With triggerCharacters @Issue]]
+- *Issue:*    [[id:184a34b1-9e01-4ae8-b92d-ef580c8f007d][Trigger Character Conflict @Issue]]
