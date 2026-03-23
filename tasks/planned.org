@@ -101,22 +101,22 @@ CLOSED: [2025-11-19 Wed 05:41] DEADLINE: <2025-11-19 Wed 05:10>
 #+html:</details>
 - *OBJECTIVE:* Toggle show/hide for =log.note= files
 ** DONE Trigger Update via Notification :@Ntfy:FileSync:
-DEADLINE: <2025-11-19 Wed 19:30> CLOSED: [2025-11-19 Wed 21:17]
+CLOSED: [2025-11-19 Wed 21:17] DEADLINE: <2025-11-19 Wed 19:30>
 - *OBJECTIVE:* Trigger Buffer Update via ntfy-notification
 *** DONE Test =inotifywait= Triggers With =webdav= :WEBDAV:INOTIFY:
-DEADLINE: <2025-11-19 Wed 19:00> CLOSED: [2025-11-19 Wed 21:17]
+CLOSED: [2025-11-19 Wed 21:17] DEADLINE: <2025-11-19 Wed 19:00>
 - *OBJECTIVE:* Test if modification done via =webdav= triggers file-change =event= managed by =inotify=
 - *Reference:* [[https://www.linuxbash.sh/post/use-inotifywait-to-trigger-actions-on-file-changes][Trigger actions on file change @Linux-bash]]
 ** DONE Create Task Tracker Agenda :@Orgmode:OrgAgenda:
-DEADLINE: <2026-02-15 Sun 20:30> CLOSED: [2026-02-19 Thu 22:04]
+CLOSED: [2026-02-19 Thu 22:04] DEADLINE: <2026-02-15 Sun 20:30>
 :PROPERTIES:
-:ID: 1695c157-867c-4401-9def-e2656442fac6
+:ID:       1695c157-867c-4401-9def-e2656442fac6
 :END:
 - *OBJECTIVE:*  Create =org_agenda= template for monitoring =tracker.note=
 - *Tracker:*    [[id:ece2e0ca-c8b5-488f-80dd-58ceec757a0d][Task Tracker Agenda @Issue]]
 ** TODO Improve Archive :@Nvim:@Orgmode:
 :PROPERTIES:
-:ID: fe0ba4ec-c186-4ec4-8a92-3c25052eb79a
+:ID:       fe0ba4ec-c186-4ec4-8a92-3c25052eb79a
 :END:
 - *OBJECTIVE:*  Improving =archive= notes for future reference and cleanup current workspace
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#org_archive_location][Nvim-orgmode archive location @Github]]
@@ -128,9 +128,9 @@ DEADLINE: <2026-02-15 Sun 20:30> CLOSED: [2026-02-19 Thu 22:04]
 - *OBJECTIVE:*  Clean up =orgmode= config for scalability
 - *Tracker:*    [[id:1ecd804b-9eda-4d93-aa6b-8366eec17169][Implementing Task Tracker Note @Issue]]
 ** DONE Rework Tag System :@Orgmode:_Structure:
-DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 10:05]
+CLOSED: [2026-03-18 Wed 10:05] DEADLINE: <2026-03-18 Wed>
 :PROPERTIES:
-:ID: 58a9ea91-dea1-4d09-aaf7-946b753bc3e3
+:ID:       58a9ea91-dea1-4d09-aaf7-946b753bc3e3
 :END:
 - *OBJECTIVE:*  Improve =org-tag= system with prefixes
 - *Tracker:*
@@ -140,28 +140,29 @@ DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 10:05]
 - *Reference:*  [[https://orgmode.org/manual/Tags.html][Tags Manual @Orgmode]]
 ** TODO Rework global-todo List :@Orgmode:_Structure:
 :PROPERTIES:
-:ID: 0d7797e4-b1b2-4860-a804-763abf8dd8c0
+:ID:       0d7797e4-b1b2-4860-a804-763abf8dd8c0
 :END:
 - *OBJECTIVE:*  Rework the =global-todo= list
 ** NEXT Rework Orgmode Snippets :@Orgmode:_Snippet:_Structure:
 DEADLINE: <2026-03-23 Mon>
 :PROPERTIES:
-:ID: ab3ba562-f44b-4d49-9741-ddf66534a4b1
+:ID:       ab3ba562-f44b-4d49-9741-ddf66534a4b1
 :END:
 - *OBJECTIVE:*
   + [ ] Refactor =snippets= db
   + [X] Add headlines snippets (include =ID=)
+  + [ ] Moving from =VSCode json= to =luasnip=
 - *Tracker:*    [[id:e733de64-736b-4ec7-99d9-f5904b87f476][Orgmode Snippets Refactor @Issue]]
 *** DONE Switching to Lua-snippet
-DEADLINE: <2026-03-20 Fri> CLOSED: [2026-03-20 Fri 23:47]
+CLOSED: [2026-03-20 Fri 23:47] DEADLINE: <2026-03-20 Fri>
 :PROPERTIES:
-:ID: 88291de4-6ce3-437e-8a98-efbc17ef1462
+:ID:       88291de4-6ce3-437e-8a98-efbc17ef1462
 :END:
 - *OBJECTIVE:*  Moving on from =friendly-snippet= to =lua-snippet=
 - *Reference:*  [[https://github.com/L3MON4D3/LuaSnip][LuaSnip upstream @Github]]
 *** Snippets with LSP :@Lsp:
 :PROPERTIES:
-:ID: d55af4b9-fc06-450f-ae3b-6e6a7164fb6c
+:ID:       d55af4b9-fc06-450f-ae3b-6e6a7164fb6c
 :END:
 - *OBJECTIVE:*  Running snippets along with =completion= from lsp
 - *Issue:*    [[id:184a34b1-9e01-4ae8-b92d-ef580c8f007d][Snippets With triggerCharacters @Issue]]
