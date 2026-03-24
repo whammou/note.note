@@ -54,3 +54,10 @@ CLOSED: [2026-03-19 Thu 18:58]
 :ID: b57ba4f3-d752-4a83-9e0d-aae05dbbd53b
 :END:
 Separate =tracker.note= into smaller category e.g. =enhancement.org=, =bug.org=, =test.org=
+** OPEN Lua-snip Nested and Auto-expand Snippets :@Nvim:LuaSnip:_Optimize:
+:PROPERTIES:
+:ID: 7f5850cc-f28b-45b6-8a00-1c0b396ef41f
+:END:
+#+begin_quote org
+Using lua-snip to nesting snippets from different languages and auto-expanding on demand
+#+end_quote
