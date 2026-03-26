@@ -5,12 +5,14 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
 * Enhancements List :typDev:catEnhancement:meta:NOTE:
-** PROG Implementing Task Tracker Note :_Structure:@Orgmode:
+** DONE Implementing Task Tracker Note :_Structure:@Orgmode:
+CLOSED: [2026-03-26 Thu 13:44]
 :PROPERTIES:
 :ID: 1ecd804b-9eda-4d93-aa6b-8366eec17169
 :END:
 Creating a =tracker.note= for better tasks tracking and eliminate the needs to creating =sub-tasks=
-*** OPEN Task Tracker Agenda
+*** DONE Task Tracker Agenda
+CLOSED: [2026-03-26 Thu 13:44]
 :PROPERTIES:
 :ID: ece2e0ca-c8b5-488f-80dd-58ceec757a0d
 :END:
