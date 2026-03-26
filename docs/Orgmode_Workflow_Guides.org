@@ -5,14 +5,14 @@
 
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
-#+FILETAGS: :typDoc:meta:NOTE:@Orgmode:WORKFLOW:
+#+FILETAGS: :typDoc:meta:NOTE:subOrgmode:WORKFLOW:
 #+HTML:<details>
 
-* Orgmode Worflow Guide :typDoc:meta:NOTE:@Orgmode:WORKFLOW:
+* Orgmode Worflow Guide :typDoc:meta:NOTE:subOrgmode:WORKFLOW:
 #+HTML:</details>
 A collection of niceties workflows using =orgmode= and attempts to incorporate them into the current =org-database=
 - *Reference:* [[http://doc.norang.ca/org-mode.html][A Detailed orgmode workflow guide @Blog]]
-** DONE The Principles :@Orgmode:
+** DONE The Principles :subOrgmode:
 CLOSED: [2025-09-07 Sun 02:54]
 1. *Do Not Add Tasks Indiscriminately* \\
    Not every task should go into the system. Avoid filling the system with trivial =tasks= and diluting things that matter. Only add =tasks= that matters

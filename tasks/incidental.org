@@ -51,7 +51,7 @@ DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 15:48]
 #+html:</details>
 - *OBJECTIVE:*  Manage =snippets= for =orgmode=
 - *Visit:*       [[id:3057de0a-69c4-46c5-b2b9-cb92287fcf39][Note Capture Add UUID @Org]]
-** DONE Remove Note Latex Header :@Pandoc:@Orgmode:_Structure:
+** DONE Remove Note Latex Header :subPandoc:subOrgmode:_Structure:
 DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 20:21]
 :PROPERTIES:
 :ID: 8a7e0ad8-a4f9-46f7-831d-ecbd858263ff
@@ -59,27 +59,27 @@ DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 20:21]
 - *OBJECTIVE:*  Remove current =latex= hardcoded =header= and replace with with =pandoc= include header
 - *Tracker:*    [[id:b6a92a84-88ad-468d-ad71-f10ba43d4cd9][Match and Remove @Issue]]
 - *Reference:*  [[https://pandoc.org/MANUAL.html][Pandoc Manual @Doc]]
-** TODO Explore Orgmode Tangle :@Nvim:@Orgmode:
+** TODO Explore Orgmode Tangle :subNvim:subOrgmode:
 :PROPERTIES:
 :ID: 06b7c1f9-7cb4-4a57-8e5a-1c0e8ddf2838
 :END:
 - *OBJECTIVE:*  Explore orgmode =tangle= feature
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#extract-source-code-(tangle)][Nvim-orgmode extract source-code block @Github-doc]]
 - *Tracker:*    [[id:cbf6f577-5700-4e40-88bc-3b6160c732b4][Nvim-orgmode Babel Tangle @Issue]]
-** DONE Orgmode Tracker Template Rework :@Nvim:@Orgmode:
+** DONE Orgmode Tracker Template Rework :subNvim:subOrgmode:
 DEADLINE: <2026-03-19 Thu 13:00> CLOSED: [2026-03-20 Fri 03:29]
 :PROPERTIES:
 :ID: d4ccb6e5-4d1d-4e63-966d-61fb94b66061
 :END:
 - *OBJECTIVE:*  Rework =template= of =tracker.note= due to some issues when *archiving*
 - *Tracker:*    [[id:56d5a31c-31e6-44ab-8f88-2373e2662bb8][Rework Tracker Template @Issue]]
-** TODO Test Orgmode Property Inheritance :@Nvim:@Orgmode:
+** TODO Test Orgmode Property Inheritance :subNvim:subOrgmode:
 :PROPERTIES:
 :ID: 70c77db9-3624-49ac-8203-c8266c485e87
 :END:
 - *OBJECTIVE:*  Testing orgmode =property_inheritance= when moving to archive
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#org_use_property_inheritance][Nvim-orgmode org_use_property_inheritance @Github-doc]]
-** TODO Test Render Table :@Orgmode:
+** TODO Test Render Table :subOrgmode:
 :PROPERTIES:
 :ID: 274913a8-f8f2-456e-8ba6-34b4b19525c6
 :END:

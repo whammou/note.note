@@ -29,10 +29,10 @@ CLOSED: [2025-10-07 Tue 23:26] DEADLINE: <2025-10-07 Tue>
 2. Copy new =log.org= from =template.note=
 :END:
 #+html:</details>
-*** PEND Github Actions Script Runner :@Github:GithubActions:
+*** PEND Github Actions Script Runner :subGithub:GithubActions:
 - *OBJECTIVE:* Create runner of =cleanup script=
 - *Check-out:* [[id:cdd00540-67f5-4480-9c4f-32807ad84962][Github Actions Script @Org]]
-** DONE Initiate Orgmode Server :@Homelab:HomelabSetup:FileSync:
+** DONE Initiate Orgmode Server :subHomelab:HomelabSetup:FileSync:
 CLOSED: [2026-02-09 Mon 20:53]
 - *OBJECTIVE:* Create a synchronous orgmode server and get real-time notification
 - *Visit:* [[id:e5c883ff-bea6-4853-9514-5fa3fb6a2c6e][Orgmode Server @Org]]
@@ -50,7 +50,7 @@ CLOSED: [2026-02-09 Mon 20:58]
 #+html:</details>
 - *OBJECTIVE:* Sync between server and machines
 - *Reference:* [[https://whhone.com/posts/webdav-syncthing/][Webdav Syncthing Setup @Blog]]
-** RVIW Orgmode Nvim Auto-update :@Orgmode:@Nvim:FileSync:FileSync:
+** RVIW Orgmode Nvim Auto-update :subOrgmode:subNvim:FileSync:FileSync:
 CLOSED: [2025-11-19 Wed 01:25] DEADLINE: <2025-11-19 Wed 19:00>
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
@@ -89,7 +89,7 @@ CLOSED: [2025-11-19 Wed 01:25] DEADLINE: <2025-11-19 Wed 01:30>
 #+html:</details>
 - *OBJECTIVE:* Successfully connect to =nvim-orgmode-server=
 - *Check-out:* [[id:f27a4dad-0408-48b7-80bb-5e2667f9e3c2][Nvim Auto Connect @Org]]
-** DONE Toggle Log Files :@Orgmode:_Structure:
+** DONE Toggle Log Files :subOrgmode:_Structure:
 CLOSED: [2025-11-19 Wed 05:41] DEADLINE: <2025-11-19 Wed 05:10>
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
@@ -100,34 +100,34 @@ CLOSED: [2025-11-19 Wed 05:41] DEADLINE: <2025-11-19 Wed 05:10>
 :END:
 #+html:</details>
 - *OBJECTIVE:* Toggle show/hide for =log.note= files
-** DONE Trigger Update via Notification :@Ntfy:FileSync:
+** DONE Trigger Update via Notification :subNtfy:FileSync:
 CLOSED: [2025-11-19 Wed 21:17] DEADLINE: <2025-11-19 Wed 19:30>
 - *OBJECTIVE:* Trigger Buffer Update via ntfy-notification
 *** DONE Test =inotifywait= Triggers With =webdav= :WEBDAV:INOTIFY:
 CLOSED: [2025-11-19 Wed 21:17] DEADLINE: <2025-11-19 Wed 19:00>
 - *OBJECTIVE:* Test if modification done via =webdav= triggers file-change =event= managed by =inotify=
 - *Reference:* [[https://www.linuxbash.sh/post/use-inotifywait-to-trigger-actions-on-file-changes][Trigger actions on file change @Linux-bash]]
-** DONE Create Task Tracker Agenda :@Orgmode:OrgAgenda:
+** DONE Create Task Tracker Agenda :subOrgmode:OrgAgenda:
 CLOSED: [2026-02-19 Thu 22:04] DEADLINE: <2026-02-15 Sun 20:30>
 :PROPERTIES:
 :ID:       1695c157-867c-4401-9def-e2656442fac6
 :END:
 - *OBJECTIVE:*  Create =org_agenda= template for monitoring =tracker.note=
 - *Tracker:*    [[id:ece2e0ca-c8b5-488f-80dd-58ceec757a0d][Task Tracker Agenda @Issue]]
-** TODO Improve Archive :@Nvim:@Orgmode:
+** TODO Improve Archive :subNvim:subOrgmode:
 :PROPERTIES:
 :ID:       fe0ba4ec-c186-4ec4-8a92-3c25052eb79a
 :END:
 - *OBJECTIVE:*  Improving =archive= notes for future reference and cleanup current workspace
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#org_archive_location][Nvim-orgmode archive location @Github]]
 - *Tracker:*    [[id:ee10580f-462e-4bf2-a31a-241adc1e195f][Orgmode Archive @Issue]]
-** TODO Orgmode Config Cleanup :@Nvim:@Orgmode:
+** TODO Orgmode Config Cleanup :subNvim:subOrgmode:
 :PROPERTIES:
 :ID:       c03503ef-a001-4b75-ac5d-f3d7d0fadcfe
 :END:
 - *OBJECTIVE:*  Clean up =orgmode= config for scalability
 - *Tracker:*    [[id:1ecd804b-9eda-4d93-aa6b-8366eec17169][Implementing Task Tracker Note @Issue]]
-** DONE Rework Tag System :@Orgmode:_Structure:
+** DONE Rework Tag System :subOrgmode:_Structure:
 CLOSED: [2026-03-18 Wed 10:05] DEADLINE: <2026-03-18 Wed>
 :PROPERTIES:
 :ID:       58a9ea91-dea1-4d09-aaf7-946b753bc3e3
@@ -138,12 +138,12 @@ CLOSED: [2026-03-18 Wed 10:05] DEADLINE: <2026-03-18 Wed>
   + [-] [[id:7aed2570-be6d-4dd4-9566-ed2747fc55e6][Implement Plaintext Tag System @Org]]
   + [X] [[id:55bcb839-0b9f-4f7a-ba4b-a00f29d2f730][Implement Plaintext Tag System @Issue]]
 - *Reference:*  [[https://orgmode.org/manual/Tags.html][Tags Manual @Orgmode]]
-** TODO Rework global-todo List :@Orgmode:_Structure:
+** TODO Rework global-todo List :subOrgmode:_Structure:
 :PROPERTIES:
 :ID:       0d7797e4-b1b2-4860-a804-763abf8dd8c0
 :END:
 - *OBJECTIVE:*  Rework the =global-todo= list
-** WAIT Rework Orgmode Snippets :@Orgmode:_Snippet:_Structure:
+** WAIT Rework Orgmode Snippets :subOrgmode:_Snippet:_Structure:
 DEADLINE: <2026-03-26 Thu>
 :PROPERTIES:
 :ID:       ab3ba562-f44b-4d49-9741-ddf66534a4b1
@@ -163,7 +163,7 @@ CLOSED: [2026-03-20 Fri 23:47] DEADLINE: <2026-03-20 Fri>
 :END:
 - *OBJECTIVE:*  Moving on from =friendly-snippet= to =lua-snippet=
 - *Reference:*  [[https://github.com/L3MON4D3/LuaSnip][LuaSnip upstream @Github]]
-*** DONE Snippets with LSP :@Lsp:
+*** DONE Snippets with LSP :subLsp:
 DEADLINE: <2026-03-24 Tue> CLOSED: [2026-03-24 Tue 03:40]
 :PROPERTIES:
 :ID:       d55af4b9-fc06-450f-ae3b-6e6a7164fb6c

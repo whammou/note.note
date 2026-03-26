@@ -6,7 +6,7 @@
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
 
 * Issues List :NOTE:typDev:catIssue:meta:
-** CLSD Test Table Render :_Test:@Orgmode:
+** CLSD Test Table Render :_Test:subOrgmode:
 CLOSED: [2026-03-18 Wed 10:15]
 :PROPERTIES:
 :ID:       fe211ecb-ef53-41bd-9eb6-86d8873876a2
@@ -26,7 +26,7 @@ Testing =nvim-orgmode= table render \\
 |----------|----------|----------|
 | Cell 1   | Cell 2   | Cell 3   |
 | Cell 4   | Cell 5   | Cell 6   |
-** CLSD Orgmode Tag System Prefix :@Orgmode:_Structure:
+** CLSD Orgmode Tag System Prefix :subOrgmode:_Structure:
 CLOSED: [2026-03-18 Wed 10:15]
 :PROPERTIES:
 :ID:       fad7fd61-ac4d-4886-819e-f3acfdad2353
@@ -86,7 +86,7 @@ Plaintext Prefixes:
 - =cat= - for identifier tag e.g. =catOneoff=
 - =HungarianNotation= - for specific tag e.g. =NvimConfig=
 - =lowercase= - for special tag e.g. =noexport=, =meta=, =content=
-** CLSD Orgmode Tag Tests :_Test:@Orgmode:_Structure:
+** CLSD Orgmode Tag Tests :_Test:subOrgmode:_Structure:
 CLOSED: [2026-03-17 Tue 21:29]
 :PROPERTIES:
 :ID:       d95dff11-93ed-4f7b-9e6f-96c152127c2b
@@ -98,7 +98,7 @@ CLOSED: [2026-03-17 Tue 21:29]
   Failed on =github= and =orgzly= -> resort to plaintext method ([[id:08b9ebef-b31d-4a2b-99fe-c0bc968065f1][Hungarian Notation]])
 :END:
 #+html:</details>
-*** CLSD Nvim-orgmode Test :FOOBAR:@note:%tracker:#meta:_This_is_a_headline:_Identifier:
+*** CLSD Nvim-orgmode Test :FOOBAR:subnote:%tracker:#meta:_This_is_a_headline:_Identifier:
 CLOSED: [2026-03-16 Mon 21:58]
 :PROPERTIES:
 :ID:       25848b1a-3eb5-4f3c-9755-0efb19bcb5e4
@@ -107,7 +107,7 @@ CLOSED: [2026-03-16 Mon 21:58]
 - [X] Matching headline
 - [X] Correctly Render
 - [X] Following =org= syntax
-*** CLSD Orgzly Test :FOO:@NoteOrgzly:%tracker_orgzly:#meta_orgzly:_This_is_a_headline:@orgzly:_identifier:
+*** CLSD Orgzly Test :FOO:subNoteOrgzly:%tracker_orgzly:#meta_orgzly:_This_is_a_headline:suborgzly:_identifier:
 CLOSED: [2026-03-16 Mon 22:34]
 :PROPERTIES:
 :ID:       83f55b3e-cf56-4900-be90-b8aae79c96ed
@@ -129,7 +129,7 @@ CLOSED: [2026-03-17 Tue 17:31]
 :ID:       00758ee1-900e-418b-9fa7-cab4cb41b62c
 :END:
 =Snack_case= variable is not a valid syntax for a tag on github =org-ruby= parser. But =_= as prefix is valid e.g. =_foo= is a valid tag
-** CLSD Match and Remove :@Bash:
+** CLSD Match and Remove :subBash:
 CLOSED: [2026-03-18 Wed 20:18]
 :PROPERTIES:
 :ID: b6a92a84-88ad-468d-ad71-f10ba43d4cd9
@@ -138,7 +138,7 @@ CLOSED: [2026-03-18 Wed 20:18]
 #+BEGIN_SRC sh
 rg -l  "\#\+LATEX_HEADER: \\\usepackage" /home/whammou/Journal/ | xargs -i sed -i '/^#+LATEX_HEADER:.*helvet/d' {}
 #+END_SRC
-** OPEN Orgmode Snippets Refactor :@Orgmode:_Refactor:
+** OPEN Orgmode Snippets Refactor :subOrgmode:_Refactor:
 :PROPERTIES:
 :ID: e733de64-736b-4ec7-99d9-f5904b87f476
 :END:
