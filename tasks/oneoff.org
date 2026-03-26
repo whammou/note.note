@@ -3,7 +3,7 @@
 #+TITLE: Note Oneoff Tasks
 
 * List of Oneoff Tasks :typTask:catOneoff:NOTE:meta:
-** DONE Rework todo-keywords :subOrgmode:_Layout:KEYWORD:
+** DONE Rework todo-keywords :subOrgmode:opLayout:KEYWORD:
 CLOSED: [2025-08-09 Sat 02:23] DEADLINE: <2025-08-09 Sat>
 - *OBJECTIVE:* Rework =todo-keywords= to work with =pandoc= and =github=
 -----
@@ -30,7 +30,7 @@ CLOSED: [2025-08-15 Fri 21:03] DEADLINE: <2025-08-15 Fri>
 CLOSED: [2025-08-14 Thu 21:35] DEADLINE: <2025-08-14 Thu>
 - *OBJECTIVE:* Add Github special block into templates
 - *Reference:* [[https://ao.bloat.cat/exchange/webapps.stackexchange.com/questions/44118/special-characters-in-github-markdown-code-blocks][Github special character code block @Github-doc]]
-** DONE Rework Orgroam Capture Templates :_Template:ORGROAM:
+** DONE Rework Orgroam Capture Templates :opTemplate:ORGROAM:
 CLOSED: [2025-08-16 Sat 21:10] DEADLINE: <2025-08-16 Sat>
 - *OBJECTIVE:* Rework capture template for =orgroam=
 - *Reference:* [[https://github.com/chipsenkbeil/org-roam.nvim/blob/main/DOCS.org#immediate][Nvim-orgroam immediate mode @Github-doc]]
@@ -47,7 +47,7 @@ CLOSED: [2025-08-15 Fri 13:58] DEADLINE: <2025-08-15 Fri>
 CLOSED: [2025-08-16 Sat 14:41] DEADLINE: <2025-08-16 Sat>
 - *OBJECTIVE:* Checkout a way to take note while playing media
 - *Reference:* [[https://github.com/yuchen-lea/org-media-note][Org-media-note @Github]]
-** ABRT Test Orgmode Include :subOrgmode:subPandoc:subGithub:_Layout:
+** ABRT Test Orgmode Include :subOrgmode:subPandoc:subGithub:opLayout:
 CLOSED: [2025-08-17 Sun 14:56] DEADLINE: <2025-08-16 Sat>
 - *OBJECTIVE:* Test orgmode =#+include:= export with pandoc and github render 
 -----
@@ -120,7 +120,7 @@ CLOSED: [2025-09-13 Sat 09:41] DEADLINE: <2025-09-13 Sat>
     + [X] Create /shopping/ =list.note=
     + [X] Create /location/ =list.note=
 -----
-** DONE Tasks Capturing Update :_Layout:
+** DONE Tasks Capturing Update :opLayout:
 CLOSED: [2025-08-29 Fri 16:02] DEADLINE: <2025-08-29 Fri>
 + *OBJECTIVE:* Capture tasks into separated =notes= based on =type=
 -----
@@ -188,10 +188,10 @@ CLOSED: [2025-09-12 Fri 03:43] DEADLINE: <2025-09-12 Fri>
 - *Reference:*
   + [[https://github.com/a-dma/gruvbox-css][Gruvbox css style html @Github]]
   + [[https://orgmode.org/manual/CSS-support.html][Orgmode CSS Support @Org-doc]]
-** DONE Create Note Backlogs :_Structure:
+** DONE Create Note Backlogs :opStructure:
 CLOSED: [2025-09-12 Fri 08:48] DEADLINE: <2025-09-12 Fri>
 - *OBJECTIVE:* Create a =backlog.note= to quickly open and choose =tasks= /to do/ next
-** TODO Clean up Backlogs :_Cleanup:
+** TODO Clean up Backlogs :opCleanup:
 - *OBJECTIVE:* Clean up and update =backlogs=
 ** PEND Capture Assets :ASSET:
 - *OBJECTIVE:* Capture and resize assets to note
@@ -201,9 +201,9 @@ CLOSED: [2025-09-12 Fri 08:48] DEADLINE: <2025-09-12 Fri>
 ** DONE Migrate Old Lists
 CLOSED: [2025-10-05 Sun 19:21] DEADLINE: <2025-10-05 Sun>
 - *OBJECTIVE:* Migrate old =list.note=
-** PEND More Detailed Logs :_Structure:
+** PEND More Detailed Logs :opStructure:
 - *OBJECTIVE:* Separate =log.note= into smaller files for more fine tune query search
-** DONE Implement Item List :_Structure:
+** DONE Implement Item List :opStructure:
 CLOSED: [2025-10-15 Wed 22:31]
 - *OBJECTIVE:* Implement =item.note=
 #+name:LOGBOOK
@@ -213,7 +213,7 @@ CLOSED: [2025-10-15 Wed 22:31]
   =item= notes are used to sync between notes without being outdated or have to re-define every time a repeating item is called
 :END:
 #+html:</details>
-** WAIT Modular Notes Repos :subGit:_Structure:
+** WAIT Modular Notes Repos :subGit:opStructure:
 - *OBJECTIVE:* Separate =notes= into smaller =repos=
 - *Visit:* [[id:0ac3ce98-9f59-468f-acfd-c494c879986b][Managing A Nested Git Project @Org]]
 *** DONE Isolated Node Container
@@ -240,7 +240,7 @@ CLOSED: [2025-10-09 Thu 02:08] DEADLINE: <2025-10-09 Thu>
   =orgmode.nvim= is currently *not* supported =tag groups=
 -----
 - *Reference:* [[https://orgmode.org/guide/Tags.html#Tag-groups-1][Orgmode Tag-Group @Org-wiki]]
-** DONE Implement Note Sync :_Cleanup:FileSync:
+** DONE Implement Note Sync :opCleanup:FileSync:
 CLOSED: [2025-11-12 Wed 16:38] DEADLINE: <2025-11-12 Wed>
 :PROPERTIES:
 :ID:       e895a35f-c6ca-46fe-b875-8cc1620b87b5
@@ -267,14 +267,14 @@ CLOSED: [2025-11-12 Wed 16:38] DEADLINE: <2025-11-12 Wed>
 - *Checkout:*
   + [[id:f812d244-aaa5-49b1-9cca-c46d9474a24b][Automatize House Keeping @Org]]
   + [[id:038b7433-7aa0-425f-a718-0b1ef8fbc11f][Local Repos Sync @Org]]
-** DONE Implement Note Category :_Structure:
+** DONE Implement Note Category :opStructure:
 CLOSED: [2025-10-11 Sat 22:12] DEADLINE: <2025-10-11 Sat>
 - *OBJECTIVE:* Implement note category
 -----
 - *[NOTE]* taken on [2025-10-11 22:11]: \\
   =orgzly= does not support =category= property search yet
 -----
-** DONE Implement Reminder Note :_Structure:
+** DONE Implement Reminder Note :opStructure:
 CLOSED: [2025-11-19 Wed 08:38] DEADLINE: <2025-11-19 Wed>
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
@@ -293,7 +293,7 @@ CLOSED: [2025-12-05 Fri 17:41] DEADLINE: <2025-12-05 Fri 19:00>
 ** DONE Change Keyword Palette :subOrgmode:UI:
 DEADLINE: <2026-02-11 Wed> CLOSED: [2026-03-04 Wed 23:00]
 - *OBJECTIVE:* Update color palette for orgmode keywords
-** TODO [#A] Clean Up Todo List :_Cleanup:
+** TODO [#A] Clean Up Todo List :opCleanup:
 :PROPERTIES:
 :ID: 85763dfe-6ce1-4a04-8d00-6546d4a9aa18
 :END:

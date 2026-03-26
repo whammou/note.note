@@ -3,7 +3,7 @@
 #+TITLE: Note Incidental Tasks
 
 * List of Incidental Tasks :typTask:catIncidental:NOTE:meta:
-** DONE Note Paragraph Format :_Format:
+** DONE Note Paragraph Format :opFormat:
 CLOSED: [2025-08-12 Tue 10:26] DEADLINE: <2025-08-12 Tue>
 - *OBJECTIVE:* Test orgmode =paragraph= format
 -----
@@ -12,7 +12,7 @@ CLOSED: [2025-08-12 Tue 10:26] DEADLINE: <2025-08-12 Tue>
   To enforce a line break within a paragraph use =\\= at the end of the line
 -----
 - *Reference:* [[https://orgmode.org/manual/Paragraphs.html][Org Paragraph @Orgmode-doc]]
-** TODO Implement Milestone Notes :_Structure:
+** TODO Implement Milestone Notes :opStructure:
 :PROPERTIES:
 :ID: e24bcb83-9333-4bb8-a538-9ecdd2844c97
 :END:
@@ -24,20 +24,20 @@ DEADLINE: <2026-02-15 Sun 20:00> CLOSED: [2026-02-16 Mon 23:22]
 :END:
 - *OBJECTIVE:*  Implement =track.note= for complicated =tasks.note=
 - *Tracker:*    [[id:1ecd804b-9eda-4d93-aa6b-8366eec17169][Implementing Task Tracker Note @Issue]]
-** DONE Note Capture Add UUID :_Template:
+** DONE Note Capture Add UUID :opTemplate:
 DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 13:53]
 :PROPERTIES:
 :ID: 3057de0a-69c4-46c5-b2b9-cb92287fcf39
 :END:
 - *OBJECTIVE:*  Update =tasks.note= capture to include =uuid=
-** DONE Update Orgmode Templates :_Template:
+** DONE Update Orgmode Templates :opTemplate:
 DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 15:39]
 :PROPERTIES:
 :ID: 7468fc68-251b-499c-a7f3-4547c4f024c7
 :END:
 - *OBJECTIVE:*  Update =templates= for orgmode
 - *Visit:*      [[id:3057de0a-69c4-46c5-b2b9-cb92287fcf39][Note Capture Add UUID @Org]]
-** DONE Update Orgmode Snippets :_Snippet:
+** DONE Update Orgmode Snippets :opSnippet:
 DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 15:48]
 :PROPERTIES:
 :ID: b86a8e51-a3fe-4509-91e3-6c9f985fff89
@@ -51,7 +51,7 @@ DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 15:48]
 #+html:</details>
 - *OBJECTIVE:*  Manage =snippets= for =orgmode=
 - *Visit:*       [[id:3057de0a-69c4-46c5-b2b9-cb92287fcf39][Note Capture Add UUID @Org]]
-** DONE Remove Note Latex Header :subPandoc:subOrgmode:_Structure:
+** DONE Remove Note Latex Header :subPandoc:subOrgmode:opStructure:
 DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 20:21]
 :PROPERTIES:
 :ID: 8a7e0ad8-a4f9-46f7-831d-ecbd858263ff

@@ -5,10 +5,10 @@
 
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
-#+FILETAGS: :typDoc:subProject:_Cleanup:
+#+FILETAGS: :typDoc:subProject:opCleanup:
 #+HTML:<details>
 
-* OUTL Automatize House Keeping :typDoc:meta:_Cleanup:NOTE:
+* OUTL Automatize House Keeping :typDoc:meta:opCleanup:NOTE:
 #+HTML:</details>
 /Speed up the process of house keeping my notes/
 ** EXPL Replace Metadata

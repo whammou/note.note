@@ -3,7 +3,7 @@
 #+TITLE: Note Planned Tasks
 
 * List of Planned Tasks :meta:typTask:catPlanned:NOTE:
-** DONE Implement Uniform Keywords :_Layout:KEYWORD:
+** DONE Implement Uniform Keywords :opLayout:subOrgmode@subKeyword:
 CLOSED: [2025-10-07 Tue 23:27] DEADLINE: <2025-10-07 Tue>
 - *OBJECTIVE:* Implement the =4-letter= keywords method
 *** DONE Replace Identity Keywords
@@ -16,9 +16,9 @@ CLOSED: [2025-10-07 Tue 23:27] DEADLINE: <2025-10-07 Tue>
 *** DONE Translate to Uniform Keywords
 CLOSED: [2025-10-07 Tue 23:26] DEADLINE: <2025-10-07 Tue>
 - *OBJECTIVE:* Translate /current keywords/ set to /uniform keywords set/
-** PEND Index Note :_Index:
+** PEND Index Note :opIndex:
 - *OBJECTIVE:* Create an =index.note= that contains all the =tags= object of a =topic=
-** TODO Cleaning up Logs Script :_Cleanup:
+** TODO Cleaning up Logs Script :opCleanup:
 - *OBJECTIVE:* Create a script to clean up =logs.note=
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
@@ -89,7 +89,7 @@ CLOSED: [2025-11-19 Wed 01:25] DEADLINE: <2025-11-19 Wed 01:30>
 #+html:</details>
 - *OBJECTIVE:* Successfully connect to =nvim-orgmode-server=
 - *Check-out:* [[id:f27a4dad-0408-48b7-80bb-5e2667f9e3c2][Nvim Auto Connect @Org]]
-** DONE Toggle Log Files :subOrgmode:_Structure:
+** DONE Toggle Log Files :subOrgmode:opStructure:
 CLOSED: [2025-11-19 Wed 05:41] DEADLINE: <2025-11-19 Wed 05:10>
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
@@ -127,7 +127,7 @@ CLOSED: [2026-02-19 Thu 22:04] DEADLINE: <2026-02-15 Sun 20:30>
 :END:
 - *OBJECTIVE:*  Clean up =orgmode= config for scalability
 - *Tracker:*    [[id:1ecd804b-9eda-4d93-aa6b-8366eec17169][Implementing Task Tracker Note @Issue]]
-** DONE Rework Tag System :subOrgmode:_Structure:
+** DONE Rework Tag System :subOrgmode:opStructure:
 CLOSED: [2026-03-18 Wed 10:05] DEADLINE: <2026-03-18 Wed>
 :PROPERTIES:
 :ID:       58a9ea91-dea1-4d09-aaf7-946b753bc3e3
@@ -138,13 +138,13 @@ CLOSED: [2026-03-18 Wed 10:05] DEADLINE: <2026-03-18 Wed>
   + [-] [[id:7aed2570-be6d-4dd4-9566-ed2747fc55e6][Implement Plaintext Tag System @Org]]
   + [X] [[id:55bcb839-0b9f-4f7a-ba4b-a00f29d2f730][Implement Plaintext Tag System @Issue]]
 - *Reference:*  [[https://orgmode.org/manual/Tags.html][Tags Manual @Orgmode]]
-** TODO Rework global-todo List :subOrgmode:_Structure:
+** TODO Rework global-todo List :subOrgmode:opStructure:
 :PROPERTIES:
 :ID:       0d7797e4-b1b2-4860-a804-763abf8dd8c0
 :END:
 - *OBJECTIVE:*  Rework the =global-todo= list
-** WAIT Rework Orgmode Snippets :subOrgmode:_Snippet:_Structure:
-DEADLINE: <2026-03-26 Thu>
+** WAIT Rework Orgmode Snippets :subOrgmode:opSnippet:opStructure:
+DEADLINE: <2026-03-27 Fri>
 :PROPERTIES:
 :ID:       ab3ba562-f44b-4d49-9741-ddf66534a4b1
 :END:
@@ -170,8 +170,8 @@ DEADLINE: <2026-03-24 Tue> CLOSED: [2026-03-24 Tue 03:40]
 :END:
 - *OBJECTIVE:*  Running snippets along with =completion= from lsp
 - *Issue:*      [[id:184a34b1-9e01-4ae8-b92d-ef580c8f007d][Trigger Character Conflict @Issue]]
-*** DOIN Snippets Database Refactor :_Refactor:
-DEADLINE: <2026-03-26 Thu>
+*** DOIN Snippets Database Refactor :opRefactor:
+DEADLINE: <2026-03-27 Fri>
 :PROPERTIES:
 :ID: 6ebc9a2b-addf-40cb-afba-ea0ff19e33d6
 :END:
