@@ -144,7 +144,6 @@ CLOSED: [2026-03-18 Wed 10:05] DEADLINE: <2026-03-18 Wed>
 :END:
 - *OBJECTIVE:*  Rework the =global-todo= list
 ** WAIT Rework Orgmode Snippets :subOrgmode:opSnippet:opStructure:
-DEADLINE: <2026-03-27 Fri>
 :PROPERTIES:
 :ID:       ab3ba562-f44b-4d49-9741-ddf66534a4b1
 :END:
@@ -170,7 +169,7 @@ DEADLINE: <2026-03-24 Tue> CLOSED: [2026-03-24 Tue 03:40]
 :END:
 - *OBJECTIVE:*  Running snippets along with =completion= from lsp
 - *Issue:*      [[id:184a34b1-9e01-4ae8-b92d-ef580c8f007d][Trigger Character Conflict @Issue]]
-*** DOIN Snippets Database Refactor :opRefactor:
+ ** DOIN Snippets Database Refactor :opRefactor:
 DEADLINE: <2026-03-27 Fri>
 :PROPERTIES:
 :ID: 6ebc9a2b-addf-40cb-afba-ea0ff19e33d6
