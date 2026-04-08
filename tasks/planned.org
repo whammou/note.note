@@ -121,7 +121,7 @@ CLOSED: [2026-02-19 Thu 22:04] DEADLINE: <2026-02-15 Sun 20:30>
 - *OBJECTIVE:*  Improving =archive= notes for future reference and cleanup current workspace
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#org_archive_location][Nvim-orgmode archive location @Github]]
 - *Tracker:*    [[id:ee10580f-462e-4bf2-a31a-241adc1e195f][Orgmode Archive @Issue]]
-** TODO Orgmode Config Cleanup :subNvim:subOrgmode:
+** TODO [#A] Orgmode Config Cleanup :subNvim:subOrgmode:
 :PROPERTIES:
 :ID:       c03503ef-a001-4b75-ac5d-f3d7d0fadcfe
 :END:
