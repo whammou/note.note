@@ -63,4 +63,14 @@ Separate =tracker.note= into smaller category e.g. =enhancement.org=, =bug.org=,
 #+begin_quote org
 Using lua-snip to nesting snippets from different languages and auto-expanding on demand
 #+end_quote
+** OPEN !ENHANCEMENT Milestone Note Structure :subOrgmode@Structure:
+:PROPERTIES:
+:ID: bfac8859-9673-46ee-b654-ed15724d3c6b
+:END:
 
+#+begin_quote markdown
+What kind gold/milestone should be capture in this note? \\
+What structure should this note use?
+#+end_quote
+
+- /Visit:/     [[id:7d381283-8d6e-4542-bd57-10f2deddd4b9][Milestone Note @Doc]]

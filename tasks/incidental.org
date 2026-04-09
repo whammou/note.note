@@ -17,7 +17,8 @@ DEADLINE: <2026-04-09 Thu>
 :PROPERTIES:
 :ID: e24bcb83-9333-4bb8-a538-9ecdd2844c97
 :END:
-- *OBJECTIVE:* View =milestone.note= in notes to keep track of =Goals=
+- *OBJECTIVE:*  View =milestone.note= in notes to keep track of =Goals=
+- /Ticket:/     [[id:bfac8859-9673-46ee-b654-ed15724d3c6b][!ENHANCEMENT Milestone Note Structure @Dev]]
 *** DONE Implement Task-tracking Notes
 DEADLINE: <2026-02-15 Sun 20:00> CLOSED: [2026-02-16 Mon 23:22]
 :PROPERTIES:
