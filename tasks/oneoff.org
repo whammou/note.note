@@ -299,7 +299,7 @@ DEADLINE: <2026-02-11 Wed> CLOSED: [2026-03-04 Wed 23:00]
 :END:
 - *OBJECTIVE:*  Clean up the GLOBAL =todo-list=
 ** TODO [#A] Create Priority Agenda TODO :subOrgmode@Agenda:
-DEADLINE: <2026-04-08 Wed>
+DEADLINE: <2026-04-09 Thu>
 :PROPERTIES:
 :ID: 05379525-b44c-4681-8d47-dea57e641e89
 :END:
