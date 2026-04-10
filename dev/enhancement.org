@@ -5,7 +5,7 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
 * Enhancements List :typDev:catEnhancement:meta:NOTE:
-** DONE Implementing Task Tracker Note :opStructure:subOrgmode:
+** DONE Implementing Task Tracker Note :opStructure:subOrgmode:labFeature:
 CLOSED: [2026-03-26 Thu 13:44]
 :PROPERTIES:
 :ID: 1ecd804b-9eda-4d93-aa6b-8366eec17169
@@ -56,14 +56,14 @@ CLOSED: [2026-03-19 Thu 18:58]
 :ID: b57ba4f3-d752-4a83-9e0d-aae05dbbd53b
 :END:
 Separate =tracker.note= into smaller category e.g. =enhancement.org=, =bug.org=, =test.org=
-** OPEN Lua-snip Nested and Auto-expand Snippets :subNvim:LuaSnip:opOptimize:
+** OPEN Lua-snip Nested and Auto-expand Snippets :subNvim:LuaSnip:opOptimize:labFeature:
 :PROPERTIES:
 :ID: 7f5850cc-f28b-45b6-8a00-1c0b396ef41f
 :END:
 #+begin_quote org
 Using lua-snip to nesting snippets from different languages and auto-expanding on demand
 #+end_quote
-** OPEN !ENHANCEMENT Milestone Note Structure :subOrgmode@Structure:
+** OPEN !ENHANCEMENT Milestone Note Structure :subOrgmode@Structure:labFeature:
 :PROPERTIES:
 :ID: bfac8859-9673-46ee-b654-ed15724d3c6b
 :END:
@@ -74,7 +74,7 @@ What structure should this note use?
 #+end_quote
 
 - /Visit:/     [[id:7d381283-8d6e-4542-bd57-10f2deddd4b9][Milestone Note @Doc]]
-** OPEN Adding Dev Labels :@Structure:
+** OPEN Adding Dev Labels :@Structure:labFeature:
 :PROPERTIES:
 :ID: f43be6f1-d207-4864-a9d3-854cabcebb59
 :END:
