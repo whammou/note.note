@@ -23,7 +23,7 @@ CLOSED: [2025-08-09 Sat 02:30]
   2. =List notes=: Contain reusable notes or items
   3. =Task notes=: Scheduling and planning tasks or events
   4. =Log notes=: Log =DONE=/=ABRT= tasks
-** DONE Separating notes :NODE:
+** DONE Separating notes :subNode:
 CLOSED: [2025-08-28 Thu 16:20]
 :PROPERTIES:
 :ID:       8c7144c1-eb8e-4985-b537-3293809b858c

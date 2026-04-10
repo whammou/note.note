@@ -74,7 +74,7 @@ What structure should this note use?
 #+end_quote
 
 - /Visit:/     [[id:7d381283-8d6e-4542-bd57-10f2deddd4b9][Milestone Note @Doc]]
-** OPEN Adding Dev Labels :@Structure:labFeature:
+** OPEN Adding Dev Labels :@Structure:labFeature:subTesting:
 :PROPERTIES:
 :ID: f43be6f1-d207-4864-a9d3-854cabcebb59
 :END:

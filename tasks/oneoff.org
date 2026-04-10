@@ -15,7 +15,7 @@ CLOSED: [2025-08-09 Sat 02:23] DEADLINE: <2025-08-09 Sat>
   - [[https://github.com/jgm/pandoc/pull/10990][Pandoc support todo fastmode @Github-PR]]
   - [[https://orgmode.org/manual/Per_002dfile-keywords.html][Setting up keywords for individual file @Org-doc]]
   - [[https://old.reddit.com/r/orgmode/comments/hcoez9/which_keywords_do_you_use_for_your_orgmode/][Todo keywords and workflow @Reddit]]
-** DONE Rework Nodes :NODE:
+** DONE Rework Nodes :subNode:
 CLOSED: [2025-08-15 Fri 21:03] DEADLINE: <2025-08-15 Fri>
 - *OBJECTIVE:* Separating =document nodes= and =tasks nodes=
 -----
