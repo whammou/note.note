@@ -51,3 +51,24 @@ Project milestones vary depending on the type of project, but they all serve the
 - To track progress at key stages
 - Ensure everything stays on course
 #+end_quote
+
+Next question is how to write a milestone note?
+**** Writing a Milestone Note
+:PROPERTIES:
+:ID: 0880b906-06d3-4c25-a117-05d325fb002b
+:END:
+
+#+name: Writing Mileseon Step-by-step
+#+begin_quote markdown
+This is a step-by-step process to develop a stellar milestone report
+#+end_quote
+
+1. *Step 1:* Define the Purpose of the report \\
+
+   Before Writing the report, identify its purpose. Are you updating stakeholders on the current progress? Highlighting challenges or risks? Requestion approval to move forward with the next phrase? Clarifying the propose helps structure you report to ensure it addresses the right questions and concerns \\
+
+   Example: "/This report outlines the progress made in the website design project up to the wireframe completion milestone and addresses any remaining challenges before moving on to design approval/"
+
+2. *Step 2:* Provide an Overview of the Project \\
+
+
