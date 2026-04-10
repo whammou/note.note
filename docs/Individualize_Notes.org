@@ -63,8 +63,8 @@ Next question is how to write a milestone note?
 This is a step-by-step process to develop a stellar milestone report
 #+end_quote
 
-1. *Step 1:* Define the Purpose of the report \\
-
+1. *Step 1:* Define the Purpose of the report
+   \\
    Before Writing the report, identify its purpose. Are you updating stakeholders on the current progress? Highlighting challenges or risks? Requestion approval to move forward with the next phrase? Clarifying the propose helps structure you report to ensure it addresses the right questions and concerns \\
 
    Example: "/This report outlines the progress made in the website design project up to the wireframe completion milestone and addresses any remaining challenges before moving on to design approval/"
