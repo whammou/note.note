@@ -69,7 +69,7 @@ Using lua-snip to nesting snippets from different languages and auto-expanding o
 :END:
 
 #+begin_quote markdown
-What kind gold/milestone should be capture in this note? \\
+What kind goal/milestone should be capture in this note? \\
 What structure should this note use?
 #+end_quote
 
