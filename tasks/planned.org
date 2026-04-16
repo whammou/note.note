@@ -176,3 +176,15 @@ DEADLINE: <2026-03-27 Fri>
 :END:
 - *OBJECTIVE:*  Refactoring snippets =db= to share among different filetypes
 - *Reference:*  [[https://github.com/L3MON4D3/LuaSnip/blob/master/DOC.md][LuaSnip @Doc-github]]
+** PROG Create Custom Properties :subOrgmode@Property:opRefactor:
+DEADLINE: <2026-04-16 Thu>
+:PROPERTIES:
+:ID: fea91e27-c739-499a-8422-c9612cf268d7
+:END:
+- *OBJECTIVE:*  Create property for document type note
+*** DONE Move Doc Capture Method
+DEADLINE: <2026-04-16 Thu 19:30> CLOSED: [2026-04-16 Thu 19:24]
+:PROPERTIES:
+:ID: 45322fc1-2ff9-4a70-9863-e60f7eb8c397
+:END:
+- *OBJECTIVE:*  Move doc capture management from =roam= to =orgmode=

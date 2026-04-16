@@ -56,7 +56,7 @@ CLOSED: [2026-03-19 Thu 18:58]
 :ID: b57ba4f3-d752-4a83-9e0d-aae05dbbd53b
 :END:
 Separate =tracker.note= into smaller category e.g. =enhancement.org=, =bug.org=, =test.org=
-** OPEN Lua-snip Nested and Auto-expand Snippets :subNvim:LuaSnip:opOptimize:labFeature:
+** OPEN Lua-snip Nested and Auto-expand Snippets :subNvim@subLuaSnip:opOptimize:labFeature:
 :PROPERTIES:
 :ID: 7f5850cc-f28b-45b6-8a00-1c0b396ef41f
 :END:
