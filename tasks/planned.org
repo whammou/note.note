@@ -176,11 +176,20 @@ DEADLINE: <2026-03-27 Fri>
 :END:
 - *OBJECTIVE:*  Refactoring snippets =db= to share among different filetypes
 - *Reference:*  [[https://github.com/L3MON4D3/LuaSnip/blob/master/DOC.md][LuaSnip @Doc-github]]
-** PROG Create Custom Properties :subOrgmode@Property:opRefactor:
-DEADLINE: <2026-04-16 Thu>
+** DONE Create Custom Properties :subOrgmode@Property:opRefactor:
+DEADLINE: <2026-04-16 Thu> CLOSED: [2026-04-16 Thu 20:37]
 :PROPERTIES:
 :ID: fea91e27-c739-499a-8422-c9612cf268d7
 :END:
+#+name:LOGBOOK
+#+html:<details>
+#+html:<summary>LOGBOOK</summary>
+:LOGBOOK:
+- Note taken on [2026-04-16 Thu 20:35] \\
+  - Added custom block =:ORGANIZATION:= to =docs=
+  - To search =property= use match syntax: ~property="value"~ /(operation can be =, >=, <=, <>)/
+:END:
+#+html:</details>
 - *OBJECTIVE:*  Create property for document type note
 *** DONE Move Doc Capture Method
 DEADLINE: <2026-04-16 Thu 19:30> CLOSED: [2026-04-16 Thu 19:24]
@@ -188,3 +197,9 @@ DEADLINE: <2026-04-16 Thu 19:30> CLOSED: [2026-04-16 Thu 19:24]
 :ID: 45322fc1-2ff9-4a70-9863-e60f7eb8c397
 :END:
 - *OBJECTIVE:*  Move doc capture management from =roam= to =orgmode=
+*** TODO Create Snippet for Custom Properties :subLuaSnip:
+DEADLINE: <2026-04-16 Thu>
+:PROPERTIES:
+:ID: 8d29d005-b7bb-41e1-96e2-294d9b819b30
+:END:
+- *OBJECTIVE:*  Create a snippet to quickly enter organization names
