@@ -197,13 +197,13 @@ DEADLINE: <2026-04-16 Thu 19:30> CLOSED: [2026-04-16 Thu 19:24]
 :END:
 - *OBJECTIVE:*  Move doc capture management from =roam= to =orgmode=
 *** TODO [#C] Create Snippet for Custom Properties :subLuaSnip:
-DEADLINE: <2026-04-22 Wed>
+DEADLINE: <2026-04-23 Thu>
 :PROPERTIES:
 :ID: 8d29d005-b7bb-41e1-96e2-294d9b819b30
 :END:
 - *OBJECTIVE:*  Create a snippet to quickly enter organization names
 **** TODO [#D] Fix Minor Preset ft Issue
-DEADLINE: <2026-04-22 Wed>
+DEADLINE: <2026-04-23 Thu>
 :PROPERTIES:
 :ID: 0cb9a86e-4cf1-43e4-838e-aca42739d5fd
 :END:
