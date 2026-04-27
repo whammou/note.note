@@ -207,4 +207,5 @@ DEADLINE: <2026-04-24 Fri> CLOSED: [2026-04-24 Fri 05:49]
 :PROPERTIES:
 :ID: 0cb9a86e-4cf1-43e4-838e-aca42739d5fd
 :END:
-- *OBJECTIVE:*  Fix some minor issue with =filetypes= in snippets
+- *OBJECTIVE:*  Fix some minor issue with =filetypes= in snippet
+  testline
