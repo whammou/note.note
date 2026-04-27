@@ -13,7 +13,7 @@ CLOSED: [2025-08-12 Tue 10:26] DEADLINE: <2025-08-12 Tue>
 -----
 - *Reference:* [[https://orgmode.org/manual/Paragraphs.html][Org Paragraph @Orgmode-doc]]
 ** TODO [#B] Implement Milestone Notes :opStructure:
-DEADLINE: <2026-04-27 Mon 00:45>
+DEADLINE: <2026-04-28 Tue 00:45>
 :PROPERTIES:
 :ID: e24bcb83-9333-4bb8-a538-9ecdd2844c97
 :END:
