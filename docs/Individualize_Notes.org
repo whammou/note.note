@@ -14,10 +14,10 @@
 - The key concept to =individualize notes= lies in the differences between =functionality= of each note and follow by their =layout format=
 - Different types of note in the system serves different purposes and its important to get it clear what their purposes are
 ** DONE Define Functionality of Each Note
+CLOSED: [2025-08-09 Sat 02:30]
 :PROPERTIES:
 :ID: e8b1d7a4-e30c-4553-b3ea-bcd0b51a3bfb
 :END:
-CLOSED: [2025-08-09 Sat 02:30]
 - Currently there are 4 types of note in the system
   1. =Doc notes=: Contain documents and export
   2. =List notes=: Contain reusable notes or items
@@ -47,7 +47,5 @@ Milestone in project management give a broad view of progress and are made up of
 #+name: Key Milestones in PM Examples
 #+begin_quote org
 [!TIP]
-Project milestones vary depending on the type of project, but they all serve the same purpose:
-- To track progress at key stages
-- Ensure everything stays on course
+Project milestones vary depending on the type of project, but they all serve the same purpose: 1. To track progress at key stages. 2. Ensure everything stays on course
 #+end_quote
