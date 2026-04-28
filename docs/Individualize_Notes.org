@@ -38,14 +38,14 @@ The purpose of separating big notes into smaller notes is to create a /cleaner d
 :END:
 
 #+name: Project milestone
-#+begin_quote markdown
-A project milestone is like a checkpoint on the road to completing a larger project. It breaks down a project into more manageable phases, helping you stay on track by highlighting key moments in the project’s timeline
+#+begin_quote org
+A project milestone is like a =checkpoint= on the road to completing a larger project. It breaks down a project into more manageable phases, helping you stay on track by highlighting key moments in the project’s timeline
 #+end_quote
 
 Milestone in project management give a broad view of progress and are made up of smaller specific actions like deadlines or individual tasks. Millstones serve as markers that signify when you've hit an important phase or achieved a major outcome, moving you close to the overall goal
 
 #+name: Key Milestones in PM Examples
-#+begin_quote markdown
+#+begin_quote org
 [!TIP]
 Project milestones vary depending on the type of project, but they all serve the same purpose:
 - To track progress at key stages

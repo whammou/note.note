@@ -68,12 +68,12 @@ Using lua-snip to nesting snippets from different languages and auto-expanding o
 :ID: bfac8859-9673-46ee-b654-ed15724d3c6b
 :END:
 
-#+begin_quote markdown
+#+begin_quote org
 What kind goal/milestone should be capture in this note? \\
 What structure should this note use?
 #+end_quote
 
-- /Visit:/     [[id:7d381283-8d6e-4542-bd57-10f2deddd4b9][Milestone Note @Doc]]
+- /Available-on:/     [[id:7d381283-8d6e-4542-bd57-10f2deddd4b9][Milestone Note @Doc]]
 ** OPEN Adding Dev Labels :@Structure:labFeature:subTesting:
 :PROPERTIES:
 :ID: f43be6f1-d207-4864-a9d3-854cabcebb59
