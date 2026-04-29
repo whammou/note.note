@@ -94,3 +94,7 @@ Creating a sensible =label= system in =development= note for better categorisati
   + =state= = describe decision; =approved=, =blocked=, =inactive= or =pending=
   + =type= = describe type; =bug=, =chore=, =discussion=, =docs=, =feature=, =fix=, =security=, =testing=
   + =work= = describe situation; =chaotic=, =complex=, =complicated= or =obvious= 
+** OPEN Orgmode Archive :subNvim:subOrgmode:
+#+HTML:</details>
+How to improve archives for all notes using =nvim-orgmode=
+*** Archive Filename With Date

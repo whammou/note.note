@@ -114,13 +114,13 @@ CLOSED: [2026-02-19 Thu 22:04] DEADLINE: <2026-02-15 Sun 20:30>
 :END:
 - *OBJECTIVE:*  Create =org_agenda= template for monitoring =tracker.note=
 - *Tracker:*    [[id:ece2e0ca-c8b5-488f-80dd-58ceec757a0d][Task Tracker Agenda @Issue]]
-** TODO Improve Archive :subNvim:subOrgmode:
+** TODO [#B] Improve Archive :subNvim:subOrgmode:
 :PROPERTIES:
 :ID:       fe0ba4ec-c186-4ec4-8a92-3c25052eb79a
 :END:
 - *OBJECTIVE:*  Improving =archive= notes for future reference and cleanup current workspace
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#org_archive_location][Nvim-orgmode archive location @Github]]
-- *Tracker:*    [[id:ee10580f-462e-4bf2-a31a-241adc1e195f][Orgmode Archive @Issue]]
+- /Delegate:/    [[id:ee10580f-462e-4bf2-a31a-241adc1e195f][Orgmode Archive @Issue]]
 ** TODO [#A] Orgmode Config Cleanup :subNvim:subOrgmode:
 :PROPERTIES:
 :ID:       c03503ef-a001-4b75-ac5d-f3d7d0fadcfe
@@ -176,7 +176,8 @@ DEADLINE: <2026-03-27 Fri>
 :END:
 - *OBJECTIVE:*  Refactoring snippets =db= to share among different filetypes
 - *Reference:*  [[https://github.com/L3MON4D3/LuaSnip/blob/master/DOC.md][LuaSnip @Doc-github]]
-** PROG Create Custom Properties :subOrgmode@Property:opRefactor:
+** DONE Create Custom Properties :subOrgmode@Property:opRefactor:
+CLOSED: [2026-04-29 Wed 08:23]
 :PROPERTIES:
 :ID: fea91e27-c739-499a-8422-c9612cf268d7
 :END:
@@ -209,3 +210,13 @@ DEADLINE: <2026-04-24 Fri> CLOSED: [2026-04-24 Fri 05:49]
 :END:
 - *OBJECTIVE:*  Fix some minor issue with =filetypes= in snippet
   testline
+** TODO Implement Reflection Note :subOrgmode@Structure:
+:PROPERTIES:
+:ID: eac6902e-1cba-49db-82bb-81ff5843e431
+:END:
+- *OBJECTIVE:*  Add reflection note
+** TODO Create New Agendas :subOrgmode@Agenda:
+:PROPERTIES:
+:ID: 3a0ce701-a16e-443a-9aac-06daa592ca6b
+:END:
+- *OBJECTIVE:*  Agenda view for milestones and reflection notes
