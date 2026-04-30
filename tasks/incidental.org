@@ -3,15 +3,6 @@
 #+TITLE: Note Incidental Tasks
 
 * List of Incidental Tasks :typTask:catIncidental:NOTE:meta:
-** DONE Note Paragraph Format :opFormat:
-CLOSED: [2025-08-12 Tue 10:26] DEADLINE: <2025-08-12 Tue>
-- *OBJECTIVE:* Test orgmode =paragraph= format
------
-- *[NOTE]* taken on <2025-08-12 10:17>: \\
-  Orgmode paragraph a separated by at least one =empty line=.
-  To enforce a line break within a paragraph use =\\= at the end of the line
------
-- *Reference:* [[https://orgmode.org/manual/Paragraphs.html][Org Paragraph @Orgmode-doc]]
 ** DOIN [#B] Implement Milestone Notes :opStructure:
 DEADLINE: <2026-04-29 Wed 00:45>
 :PROPERTIES:
@@ -19,48 +10,6 @@ DEADLINE: <2026-04-29 Wed 00:45>
 :END:
 - *OBJECTIVE:*  View =milestone.note= in notes to keep track of =Goals=
 - /Ticket:/     [[id:bfac8859-9673-46ee-b654-ed15724d3c6b][!ENHANCEMENT Milestone Note Structure @Dev]]
-*** DONE Implement Task-tracking Notes
-DEADLINE: <2026-02-15 Sun 20:00> CLOSED: [2026-02-16 Mon 23:22]
-:PROPERTIES:
-:ID: 1df74197-c9c6-4b13-83cf-15a8f94d830a
-:END:
-- *OBJECTIVE:*  Implement =track.note= for complicated =tasks.note=
-- *Tracker:*    [[id:1ecd804b-9eda-4d93-aa6b-8366eec17169][Implementing Task Tracker Note @Issue]]
-** DONE Note Capture Add UUID :opTemplate:
-DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 13:53]
-:PROPERTIES:
-:ID: 3057de0a-69c4-46c5-b2b9-cb92287fcf39
-:END:
-- *OBJECTIVE:*  Update =tasks.note= capture to include =uuid=
-** DONE Update Orgmode Templates :opTemplate:
-DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 15:39]
-:PROPERTIES:
-:ID: 7468fc68-251b-499c-a7f3-4547c4f024c7
-:END:
-- *OBJECTIVE:*  Update =templates= for orgmode
-- *Visit:*      [[id:3057de0a-69c4-46c5-b2b9-cb92287fcf39][Note Capture Add UUID @Org]]
-** DONE Update Orgmode Snippets :opSnippet:
-DEADLINE: <2026-02-05 Thu> CLOSED: [2026-02-05 Thu 15:48]
-:PROPERTIES:
-:ID: b86a8e51-a3fe-4509-91e3-6c9f985fff89
-:END:
-#+name:LOGBOOK
-#+html:<details><summary>LOGBOOK</summary>
-:LOGBOOK:
-- Note taken on [2026-02-05 Thu 15:47] \\
-  Using =orgmode.link-store= to add =uuid= to current headline
-:END:
-#+html:</details>
-- *OBJECTIVE:*  Manage =snippets= for =orgmode=
-- *Visit:*       [[id:3057de0a-69c4-46c5-b2b9-cb92287fcf39][Note Capture Add UUID @Org]]
-** DONE Remove Note Latex Header :subPandoc:subOrgmode:opStructure:
-DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 20:21]
-:PROPERTIES:
-:ID: 8a7e0ad8-a4f9-46f7-831d-ecbd858263ff
-:END:
-- *OBJECTIVE:*  Remove current =latex= hardcoded =header= and replace with with =pandoc= include header
-- *Tracker:*    [[id:b6a92a84-88ad-468d-ad71-f10ba43d4cd9][Match and Remove @Issue]]
-- *Reference:*  [[https://pandoc.org/MANUAL.html][Pandoc Manual @Doc]]
 ** TODO Explore Orgmode Tangle :subNvim:subOrgmode:
 :PROPERTIES:
 :ID: 06b7c1f9-7cb4-4a57-8e5a-1c0e8ddf2838
@@ -68,13 +17,6 @@ DEADLINE: <2026-03-18 Wed> CLOSED: [2026-03-18 Wed 20:21]
 - *OBJECTIVE:*  Explore orgmode =tangle= feature
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#extract-source-code-(tangle)][Nvim-orgmode extract source-code block @Github-doc]]
 - *Tracker:*    [[id:cbf6f577-5700-4e40-88bc-3b6160c732b4][Nvim-orgmode Babel Tangle @Issue]]
-** DONE Orgmode Tracker Template Rework :subNvim:subOrgmode:
-DEADLINE: <2026-03-19 Thu 13:00> CLOSED: [2026-03-20 Fri 03:29]
-:PROPERTIES:
-:ID: d4ccb6e5-4d1d-4e63-966d-61fb94b66061
-:END:
-- *OBJECTIVE:*  Rework =template= of =tracker.note= due to some issues when *archiving*
-- *Tracker:*    [[id:56d5a31c-31e6-44ab-8f88-2373e2662bb8][Rework Tracker Template @Issue]]
 ** TODO Test Orgmode Property Inheritance :subNvim:subOrgmode:
 :PROPERTIES:
 :ID: 70c77db9-3624-49ac-8203-c8266c485e87
