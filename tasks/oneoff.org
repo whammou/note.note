@@ -298,17 +298,3 @@ DEADLINE: <2026-02-11 Wed> CLOSED: [2026-03-04 Wed 23:00]
 :ID: 85763dfe-6ce1-4a04-8d00-6546d4a9aa18
 :END:
 - *OBJECTIVE:*  Clean up the GLOBAL =todo-list=
-** DONE [#A] Create Priority Agenda TODO :subOrgmode@Agenda:
-DEADLINE: <2026-04-09 Thu> CLOSED: [2026-04-09 Thu 21:57]
-:PROPERTIES:
-:ID: 05379525-b44c-4681-8d47-dea57e641e89
-:END:
-#+name:LOGBOOK
-#+html:<details>
-#+html:<summary>LOGBOOK</summary>
-:LOGBOOK:
-- Note taken on [2026-04-09 Thu 21:56] \\
-  Workaround using sort with =prio+= /(High priority tasks stay on top)/
-:END:
-#+html:</details>
-- *OBJECTIVE:*  Prioritize working =TODOs= 

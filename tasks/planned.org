@@ -176,40 +176,6 @@ DEADLINE: <2026-03-27 Fri>
 :END:
 - *OBJECTIVE:*  Refactoring snippets =db= to share among different filetypes
 - *Reference:*  [[https://github.com/L3MON4D3/LuaSnip/blob/master/DOC.md][LuaSnip @Doc-github]]
-** DONE Create Custom Properties :subOrgmode@Property:opRefactor:
-CLOSED: [2026-04-29 Wed 08:23]
-:PROPERTIES:
-:ID: fea91e27-c739-499a-8422-c9612cf268d7
-:END:
-#+name:LOGBOOK
-#+html:<details>
-#+html:<summary>LOGBOOK</summary>
-:LOGBOOK:
-- Note taken on [2026-04-16 Thu 20:35] \\
-  - Added custom block =:ORGANIZATION:= to =docs=
-  - To search =property= use match syntax: ~property="value"~ /(operation can be =, >=, <=, <>)/
-:END:
-#+html:</details>
-- *OBJECTIVE:*  Create property for document type note
-*** DONE Move Doc Capture Method
-DEADLINE: <2026-04-16 Thu 19:30> CLOSED: [2026-04-16 Thu 19:24]
-:PROPERTIES:
-:ID: 45322fc1-2ff9-4a70-9863-e60f7eb8c397
-:END:
-- *OBJECTIVE:*  Move doc capture management from =roam= to =orgmode=
-*** DONE [#C] Create Snippet for Custom Properties :subLuaSnip:
-DEADLINE: <2026-04-27 Mon> CLOSED: [2026-04-27 Mon 06:59]
-:PROPERTIES:
-:ID: 8d29d005-b7bb-41e1-96e2-294d9b819b30
-:END:
-- *OBJECTIVE:*  Create a snippet to quickly enter organization names
-**** DONE [#D] Fix Minor Preset ft Issue
-DEADLINE: <2026-04-24 Fri> CLOSED: [2026-04-24 Fri 05:49]
-:PROPERTIES:
-:ID: 0cb9a86e-4cf1-43e4-838e-aca42739d5fd
-:END:
-- *OBJECTIVE:*  Fix some minor issue with =filetypes= in snippet
-  testline
 ** TODO Implement Reflection Note :subOrgmode@Structure:
 :PROPERTIES:
 :ID: eac6902e-1cba-49db-82bb-81ff5843e431

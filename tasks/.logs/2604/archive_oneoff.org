@@ -1,0 +1,19 @@
+* DONE [#A] Create Priority Agenda TODO :subOrgmode@Agenda:
+DEADLINE: <2026-04-09 Thu> CLOSED: [2026-04-09 Thu 21:57]
+:PROPERTIES:
+:ID: 05379525-b44c-4681-8d47-dea57e641e89
+:ARCHIVE_TIME: 2026-04-30 Thu 21:14
+:ARCHIVE_FILE: /home/whammou/Journal/topics/note/tasks/oneoff.org
+:ARCHIVE_OLPATH: List of Oneoff Tasks
+:ARCHIVE_CATEGORY: oneoff
+:ARCHIVE_TODO: DONE
+:END:
+#+name:LOGBOOK
+#+html:<details>
+#+html:<summary>LOGBOOK</summary>
+:LOGBOOK:
+- Note taken on [2026-04-09 Thu 21:56] \\
+Workaround using sort with =prio+= /(High priority tasks stay on top)/
+:END:
+#+html:</details>
+- *OBJECTIVE:*  Prioritize working =TODOs= 
