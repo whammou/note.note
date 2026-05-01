@@ -29,5 +29,5 @@ DEADLINE: <2026-04-29 Wed 00:45>
 :END:
 - *OBJECTIVE:*  Test table rendering on github using plugin
 - *Reference:*  [[https://github.com/numEricL/table.vim][Table.nvim @Github]]
-- *Tracker:*    [[id:fe211ecb-ef53-41bd-9eb6-86d8873876a2][[TEST] Table Render @Issue]]
+- *Tracker:*    [[id:fe211ecb-ef53-41bd-9eb6-86d8873876a2][TEST Table Render @Issue]]
   
