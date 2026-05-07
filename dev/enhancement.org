@@ -68,6 +68,7 @@ Using lua-snip to nesting snippets from different languages and auto-expanding o
 :ID: bfac8859-9673-46ee-b654-ed15724d3c6b
 :END:
 
+#+name: Description
 #+begin_quote org
 What kind goal/milestone should be capture in this note? \\
 What structure should this note use?

@@ -4,7 +4,7 @@
 
 * List of Incidental Tasks :typTask:catIncidental:NOTE:meta:
 ** DOIN [#B] Implement Milestone Notes :opStructure:
-DEADLINE: <2026-05-09 Sat 00:45>
+DEADLINE: <2026-05-10 Sun 08:00>
 :PROPERTIES:
 :ID: e24bcb83-9333-4bb8-a538-9ecdd2844c97
 :END:
