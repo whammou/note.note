@@ -3,22 +3,12 @@
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+FILETAGS: :typDoc:catDraft:NOTE:
-#+HTML:<details>
-
-* Document Drafts :typDoc:catDraft:NOTE:meta:
-#+HTML:</details>
-
-#+NAME:Warning Message
-#+BEGIN_QUOTE
-[!WARNING]
-Draft items are subjected to change and refile!
-#+END_QUOTE
-** TODO An Org Workflow for Task Management :subOrgmode:MANAGEMENT:
+* TODO An Org Workflow for Task Management :subOrgmode:MANAGEMENT:
 DEADLINE: <2026-02-09 Mon>
 /Take note of workflow from/ [[https://whhone.com/posts/org-mode-task-management/][Orgmode Task Management @Blog]]
-** OUTL Org Workflow with Org-Agenda :subOrgmode:WORKFLOW:
+* OUTL Org Workflow with Org-Agenda :subOrgmode:WORKFLOW:
 /Take note from/ [[https://cachestocaches.com/2016/9/my-workflow-org-agenda/][My Workflow with Org-Agenda @Blog]]
-** OUTL Orgmode Server :subOrgmode:subHomelab:
+* OUTL Orgmode Server :subOrgmode:subHomelab:
 DEADLINE: <2026-02-09 Mon>
 :PROPERTIES:
 :ID:       e5c883ff-bea6-4853-9514-5fa3fb6a2c6e

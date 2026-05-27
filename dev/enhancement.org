@@ -4,20 +4,20 @@
 
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
-* Enhancements List :typDev:catEnhancement:meta:NOTE:
-** DONE Implementing Task Tracker Note :opStructure:subOrgmode:labFeature:
+#+FILETAGS: :typDev:catEnhancement:NOTE:
+* DONE Implementing Task Tracker Note :opStructure:subOrgmode:labFeature:
 CLOSED: [2026-03-26 Thu 13:44]
 :PROPERTIES:
 :ID: 1ecd804b-9eda-4d93-aa6b-8366eec17169
 :END:
 Creating a =tracker.note= for better tasks tracking and eliminate the needs to creating =sub-tasks=
-*** DONE Task Tracker Agenda
+** DONE Task Tracker Agenda
 CLOSED: [2026-03-26 Thu 13:44]
 :PROPERTIES:
 :ID: ece2e0ca-c8b5-488f-80dd-58ceec757a0d
 :END:
 Monitoring =tracker.note= with =org_agenda=
-*** ABRT Executing Tracker Note via Kitty
+** ABRT Executing Tracker Note via Kitty
 CLOSED: [2026-03-20 Fri 03:29]
 :PROPERTIES:
 :ID: 495bb16e-db11-4ee3-b754-2fb9db54dfc8
@@ -32,38 +32,38 @@ Open kitty =session= with pre-defined layouts
   new_tab
   launch orgmode-browse
   #+END_SRC
-**** DONE Execute Hardcoded Script in Kitty Session
+*** DONE Execute Hardcoded Script in Kitty Session
 CLOSED: [2026-02-26 Thu 18:56]
 :PROPERTIES:
 :ID: 3511cb38-19ae-4b99-aee0-de325a82b579
 :END:
 How to execute a script via kitty session without creating a =binary=
-*** DONE Rework Tracker Template :subNvim:subOrgmode:
+** DONE Rework Tracker Template :subNvim:subOrgmode:
 CLOSED: [2026-03-20 Fri 03:29]
 :PROPERTIES:
 :ID: 56d5a31c-31e6-44ab-8f88-2373e2662bb8
 :END:
 Current =templates= create issue when archiving due to =orgmode_archive= does not select whole file for archiving instead just the =headlines= and =sub-headlines=
-**** DONE Dynamic Tags
+*** DONE Dynamic Tags
 CLOSED: [2026-03-19 Thu 18:58]
 :PROPERTIES:
 :ID: 7f5f7885-73c0-434a-a5dc-45217948c0a3
 :END:
 Automatically assign tags for the topic of current tracker e.g. =_Enhancement=, =@Bug=
-**** DONE Separate Tracker Note
+*** DONE Separate Tracker Note
 CLOSED: [2026-03-19 Thu 18:58]
 :PROPERTIES:
 :ID: b57ba4f3-d752-4a83-9e0d-aae05dbbd53b
 :END:
 Separate =tracker.note= into smaller category e.g. =enhancement.org=, =bug.org=, =test.org=
-** OPEN Lua-snip Nested and Auto-expand Snippets :subNvim@subLuaSnip:opOptimize:labFeature:
+* OPEN Lua-snip Nested and Auto-expand Snippets :subNvim@subLuaSnip:opOptimize:labFeature:
 :PROPERTIES:
 :ID: 7f5850cc-f28b-45b6-8a00-1c0b396ef41f
 :END:
 #+begin_quote org
 Using lua-snip to nesting snippets from different languages and auto-expanding on demand
 #+end_quote
-** OPEN !ENHANCEMENT Milestone Note Structure :subOrgmode@Structure:labFeature:
+* OPEN !ENHANCEMENT Milestone Note Structure :subOrgmode@Structure:labFeature:
 :PROPERTIES:
 :ID: bfac8859-9673-46ee-b654-ed15724d3c6b
 :END:
@@ -75,7 +75,7 @@ What structure should this note use?
 #+end_quote
 
 - /Available-on:/     [[id:7d381283-8d6e-4542-bd57-10f2deddd4b9][Milestone Note @Doc]]
-** OPEN Adding Dev Labels :@Structure:labFeature:subTesting:
+* OPEN Adding Dev Labels :@Structure:labFeature:subTesting:
 :PROPERTIES:
 :ID: f43be6f1-d207-4864-a9d3-854cabcebb59
 :END:
@@ -95,7 +95,7 @@ Creating a sensible =label= system in =development= note for better categorisati
   + =state= = describe decision; =approved=, =blocked=, =inactive= or =pending=
   + =type= = describe type; =bug=, =chore=, =discussion=, =docs=, =feature=, =fix=, =security=, =testing=
   + =work= = describe situation; =chaotic=, =complex=, =complicated= or =obvious= 
-** OPEN Orgmode Archive :subNvim:subOrgmode:
+* OPEN Orgmode Archive :subNvim:subOrgmode:
 #+HTML:</details>
 How to improve archives for all notes using =nvim-orgmode=
-*** Archive Filename With Date
+** Archive Filename With Date
