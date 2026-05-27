@@ -1,29 +1,27 @@
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
-#+TITLE: Note Incidental Tasks
-
-* List of Incidental Tasks :typTask:catIncidental:NOTE:meta:
-** DOIN [#B] Implement Milestone Notes :opStructure:
+#+FILETAGS: :typTask:catIncidental:NOTE:
+* DOIN [#B] Implement Milestone Notes :opStructure:
 DEADLINE: <2026-05-15 Fri 08:00>
 :PROPERTIES:
 :ID: e24bcb83-9333-4bb8-a538-9ecdd2844c97
 :END:
 - *OBJECTIVE:*  View =milestone.note= in notes to keep track of =Goals=
 - /Ticket:/     [[id:bfac8859-9673-46ee-b654-ed15724d3c6b][!ENHANCEMENT Milestone Note Structure @Dev]]
-** TODO Explore Orgmode Tangle :subNvim:subOrgmode:
+* TODO Explore Orgmode Tangle :subNvim:subOrgmode:
 :PROPERTIES:
 :ID: 06b7c1f9-7cb4-4a57-8e5a-1c0e8ddf2838
 :END:
 - *OBJECTIVE:*  Explore orgmode =tangle= feature
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#extract-source-code-(tangle)][Nvim-orgmode extract source-code block @Github-doc]]
 - *Tracker:*    [[id:cbf6f577-5700-4e40-88bc-3b6160c732b4][Nvim-orgmode Babel Tangle @Issue]]
-** TODO Test Orgmode Property Inheritance :subNvim:subOrgmode:
+* TODO Test Orgmode Property Inheritance :subNvim:subOrgmode:
 :PROPERTIES:
 :ID: 70c77db9-3624-49ac-8203-c8266c485e87
 :END:
 - *OBJECTIVE:*  Testing orgmode =property_inheritance= when moving to archive
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#org_use_property_inheritance][Nvim-orgmode org_use_property_inheritance @Github-doc]]
-** TODO Test Render Table :subOrgmode:
+* TODO Test Render Table :subOrgmode:
 :PROPERTIES:
 :ID: 274913a8-f8f2-456e-8ba6-34b4b19525c6
 :END:
