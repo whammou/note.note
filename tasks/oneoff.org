@@ -1,42 +1,41 @@
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
-#+TITLE: Note Oneoff Tasks
+#+FILETAGS: :typTask:catOneoff:NOTE:
 
-* List of Oneoff Tasks :typTask:catOneoff:NOTE:meta:
-** PEND Files hierarchy :FILE:
+* PEND Files hierarchy :FILE:
 - *OBJECTIVE:* /Manage files with better hierarchy/
 - *References:* [[https://l.opnxng.com/r/linux/comments/om150l/personal_file_hierarchy_under_home/][Home hierarchy @Reddit]]
-** PEND Nvim-orgmode Bable :COMPLETION:
+* PEND Nvim-orgmode Bable :COMPLETION:
 - *OBJECTIVE:* Test orgmode-babel code output within orgmode
   
   #+NAME:test
   #+BEGIN_SRC python :result output 
   print("Hello World")
   #+END_SRC
-** EXPL Change CSS style :STYLE:
+* EXPL Change CSS style :STYLE:
 - *OBJECTIVE:* Add css style to note export
 - *Reference:*
   + [[https://github.com/a-dma/gruvbox-css][Gruvbox css style html @Github]]
   + [[https://orgmode.org/manual/CSS-support.html][Orgmode CSS Support @Org-doc]]
-** TODO Clean up Backlogs :opCleanup:
+* TODO Clean up Backlogs :opCleanup:
 - *OBJECTIVE:* Clean up and update =backlogs=
-** PEND Capture Assets :ASSET:
+* PEND Capture Assets :ASSET:
 - *OBJECTIVE:* Capture and resize assets to note
 - *Checkout:*
   + [[id:6fff52f0-e06e-4d64-a521-584bb19902fa][Image manipulate from terminal @Org]]
   + [[id:0635a10c-d33b-457f-b2eb-8d91480684bd][Fzf Scripting @Org]]
-** PEND More Detailed Logs :opStructure:
+* PEND More Detailed Logs :opStructure:
 - *OBJECTIVE:* Separate =log.note= into smaller files for more fine tune query search
-** WAIT Modular Notes Repos :subGit:opStructure:
+* WAIT Modular Notes Repos :subGit:opStructure:
 - *OBJECTIVE:* Separate =notes= into smaller =repos=
 - *Visit:* [[id:0ac3ce98-9f59-468f-acfd-c494c879986b][Managing A Nested Git Project @Org]]
-*** PEND Asset Container
+** PEND Asset Container
 - *OBJECTIVE:* Manage =asset= with =git annex=
 - *Checkout:* [[id:46113c10-28b3-4477-93f4-d22d50c941ff][Setup Git-Annex @org]]
-** PEND External Assets :ASSET:DRIVE:
+* PEND External Assets :ASSET:DRIVE:
 - *OBJECTIVE:* Hosting =assets= on /Google Drive/ with shareable links
 - [[https://ao.bloat.cat/exchange/stackoverflow.com/questions/52063556/add-image-to-github-readme-md-from-google-drive][Github README images from goole drive @Overflow]]
-** DONE Implement Reminder Note :opStructure:
+* DONE Implement Reminder Note :opStructure:
 CLOSED: [2025-11-19 Wed 08:38] DEADLINE: <2025-11-19 Wed>
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>
@@ -46,16 +45,16 @@ CLOSED: [2025-11-19 Wed 08:38] DEADLINE: <2025-11-19 Wed>
 :END:
 #+html:</details>
 - *OBJECTIVE:* Reminder notes are note that quick to deploy and short-lived
-** PEND Finish Drafts
+* PEND Finish Drafts
 - *OBJECTIVE:* Finish up unfinished =draft.note=
-** DONE Create Journal Commit Service :subSystemd:gitcommit:
+* DONE Create Journal Commit Service :subSystemd:gitcommit:
 CLOSED: [2025-12-05 Fri 17:41] DEADLINE: <2025-12-05 Fri 19:00>
 - *OBJECTIVE:* Auto commit repo hourly
 - *Visit:* [[id:865d441c-cf38-489d-9144-237aaecfcd6d][Git Commit Hourly @Org]]
-** DONE Change Keyword Palette :subOrgmode:UI:
+* DONE Change Keyword Palette :subOrgmode:UI:
 DEADLINE: <2026-02-11 Wed> CLOSED: [2026-03-04 Wed 23:00]
 - *OBJECTIVE:* Update color palette for orgmode keywords
-** TODO Clean Up Todo List :opCleanup:
+* TODO Clean Up Todo List :opCleanup:
 :PROPERTIES:
 :ID: 85763dfe-6ce1-4a04-8d00-6546d4a9aa18
 :END:
