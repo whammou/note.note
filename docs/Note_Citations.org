@@ -3,11 +3,7 @@
 :END:
 #+TITLE: Note Citations
 
-#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :typDoc:subProject:CITATION:ZOTERO:
-#+HTML:<details>
-
-* Note Citations :typDoc:meta:CITATION:ZOTERO:NOTE:
-#+HTML:</details>
 /Integrate citation into current notes (using =zotero=)/
