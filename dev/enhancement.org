@@ -4,7 +4,7 @@
 
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
-#+FILETAGS: :typDev:catEnhancement:NOTE:
+#+FILETAGS: :NOTE:typDev:catEnhancement:
 * DONE Implementing Task Tracker Note :opStructure:subOrgmode:labFeature:
 CLOSED: [2026-03-26 Thu 13:44]
 :PROPERTIES:
