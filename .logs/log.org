@@ -1,4 +1,5 @@
-#+TITLE: Note Logs
-#+OPTIONS: todo:nil tasgs:nil ^:nil
+#+TITLE: Note Log
+#+DESCRIPTION: Logs of finished items
+#+FILETAGS: :NOTE:LOG:
 
 * Logs :LOG:NOTE:
