@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID: 1b227651-16ef-4142-b672-9da57175b4d7
+:END:
+
+#+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
+#+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
+#+FILETAGS: :typDev:catRefactor:NOTE:
+
+* OPEN TODO Re-work Note Export Workflow :@Workflow:@Export:
+:PROPERTIES:
+:ID: 63644031-d79f-4192-bd45-3c0950fa0b34
+:END:
+
+#+name: Description
+#+begin_quote org
+Rework export workflow of =notes.note=. Lean towards automation rather than manual like current management workflow
+#+end_quote
+
+/Docs:/  [[id:7b5d66b5-02ab-4e92-bb8c-447c3226c6f9][Git-annex Workflow @Doc]]
+
+** OPEN Managing Assets :@Asset:
+:PROPERTIES:
+:ID: 4f9fb432-748f-4f16-8fb3-0ba67a3b242f
+:END:
+
+#+begin_quote org
+=Assets= can get very big very quickly and thus should be managed outside of git (built for plain text rather than binary)
+#+end_quote
+
