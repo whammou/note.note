@@ -59,8 +59,8 @@ DEADLINE: <2026-02-11 Wed> CLOSED: [2026-03-04 Wed 23:00]
 :ID: 85763dfe-6ce1-4a04-8d00-6546d4a9aa18
 :END:
 - *OBJECTIVE:*  Clean up the GLOBAL =todo-list=
-* TODO Start-work on Orgmode Manager CLI :subOpenCode@StarWork:
-SCHEDULED: <2026-06-08 Mon>
+* DONE Start-work on Orgmode Manager CLI :subOpenCode@StarWork:
+SCHEDULED: <2026-06-13 Sat> CLOSED: [2026-06-13 Sat 17:43]
 :PROPERTIES:
 :ID: cb0e713b-8bba-4a24-84c9-ecda6408e20b
 :END:
