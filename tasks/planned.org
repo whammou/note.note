@@ -185,3 +185,11 @@ DEADLINE: <2026-03-27 Fri>
 :ID: 3a0ce701-a16e-443a-9aac-06daa592ca6b
 :END:
 - *OBJECTIVE:*  Agenda view for milestones and reflection notes
+* TODO Create a Standardize Digital Workspace :subWorkspace:@Structure:
+SCHEDULED: <2026-06-13 Sat>
+:PROPERTIES:
+:ID: 2cf3e4e4-b5b0-4807-982b-c9b89a81beea
+:END:
+- *OBJECTIVE:*  Standardizing =workspace= for multiple projects
+- /Delegate:/   [[id:31b095d2-ed17-4240-ac42-eba1f494069c][Refactoring Note.note Workspace @Ref]]
+  
