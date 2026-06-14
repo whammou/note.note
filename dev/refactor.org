@@ -6,18 +6,6 @@
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
 #+FILETAGS: :typDev:catRefactor:NOTE:
 
-* OPEN TODO Re-work Note Export Workflow :@Workflow:@Export:
-:PROPERTIES:
-:ID: 63644031-d79f-4192-bd45-3c0950fa0b34
-:END:
-
-#+name: Description
-#+begin_quote org
-Rework export workflow of =notes.note=. Lean towards automation rather than manual like current management workflow
-#+end_quote
-
-/Docs:/  [[id:7b5d66b5-02ab-4e92-bb8c-447c3226c6f9][Git-annex Workflow @Doc]]
-
 ** OPEN Managing Assets :@Asset:
 :PROPERTIES:
 :ID: 4f9fb432-748f-4f16-8fb3-0ba67a3b242f

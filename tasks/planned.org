@@ -48,7 +48,9 @@ CLOSED: [2026-02-09 Mon 20:58]
 :END:
 #+html:</details>
 - *OBJECTIVE:* Sync between server and machines
-- *Reference:* [[https://whhone.com/posts/webdav-syncthing/][Webdav Syncthing Setup @Blog]]
+- *Reference:*
+  + [[https://whhone.com/posts/webdav-syncthing/][Webdav Syncthing Setup @Blog]]
+  + [[id:5ee85686-4255-4634-afbc-c364fa16a025][Learn PARA system @Org]]
 * RVIW Orgmode Nvim Auto-update :subOrgmode:subNvim:FileSync:FileSync:
 CLOSED: [2025-11-19 Wed 01:25] DEADLINE: <2025-11-19 Wed 19:00>
 #+name:LOGBOOK
@@ -197,4 +199,5 @@ SCHEDULED: <2026-06-13 Sat>
 :ID: af399ff6-0266-40b0-a8f9-3d82c483a43f
 :END:
 - *OBJECTIVE:*  =Note-repo= and =Note-manager= should now live independently
+- *Reference:*  [[id:b42b9f9b-d686-439c-bd76-6082787b0e99][Repo Sync @Org]]
 - /Delegate:/   [[id:ebbcd95c-3e9a-4ef0-b885-1b5d7f77d22f][Reflow Note Repos @Issue]]
