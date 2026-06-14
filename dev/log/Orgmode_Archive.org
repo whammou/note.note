@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID: ee10580f-462e-4bf2-a31a-241adc1e195f
-:END:
-#+FILETAGS: :NOTE:typDev:catOrgmodeArchive:subNvim:subOrgmode:
-
-#+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
-#+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
-How to improve archives for all notes using =nvim-orgmode=
-* Archive Filename With Date
