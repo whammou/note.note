@@ -192,4 +192,9 @@ SCHEDULED: <2026-06-13 Sat>
 :END:
 - *OBJECTIVE:*  Standardizing =workspace= for multiple projects
 - /Delegate:/   [[id:31b095d2-ed17-4240-ac42-eba1f494069c][Refactoring Note.note Workspace @Ref]]
-  
+** TODO Rework Note Repo Managing Workflow :subGit:
+:PROPERTIES:
+:ID: af399ff6-0266-40b0-a8f9-3d82c483a43f
+:END:
+- *OBJECTIVE:*  =Note-repo= and =Note-manager= should now live independently
+- /Delegate:/   [[id:ebbcd95c-3e9a-4ef0-b885-1b5d7f77d22f][Reflow Note Repos @Issue]]

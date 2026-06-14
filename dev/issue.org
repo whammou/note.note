@@ -160,3 +160,23 @@ CLOSED: [2026-03-24 Tue 02:07]
 :ID: 184a34b1-9e01-4ae8-b92d-ef580c8f007d
 :END:
 /Only trigger snippets when there is a special character/
+* Reflow Note Repos :@Structure:subGit:subGit@Annex:
+:PROPERTIES:
+:ID: ebbcd95c-3e9a-4ef0-b885-1b5d7f77d22f
+:END:
+
+#+name: Description
+#+begin_quote org
+Note should now lives act only as sub-repo for a bigger repo such as =workspace= repos 
+#+end_quote
+
+** Sub-repo Manager :subGit@Manager:
+:PROPERTIES:
+:ID: e4c2214b-4ae7-445e-a5d1-0bdbffef5694
+:END:
+
+#+name: Description
+#+begin_quote org
+Determine how should a number of note repos be updated? Manually and automatically. What architecture should be used for auto update repos
+#+end_quote
+
