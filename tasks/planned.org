@@ -35,7 +35,7 @@ CLOSED: [2025-10-07 Tue 23:26] DEADLINE: <2025-10-07 Tue>
 CLOSED: [2026-02-09 Mon 20:53]
 - *OBJECTIVE:* Create a synchronous orgmode server and get real-time notification
 - *Visit:* [[id:e5c883ff-bea6-4853-9514-5fa3fb6a2c6e][Orgmode Server @Org]]
-** DONE Repo Sync :syncfiles:FileSync:
+** DONE Repo Sync :subGit:FileSync:
 CLOSED: [2026-02-09 Mon 20:58]
 :PROPERTIES:
 :ID:       b42b9f9b-d686-439c-bd76-6082787b0e99
@@ -51,6 +51,7 @@ CLOSED: [2026-02-09 Mon 20:58]
 - *Reference:*
   + [[https://whhone.com/posts/webdav-syncthing/][Webdav Syncthing Setup @Blog]]
   + [[id:5ee85686-4255-4634-afbc-c364fa16a025][Learn PARA system @Org]]
+  + [[id:0ac3ce98-9f59-468f-acfd-c494c879986b][Managing A Nested Git Project @Org]]
 * RVIW Orgmode Nvim Auto-update :subOrgmode:subNvim:FileSync:FileSync:
 CLOSED: [2025-11-19 Wed 01:25] DEADLINE: <2025-11-19 Wed 19:00>
 #+name:LOGBOOK
