@@ -1,5 +1,0 @@
-#+TITLE: Note Log
-#+DESCRIPTION: Logs of finished items
-#+FILETAGS: :topNote:LOG:
-
-* Logs :LOG:topNote:
