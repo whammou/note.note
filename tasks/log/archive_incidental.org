@@ -1,3 +1,6 @@
+#+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
+#+FILETAGS: :topNote:typArchive:typTask:catIncidental:
+
 * DONE Testing Orgmode Property Inheritance :subOrgmode@Structure:
 DEADLINE: <2026-02-23 Mon> CLOSED: [2026-02-25 Wed 20:44]
 :PROPERTIES:
