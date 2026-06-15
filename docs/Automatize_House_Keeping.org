@@ -2,7 +2,6 @@
 :ID: f812d244-aaa5-49b1-9cca-c46d9474a24b
 :END:
 #+TITLE: Automatize House Keeping
-
 #+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :topNote:typDoc:subProject:opCleanup:

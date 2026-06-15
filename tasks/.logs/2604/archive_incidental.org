@@ -96,3 +96,21 @@ DEADLINE: <2026-03-19 Thu 13:00> CLOSED: [2026-03-20 Fri 03:29]
 :END:
 - *OBJECTIVE:*  Rework =template= of =tracker.note= due to some issues when *archiving*
 - *Tracker:*    [[id:56d5a31c-31e6-44ab-8f88-2373e2662bb8][Rework Tracker Template @Issue]]
+* DONE Testing Orgmode Property Inheritance :subOrgmode@Structure:
+DEADLINE: <2026-02-23 Mon> CLOSED: [2026-02-25 Wed 20:44]
+:PROPERTIES:
+:ID: 73722436-9e43-4252-aa26-d23b4cad14dd
+:TYPE: Task
+:ARCHIVE_TIME: 2026-02-23 Mon 19:21
+:ARCHIVE_FILE: /home/whammou/Journal/topics/note/tasks/incidental.org
+:ARCHIVE_OLPATH: List of Incidental Tasks
+:ARCHIVE_CATEGORY: incidental
+:ARCHIVE_TODO: TODO
+:END:
+- *OBJECTIVE:*  Orgmode inheritance when using =archive=
+** DONE Sub-headline Inheritance
+DEADLINE: <2026-02-23 Mon> CLOSED: [2026-02-25 Wed 20:44]
+:PROPERTIES:
+:ID: a4e2577f-b38b-4198-b280-1b7ca638c18e
+:END:
+- *OBJECTIVE:*  If =sub-headline= inherit the property

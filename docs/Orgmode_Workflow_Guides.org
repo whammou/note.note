@@ -2,7 +2,6 @@
 :ID: 2fab4149-510c-4100-8a81-7d7d6e515d77
 :END:
 #+TITLE: Orgmode Workflow Guides
-
 #+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :topNote:typDoc:meta:subOrgmode:WORKFLOW:
