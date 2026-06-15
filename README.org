@@ -1,6 +1,6 @@
 #+TITLE: Note – Overview
 #+DESCRIPTION: General note-keeping.
-#+FILETAGS: :NOTE:
+#+FILETAGS: :topNote:
 
 * Overview
   Miscellaneous notes and quick thoughts that don't fit other specific topics.
@@ -19,8 +19,8 @@
 * Tag & State Conventions (inherited from the main repo)
   - *States* – TODO, PEND, GOING, DONE, ARCHIVED, etc. (see main README).
   - *Tags* – Use the hierarchical tag format:
-    :NOTE:<CATEGORY>:<TYPE>:<DETAIL>:
-    Example: =:NOTE:IDEA:subProject:=
+    :topNote:<CATEGORY>:<TYPE>:<DETAIL>:
+    Example: =:topNote:IDEA:subProject:=
 
 * Typical Files
   - =docs/<something>.org= – quick notes, ideas, and miscellaneous information.
@@ -36,5 +36,5 @@
 
 * References
   - Main repository README.org – overall philosophy, state & tag definitions:
-    [[file:../README.org:NOTE:#STATES and TAGS][Main README – STATES & TAGS]]
+    [[file:../README.org:topNote:#STATES and TAGS][Main README – STATES & TAGS]]
   - External tools: nvim‑orgmode, Orgzly‑android (see main README for integration tips).

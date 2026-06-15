@@ -4,7 +4,7 @@
 
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
-#+FILETAGS: :NOTE:typDev:catIssue:
+#+FILETAGS: :topNote:typDev:catIssue:
 
 * CLSD Test Table Render :opTest:subOrgmode:
 CLOSED: [2026-03-18 Wed 10:15]

@@ -1,6 +1,6 @@
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
-#+FILETAGS: :NOTE:typTask:catPlanned:
+#+FILETAGS: :topNote:typTask:catPlanned:
 
 * DONE Implement Uniform Keywords :opLayout:subOrgmode@subKeyword:
 CLOSED: [2025-10-07 Tue 23:27] DEADLINE: <2025-10-07 Tue>
