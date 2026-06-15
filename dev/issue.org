@@ -179,4 +179,7 @@ Note should now lives act only as sub-repo for a bigger repo such as =workspace=
 #+begin_quote org
 Determine how should a number of note repos be updated? Manually and automatically. What architecture should be used for auto update repos
 #+end_quote
-
+#+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
+#+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
+#+FILETAGS: :typDev:catIssue:
+test
