@@ -191,3 +191,18 @@ Determine how should a number of note repos be updated? Manually and automatical
 #+end_quote
 
 Managing git repo with =populate= script which scrap =github= for matching repo /(with extension org)/ and auto populate the orgmode directory also update repo when existed /(cloned)/
+
+#+name: poplulate-fragment
+#+begin_src sh
+#!/usr/bin/env bash
+echo "  > Scanning github.com/$GITHUB_USER for note repos..." >&2
+
+if command -v gh &>/dev/null && gh auth status &>/dev/null; then
+  repos_json=$(gh repo list "$GITHUB_USER" --json name --limit 50 2>/dev/null)
+elif command -v curl &>/dev/null; then
+  repos_json=$(curl -sf "https://api.github.com/users/$GITHUB_USER/repos?per_page=100&sort=updated" 2>/dev/null)
+else
+  echo "Error: need gh (GitHub CLI) or curl to discover repos." >&2
+  exit 1
+fi
+#+end_src
