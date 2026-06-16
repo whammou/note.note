@@ -68,8 +68,8 @@ SCHEDULED: <2026-06-13 Sat> CLOSED: [2026-06-13 Sat 17:43]
 - *Reference:*
   + [[file:/home/whammou/Journal/README.org][README.org]]
   + [[file:/home/whammou/Journal/.omo/plans/orgmgr-cli.md][orgmrg-cli plan @OC]]
-* TODO Migrate To Hidden Dir :@Workflow:@Structure:
-SCHEDULED: <2026-06-16 Tue>
+* DONE Migrate To Hidden Dir :@Workflow:@Structure:
+SCHEDULED: <2026-06-16 Tue> CLOSED: [2026-06-16 Tue 16:33]
 :PROPERTIES:
 :ID: f5cf62fe-393f-4cfb-8481-e4950723e501
 :END:
