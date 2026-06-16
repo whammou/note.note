@@ -8,7 +8,7 @@
 
 * DONE [#A] Replace Metadata
 CLOSED: [2026-06-17 Wed 02:28]
-/Replace the metadate of a single note/
+/Replace the metadata of a single note/
 #+BEGIN_SRC org
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+OPTIONS: ^:nil todo:nil tags:nil t:f num:t pri:nil toc:t
