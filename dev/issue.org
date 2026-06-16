@@ -171,6 +171,12 @@ CLOSED: [2026-03-24 Tue 02:07]
 Note should now lives act only as sub-repo for a bigger repo such as =workspace= repos
 #+end_quote
 
+#+name: Note Admonition - Description
+#+begin_quote org
+[!NOTE]
+
+#+end_quote
+
 ** OPEN Sub-repo Manager :subGit@Manager:
 :PROPERTIES:
 :ID: e4c2214b-4ae7-445e-a5d1-0bdbffef5694
