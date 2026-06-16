@@ -180,7 +180,8 @@ Changing from hierarchy-architect /(with sub-repos)/ to flat-architect /(without
 
 The point of this architect is to make notes truly modular. Each note repo lives as an independent entity that can lives inside or along side any other *Workspace* architect
 
-** OPEN Sub-repo Manager :subGit@Manager:
+** CLSD Sub-repo Manager :subGit@Manager:
+CLOSED: [2026-06-17 Wed 02:22]
 :PROPERTIES:
 :ID: e4c2214b-4ae7-445e-a5d1-0bdbffef5694
 :END:
