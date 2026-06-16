@@ -21,6 +21,10 @@ Creating new note and populate it with =org-header=. Every note has a different 
 
 To circumvent this problem we have *monkey-patch* nvim-orgmode =on_file_creation= hook and allow content for new file then intelligently populate the =FILETAGS= with based on note location
 
+
+#+name:monkey-patch hooks
+#+html:<details>
+#+html:<summary><b>monkey-patch hooks</b></summary>
 #+name: money-patch hooks
 #+begin_src lua
 local M = {}
@@ -369,6 +373,7 @@ end
 
 return M
 #+end_src
+#+html:</details>
 
 * TODO Bi-directional Syncing
 :PROPERTIES:
