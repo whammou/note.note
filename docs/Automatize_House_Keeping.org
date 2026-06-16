@@ -10,18 +10,17 @@
 CLOSED: [2026-06-17 Wed 02:28]
 #+name: Description
 #+begin_quote org
-Creating new note and populate it with =org-header=
+Creating new note and populate it with =org-header=. Every note has a different set of header and therefore different options. Every time a new file is created I have to populate this section manually which is a hassle
 #+end_quote
 
-/Replace the metadata of a single note/
+To circumvent this 
 
 #+name: Typical org header
 #+BEGIN_SRC org
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+OPTIONS: ^:nil todo:nil tags:nil t:f num:t pri:nil toc:t
 #+END_SRC
-* ABRT Bi-directional Syncing
-CLOSED: [2026-06-17 Wed 02:30]
+* TODO Bi-directional Syncing
 :PROPERTIES:
 :ID: 1c195ab5-5250-4992-ab7a-57c29c5f3c66
 :END:
