@@ -174,7 +174,7 @@ Note should now lives act only as sub-repo for a bigger repo such as =workspace=
 #+name: Note Admonition - Description
 #+begin_quote org
 [!NOTE]
-
+Changing from hierarchy-architect /(with)/ to flat-architect
 #+end_quote
 
 ** OPEN Sub-repo Manager :subGit@Manager:
