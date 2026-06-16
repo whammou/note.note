@@ -35,22 +35,8 @@
 * PEND External Assets :ASSET:DRIVE:
 - *OBJECTIVE:* Hosting =assets= on /Google Drive/ with shareable links
 - [[https://ao.bloat.cat/exchange/stackoverflow.com/questions/52063556/add-image-to-github-readme-md-from-google-drive][Github README images from goole drive @Overflow]]
-* DONE Implement Reminder Note :opStructure:
-CLOSED: [2025-11-19 Wed 08:38] DEADLINE: <2025-11-19 Wed>
-#+name:LOGBOOK
-#+html:<details><summary>LOGBOOK</summary>
-:LOGBOOK:
-- Note taken on [2025-11-19 Wed 08:38] \\
-  Using =oneoff.note= as =reminder.note= and =planned.note= as =oneoff.note=
-:END:
-#+html:</details>
-- *OBJECTIVE:* Reminder notes are note that quick to deploy and short-lived
 * PEND Finish Drafts
 - *OBJECTIVE:* Finish up unfinished =draft.note=
-* DONE Create Journal Commit Service :subSystemd:gitcommit:
-CLOSED: [2025-12-05 Fri 17:41] DEADLINE: <2025-12-05 Fri 19:00>
-- *OBJECTIVE:* Auto commit repo hourly
-- *Visit:* [[id:865d441c-cf38-489d-9144-237aaecfcd6d][Git Commit Hourly @Org]]
 * DONE Change Keyword Palette :subOrgmode:UI:
 DEADLINE: <2026-02-11 Wed> CLOSED: [2026-03-04 Wed 23:00]
 - *OBJECTIVE:* Update color palette for orgmode keywords
