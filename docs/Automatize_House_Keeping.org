@@ -6,7 +6,8 @@
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :topNote:typDoc:subProject:opCleanup:
 
-* EXPL [#A] Replace Metadata
+* DONE [#A] Replace Metadata
+CLOSED: [2026-06-17 Wed 02:28]
 /Replace the metadate of a single note/
 #+BEGIN_SRC org
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
