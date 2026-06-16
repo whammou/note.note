@@ -190,3 +190,4 @@ The point of this architect is to make notes truly modular. Each note repo lives
 Determine how should a number of note repos be updated? Manually and automatically. What architecture should be used for auto update repos
 #+end_quote
 
+Managing git repo with =populate= script which scrap =github= for matching repo /(with extension org)/ and auto populate the orgmode directory also update repo when existed /(cloned)/
