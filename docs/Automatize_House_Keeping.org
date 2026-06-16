@@ -8,6 +8,10 @@
 
 * DONE [#A] Replace Metadata
 CLOSED: [2026-06-17 Wed 02:28]
+:PROPERTIES:
+:ID: 90b00230-bbe7-4e78-ac3c-f8ebd9632b40
+:END:
+
 #+name: Description
 #+begin_quote org
 Creating new note and populate it with =org-header=. Every note has a different set of header and therefore different options. Every time a new file is created I have to populate this section manually which is a hassle
