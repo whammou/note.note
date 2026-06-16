@@ -161,7 +161,8 @@ CLOSED: [2026-03-24 Tue 02:07]
 :ID: 184a34b1-9e01-4ae8-b92d-ef580c8f007d
 :END:
 /Only trigger snippets when there is a special character/
-* OPEN Reflow Note Repos :@Structure:subGit:subGit@Annex:
+* CLSD Reflow Note Repos :@Structure:subGit:subGit@Annex:
+CLOSED: [2026-06-17 Wed 02:17]
 :PROPERTIES:
 :ID: ebbcd95c-3e9a-4ef0-b885-1b5d7f77d22f
 :END:
@@ -174,8 +175,10 @@ Note should now lives act only as sub-repo for a bigger repo such as =workspace=
 #+name: Note Admonition - Description
 #+begin_quote org
 [!NOTE]
-Changing from hierarchy-architect /(with)/ to flat-architect
+Changing from hierarchy-architect /(with sub-repos)/ to flat-architect /(without sub-repos)/ and manage files with =git-sync-rs= and populate and manage note repos with =populate= script
 #+end_quote
+
+The point of this architect is to make notes truly modular. Each note repo lives as an independent entity that can lives inside or along side any other *Workspace* architect
 
 ** OPEN Sub-repo Manager :subGit@Manager:
 :PROPERTIES:
