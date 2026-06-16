@@ -37,26 +37,8 @@
 - [[https://ao.bloat.cat/exchange/stackoverflow.com/questions/52063556/add-image-to-github-readme-md-from-google-drive][Github README images from goole drive @Overflow]]
 * PEND Finish Drafts
 - *OBJECTIVE:* Finish up unfinished =draft.note=
-* DONE Change Keyword Palette :subOrgmode:UI:
-DEADLINE: <2026-02-11 Wed> CLOSED: [2026-03-04 Wed 23:00]
-- *OBJECTIVE:* Update color palette for orgmode keywords
 * TODO Clean Up Todo List :opCleanup:
 :PROPERTIES:
 :ID: 85763dfe-6ce1-4a04-8d00-6546d4a9aa18
 :END:
 - *OBJECTIVE:*  Clean up the GLOBAL =todo-list=
-* DONE Start-work on Orgmode Manager CLI :subOpenCode@StarWork:
-SCHEDULED: <2026-06-13 Sat> CLOSED: [2026-06-13 Sat 17:43]
-:PROPERTIES:
-:ID: cb0e713b-8bba-4a24-84c9-ecda6408e20b
-:END:
-- *OBJECTIVE:*  run =/start-work= on =opencode= session
-- *Reference:*
-  + [[file:/home/whammou/Journal/README.org][README.org]]
-  + [[file:/home/whammou/Journal/.omo/plans/orgmgr-cli.md][orgmrg-cli plan @OC]]
-* DONE Migrate To Hidden Dir :@Workflow:@Structure:
-SCHEDULED: <2026-06-16 Tue> CLOSED: [2026-06-16 Tue 16:33]
-:PROPERTIES:
-:ID: f5cf62fe-393f-4cfb-8481-e4950723e501
-:END:
-- *OBJECTIVE:*  Migrating note files to probable system dir and managing using =git-sync-rs=
