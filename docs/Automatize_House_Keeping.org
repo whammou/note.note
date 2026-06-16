@@ -13,3 +13,8 @@
 #+OPTIONS: ^:nil todo:nil tags:nil t:f num:t pri:nil toc:t
 #+END_SRC
 /Quickly update this part of note/
+* Bi-directional Syncing
+:PROPERTIES:
+:ID: 1c195ab5-5250-4992-ab7a-57c29c5f3c66
+:END:
+
