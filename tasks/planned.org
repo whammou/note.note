@@ -111,12 +111,15 @@ CLOSED: [2026-06-19 Fri 12:57]
 :END:
 - *OBJECTIVE:*  =Note-repo= and =Note-manager= should now live independently
 - *Reference:*  [[id:b42b9f9b-d686-439c-bd76-6082787b0e99][Repo Sync @Org]]
-- /Delegate:/   [[id:ebbcd95c-3e9a-4ef0-b885-1b5d7f77d22f][Reflow Note Repos @Issue]]
+- /Delegate:/
+  + [[id:ebbcd95c-3e9a-4ef0-b885-1b5d7f77d22f][Reflow Note Repos @Issue]]
+  + [[id:f2003a39-72eb-40b7-a832-b209c8cf9cff][Remote Workspace @Enhancement]]
 ** DOIN Workspace Structure and Naming
 :PROPERTIES:
 :ID: 4eb196d6-c245-4d4a-9ce2-a7964e9fb7c9
 :END:
 - *OBJECTIVE:*  Standardize structure and naming across workspace
+- /Delegate:/   [[id:5715d15a-526e-4004-b34e-a9de5072dd4f][Choosing Linktype for Data Structure @Issue]]
 * TODO Hosting an Note Webpage :subPages:
 :PROPERTIES:
 :ID: b8c7b0c2-6bea-4b22-9e5e-6f99c9cd7fe8
