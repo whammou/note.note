@@ -99,3 +99,12 @@ Creating a sensible =label= system in =development= note for better categorisati
 #+HTML:</details>
 How to improve archives for all notes using =nvim-orgmode=
 ** Archive Filename With Date
+* OPEN Index Notes :subOrgmode:@Structure:subWorkspace@Workflow:
+:PROPERTIES:
+:ID: 9518d0b6-a61c-4f55-9c27-376bdc57d322
+:END:
+
+#+name: Description
+#+begin_quote org
+Index notes are notes that define relationship between =nodes= can also be be called =linking-notes=
+#+end_quote

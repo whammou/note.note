@@ -134,4 +134,11 @@ SCHEDULED: <2026-06-19 Fri>
 - *OBJECTIVE:*  How to deploy =org= files as a =webpage=
 - *Reference:*  [[https://gitlab.com/pages/org-mode][From orgmode to pages @Gitlab]]
 - /Delegate:/   [[id:b8c7b0c2-6bea-4b22-9e5e-6f99c9cd7fe8][Hosting an Note Webpage @Task]]
+* TODO Implement Index Note :@Structure:subOrgmode:
+SCHEDULED: <2026-06-20 Sat>
+:PROPERTIES:
+:ID: e1f566ca-3321-48e3-98f4-955f8ba12433
+:END:
+- *OBJECTIVE:*  Implementing index note for =node=
+- /Delegate:/   [[id:9518d0b6-a61c-4f55-9c27-376bdc57d322][Index Notes @internal]]
 
