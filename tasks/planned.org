@@ -97,17 +97,38 @@ CLOSED: [2025-11-19 Wed 01:25] DEADLINE: <2025-11-19 Wed 01:30>
 :ID: 3a0ce701-a16e-443a-9aac-06daa592ca6b
 :END:
 - *OBJECTIVE:*  Agenda view for milestones and reflection notes
-* DOIN Create a Standardize Digital Workspace :subWorkspace:@Structure:
+* PROG Create a Standardize Digital Workspace :subWorkspace:@Structure:
 SCHEDULED: <2026-06-19 Fri>
 :PROPERTIES:
 :ID: 2cf3e4e4-b5b0-4807-982b-c9b89a81beea
 :END:
 - *OBJECTIVE:*  Standardizing =workspace= for multiple projects
 - /Delegate:/   [[id:31b095d2-ed17-4240-ac42-eba1f494069c][Refactoring Note.note Workspace @Ref]]
-** TODO Rework Note Repo Managing Workflow :subGit:
+** DONE Rework Note Repo Managing Workflow :subGit:
+CLOSED: [2026-06-19 Fri 12:57]
 :PROPERTIES:
 :ID: af399ff6-0266-40b0-a8f9-3d82c483a43f
 :END:
 - *OBJECTIVE:*  =Note-repo= and =Note-manager= should now live independently
 - *Reference:*  [[id:b42b9f9b-d686-439c-bd76-6082787b0e99][Repo Sync @Org]]
 - /Delegate:/   [[id:ebbcd95c-3e9a-4ef0-b885-1b5d7f77d22f][Reflow Note Repos @Issue]]
+** DOIN Workspace Structure and Naming
+:PROPERTIES:
+:ID: 4eb196d6-c245-4d4a-9ce2-a7964e9fb7c9
+:END:
+- *OBJECTIVE:*  Standardize structure and naming across workspace
+* TODO Hosting an Note Webpage :subPages:
+:PROPERTIES:
+:ID: b8c7b0c2-6bea-4b22-9e5e-6f99c9cd7fe8
+:END:
+- *OBJECTIVE:*  Self-hosting my very own note webpage using =git-pages= /(Deploy git-repo to viewable pages)/
+- *Reference:*  [[https://docs.github.com/en/pages][Github pages @Github-doc]]
+* TODO From Org To Webpage :subOrgmode:subPages:
+SCHEDULED: <2026-06-19 Fri>
+:PROPERTIES:
+:ID: fafb23ab-192c-46c2-80cc-dcf4b38854f4
+:END:
+- *OBJECTIVE:*  How to deploy =org= files as a =webpage=
+- *Reference:*  [[https://gitlab.com/pages/org-mode][From orgmode to pages @Gitlab]]
+- /Delegate:/   [[id:b8c7b0c2-6bea-4b22-9e5e-6f99c9cd7fe8][Hosting an Note Webpage @Task]]
+
