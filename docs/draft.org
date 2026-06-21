@@ -21,6 +21,7 @@ DEADLINE: <2026-02-09 Mon>
 
 The PARA method is a universal system for organizing digital and physical information. The acronyms stand for *Projects*, *Areas*, *Resources*, and *Archives*. It categorizes information based on how actionable it is, making it easy to store and retrieve data instantly
 
+#+name: PARA Overview
 #+begin_html html
 <img src="https://fortelabs.com/wp-content/uploads/2017/02/3-BASB_Illos_Gray_211015_PARA-1024x537.jpg" style="width:50%;"/>
 #+end_html
