@@ -1,8 +1,8 @@
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+FILETAGS: :topNote:typTask:catIncidental:
-* TODO [#B] Implement Milestone Notes :opStructure:
- SCHEDULED: <2026-06-21 Sun>
+* DONE Implement Milestone Notes :opStructure:
+ SCHEDULED: <2026-06-22 Mon> CLOSED: [2026-06-22 Mon 03:15]
 :PROPERTIES:
 :ID: e24bcb83-9333-4bb8-a538-9ecdd2844c97
 :END:

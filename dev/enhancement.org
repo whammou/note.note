@@ -63,7 +63,8 @@ Separate =tracker.note= into smaller category e.g. =enhancement.org=, =bug.org=,
 #+begin_quote org
 Using lua-snip to nesting snippets from different languages and auto-expanding on demand
 #+end_quote
-* OPEN !ENHANCEMENT Milestone Note Structure :subOrgmode@Structure:labFeature:
+* DONE !ENHANCEMENT Milestone Note Structure :subOrgmode@Structure:labFeature:
+CLOSED: [2026-06-22 Mon 03:15]
 :PROPERTIES:
 :ID: bfac8859-9673-46ee-b654-ed15724d3c6b
 :END:

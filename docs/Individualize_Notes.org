@@ -26,7 +26,8 @@ The purpose of separating big notes into smaller notes is to create a /cleaner d
   + The =targets= of each notes have to be specifically formatted
   + Customized unique =templates= for each notes
   + Harder to maintenance
-** OUTL Milestone Note :subOrgmode@Structure:subProjectManagement:
+** DONE Milestone Note :subOrgmode@Structure:subProjectManagement:
+CLOSED: [2026-06-22 Mon 03:15]
 :PROPERTIES:
 :ID: 7d381283-8d6e-4542-bd57-10f2deddd4b9
 :END:
@@ -41,5 +42,7 @@ Milestone in project management give a broad view of progress and are made up of
 #+name: Key Milestones in PM Examples
 #+begin_quote org
 [!TIP]
-Project milestones vary depending on the type of project, but they all serve the same purpose: 1. To track progress at key stages. 2. Ensure everything stays on course
+Project milestones vary depending on the type of project, but they all serve the same purpose: 
+1. To track progress at key stages
+2. Ensure everything stays on course
 #+end_quote
