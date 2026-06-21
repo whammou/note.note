@@ -14,3 +14,13 @@ DEADLINE: <2026-02-09 Mon>
 :END:
 /Setup of an orgmode server that distribute notification in real-time and process org-files/ \\
 /Check out:/ [[id:e895a35f-c6ca-46fe-b875-8cc1620b87b5][Implement Note Sync @Org]]
+* OUTL PARA Organize Digital Workspace Method :subPKM:subPARA:
+:PROPERTIES:
+:ID: 7175e10b-aaf8-4846-8108-d18f9ccf3b7a
+:END:
+
+The PARA method is a universal system for organizing digital and physical information. The acronyms stand for *Projects*, *Areas*, *Resources*, and *Archives*. It categorizes information based on how actionable it is, making it easy to store and retrieve data instantly
+
+#+begin_html html
+<img src="https://fortelabs.com/wp-content/uploads/2017/02/3-BASB_Illos_Gray_211015_PARA-1024x537.jpg" style="width:50%;"/>
+#+end_html
