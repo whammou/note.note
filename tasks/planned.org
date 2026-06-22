@@ -130,7 +130,7 @@ CLOSED: [2026-06-21 Sun 20:05]
 - *OBJECTIVE:*  Standardize structure and naming across workspace
 - /Delegate:/   [[id:5715d15a-526e-4004-b34e-a9de5072dd4f][Choosing Linktype for Data Structure @Issue]]
 ** DOIN Multiple Directories Workspace
-SCHEDULED: <2026-06-22 Mon>
+SCHEDULED: <2026-06-23 Tue>
 :PROPERTIES:
 :ID: cc478b17-3430-445d-b73f-90b49d11ff65
 :END:
@@ -142,7 +142,7 @@ SCHEDULED: <2026-06-22 Mon>
 - *OBJECTIVE:*  Self-hosting my very own note webpage using =git-pages= /(Deploy git-repo to viewable pages)/
 - *Reference:*  [[https://docs.github.com/en/pages][Github pages @Github-doc]]
 * TODO From Org To Webpage :subOrgmode:subPages:
-SCHEDULED: <2026-06-22 Mon>
+SCHEDULED: <2026-06-23 Tue>
 :PROPERTIES:
 :ID: fafb23ab-192c-46c2-80cc-dcf4b38854f4
 :END:
