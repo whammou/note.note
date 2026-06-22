@@ -343,7 +343,7 @@ CLOSED: [2025-10-09 Thu 02:08] DEADLINE: <2025-10-09 Thu>
   =orgmode.nvim= is currently *not* supported =tag groups=
 -----
 - *Reference:* [[https://orgmode.org/guide/Tags.html#Tag-groups-1][Orgmode Tag-Group @Org-wiki]]
-* DONE Implement Note Sync :opCleanup:FileSync:
+* DONE Implement Note Sync :opCleanup:subFileSync:
 CLOSED: [2025-11-12 Wed 16:38] DEADLINE: <2025-11-12 Wed>
 :PROPERTIES:
 :ID:       e895a35f-c6ca-46fe-b875-8cc1620b87b5

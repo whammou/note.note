@@ -18,7 +18,7 @@
 ** PEND Github Actions Script Runner :subGithub:GithubActions:
 - *OBJECTIVE:* Create runner of =cleanup script=
 - *Check-out:* [[id:cdd00540-67f5-4480-9c4f-32807ad84962][Github Actions Script @Org]]
-* RVIW Orgmode Nvim Auto-update :subOrgmode:subNvim:FileSync:FileSync:
+* RVIW Orgmode Nvim Auto-update :subOrgmode:subNvim:subFileSync:FileSync:
 CLOSED: [2025-11-19 Wed 01:25] DEADLINE: <2025-11-19 Wed 19:00>
 #+name:LOGBOOK
 #+html:<details><summary>LOGBOOK</summary>

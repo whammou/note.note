@@ -19,7 +19,7 @@ CLOSED: [2025-10-07 Tue 23:27] DEADLINE: <2025-10-07 Tue>
 ** DONE Translate to Uniform Keywords
 CLOSED: [2025-10-07 Tue 23:26] DEADLINE: <2025-10-07 Tue>
 - *OBJECTIVE:* Translate /current keywords/ set to /uniform keywords set/
-* DONE Initiate Orgmode Server :subHomelab:HomelabSetup:FileSync:
+* DONE Initiate Orgmode Server :subHomelab:HomelabSetup:subFileSync:
 CLOSED: [2026-02-09 Mon 20:53]
 :PROPERTIES:
 :ARCHIVE_TIME: 2026-06-16 Tue 17:30
@@ -29,7 +29,7 @@ CLOSED: [2026-02-09 Mon 20:53]
 :END:
 - *OBJECTIVE:* Create a synchronous orgmode server and get real-time notification
 - *Visit:* [[id:e5c883ff-bea6-4853-9514-5fa3fb6a2c6e][Orgmode Server @Org]]
-** DONE Repo Sync :subGit:FileSync:
+** DONE Repo Sync :subGit:subFileSync:
 CLOSED: [2026-02-09 Mon 20:58]
 :PROPERTIES:
 :ID:       b42b9f9b-d686-439c-bd76-6082787b0e99
@@ -63,7 +63,7 @@ CLOSED: [2025-11-19 Wed 05:41] DEADLINE: <2025-11-19 Wed 05:10>
 :END:
 #+html:</details>
 - *OBJECTIVE:* Toggle show/hide for =log.note= files
-* DONE Trigger Update via Notification :subNtfy:FileSync:
+* DONE Trigger Update via Notification :subNtfy:subFileSync:
 CLOSED: [2025-11-19 Wed 21:17] DEADLINE: <2025-11-19 Wed 19:30>
 :PROPERTIES:
 :ARCHIVE_TIME: 2026-06-16 Tue 17:30
