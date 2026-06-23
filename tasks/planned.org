@@ -135,6 +135,11 @@ SCHEDULED: <2026-06-23 Tue>
 :ID: cc478b17-3430-445d-b73f-90b49d11ff65
 :END:
 - *OBJECTIVE:*  Allow =workspace= to source from multiple directories
+**** Initialize Unison Sync
+:PROPERTIES:
+:ID: 36610982-d233-4c53-923e-76247c429c91
+:END:
+
 * TODO Hosting an Note Webpage :subPages:
 :PROPERTIES:
 :ID: b8c7b0c2-6bea-4b22-9e5e-6f99c9cd7fe8
