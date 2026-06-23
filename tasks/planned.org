@@ -135,6 +135,7 @@ SCHEDULED: <2026-06-23 Tue>
 :ID: cc478b17-3430-445d-b73f-90b49d11ff65
 :END:
 - *OBJECTIVE:*  Allow =workspace= to source from multiple directories
+- /Delegate:/   [[id:918e0fe2-6c59-4a1e-8c3d-6b12d1b4bca7][Combine Syncing Directory @internal]]
 **** Initialize Unison Sync
 :PROPERTIES:
 :ID: 36610982-d233-4c53-923e-76247c429c91
