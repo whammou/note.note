@@ -207,3 +207,16 @@ else
   exit 1
 fi
 #+end_src
+* OPEN Get Notes on New Machine :@Initialization:
+:PROPERTIES:
+:ID: 0ba0d6ca-80d2-444d-9fbd-b99a72ae0db0
+:END:
+
+#+name: Description
+#+begin_quote org
+How should new notes get initialized on new machine? Via
+- Command line
+- Shared Drive
+#+end_quote
+
+- Using the command line: 
