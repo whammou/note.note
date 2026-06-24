@@ -207,7 +207,8 @@ else
   exit 1
 fi
 #+end_src
-* OPEN Get Notes on New Machine :@Initialization:
+* DONE Get Notes on New Machine :@Initialization:
+CLOSED: [2026-06-24 Wed 13:17]
 :PROPERTIES:
 :ID: 0ba0d6ca-80d2-444d-9fbd-b99a72ae0db0
 :END:
@@ -217,6 +218,22 @@ fi
 How should new notes get initialized on new machine? Via
 - Command line
 - Shared Drive
+- Hybrid system
 #+end_quote
 
-- Using the command line: 
+- [-] Using the command line:
+  + Using command line like =git= to get the whole workspace
+  + This method requires external tools like =git-annex=, =rclone=, =samba= to mount the drive and edit locally
+  + Files are not allowed to be shared without credential
+
+- [-] Share Drive method:
+  + Using Share Drive to edit documents on e.g. =Google Drive= which has a built-in sharing mechanic
+  + Requires external tools to mount and edit files
+  + Files are not allowed to be shared without credential
+
+- [X] Hybrid Method:
+  + Clone workspace via =git=
+  + Files are shared on external protocol like =webdav= /(with or without credential)/
+  + Edit files via mounted drives e.g. =samba= /(or through webdav itself)/
+  + Files are shared via URL /(more accessible)/
+  + Cons: Complex and require a lot of setting ups

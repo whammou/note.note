@@ -97,7 +97,7 @@ CLOSED: [2025-11-19 Wed 01:25] DEADLINE: <2025-11-19 Wed 01:30>
 :ID: 3a0ce701-a16e-443a-9aac-06daa592ca6b
 :END:
 - *OBJECTIVE:*  Agenda view for milestones and reflection notes
-* PROG Create a Standardize Digital Workspace :subWorkspace:@Structure:
+* DOIN Create a Standardize Digital Workspace :subWorkspace:@Structure:
 SCHEDULED: <2026-06-24 Wed>
 :PROPERTIES:
 :ID: 2cf3e4e4-b5b0-4807-982b-c9b89a81beea
@@ -129,18 +129,22 @@ CLOSED: [2026-06-21 Sun 20:05]
 #+html:</details>
 - *OBJECTIVE:*  Standardize structure and naming across workspace
 - /Delegate:/   [[id:5715d15a-526e-4004-b34e-a9de5072dd4f][Choosing Linktype for Data Structure @Issue]]
-** DOIN Multiple Directories Workspace
-SCHEDULED: <2026-06-25 Thu>
+** DONE Multiple Directories Workspace
+SCHEDULED: <2026-06-24 Wed>
 :PROPERTIES:
 :ID: cc478b17-3430-445d-b73f-90b49d11ff65
 :END:
+#+name:LOGBOOK
+#+html:<details>
+#+html:<summary>LOGBOOK</summary>
+:LOGBOOK:
+- Note taken on [2026-06-24 Wed 13:17] \\
+  Prefer using =hybrid method= which contents are shared via webdav for accessibility and edit via =drives=
+:END:
+#+html:</details>
+
 - *OBJECTIVE:*  Allow =workspace= to source from multiple directories
 - /Delegate:/   [[id:0ba0d6ca-80d2-444d-9fbd-b99a72ae0db0][Get Notes on New Machine @Issue]]
-**** Initialize Unison Sync
-:PROPERTIES:
-:ID: 36610982-d233-4c53-923e-76247c429c91
-:END:
-
 * TODO Hosting an Note Webpage :subPages:
 :PROPERTIES:
 :ID: b8c7b0c2-6bea-4b22-9e5e-6f99c9cd7fe8
