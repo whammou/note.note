@@ -6,7 +6,7 @@
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
 #+FILETAGS: :topNote:typDev:catRefactor:
 
-** OPEN Managing Assets :@Asset:
+* OPEN Managing Assets :@Asset:
 :PROPERTIES:
 :ID: 4f9fb432-748f-4f16-8fb3-0ba67a3b242f
 :END:
