@@ -97,8 +97,8 @@ CLOSED: [2025-11-19 Wed 01:25] DEADLINE: <2025-11-19 Wed 01:30>
 :ID: 3a0ce701-a16e-443a-9aac-06daa592ca6b
 :END:
 - *OBJECTIVE:*  Agenda view for milestones and reflection notes
-* DOIN Create a Standardize Digital Workspace :subWorkspace:@Structure:
-SCHEDULED: <2026-07-01 Wed>
+* DONE Create a Standardize Digital Workspace :subWorkspace:@Structure:
+SCHEDULED: <2026-07-01 Wed> CLOSED: [2026-07-01 Wed 12:47]
 :PROPERTIES:
 :ID: 2cf3e4e4-b5b0-4807-982b-c9b89a81beea
 :END:

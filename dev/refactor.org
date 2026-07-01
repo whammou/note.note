@@ -14,7 +14,8 @@
 #+begin_quote org
 =Assets= can get very big very quickly and thus should be managed outside of git (built for plain text rather than binary)
 #+end_quote
-* OPEN Refactoring Note.note Workspace :subWorkspace:subGit:@Structure:
+* DONE Refactoring Note.note Workspace :subWorkspace:subGit:@Structure:
+CLOSED: [2026-07-01 Wed 12:57]
 :PROPERTIES:
 :ID: 31b095d2-ed17-4240-ac42-eba1f494069c
 :END:
@@ -24,3 +25,33 @@
 Standardizing workspace between plaintext notes and binaries (=.docx=, =.pdf=, ...). New workspace should have the consistency of plaintext ones and also include the plaintext note either as sub-repo or a link
 #+end_quote
 
+- Workspace will consist of two different systems
+  + =orgmode= for plain text
+  + =para= for binary e.g. /pdf, docx, odt .../
+** DONE Managing Different workspace
+CLOSED: [2026-07-01 Wed 12:47]
+:PROPERTIES:
+:ID: fae79093-1a50-4c52-98ac-bbf95ed39d3b
+:END:
+
+Different workspace has different way to share and manage
+- For the plain text system is managed by =git= and shared to =github=
+- For binary system its going to be managed by =cloud= service and shared via =webdav= /(in fact it could also by edit via webdav as well)/
+
+/Docs:/
+ + [[id:16963c5f-6497-48d7-a72c-d767345b7cf0][Managing Para System @internal]]
+ + [[id:fdbe644c-f315-4ba0-aee9-fc464c52e121][Git Automation @internal]]
+** DONE Sharing Documents
+CLOSED: [2026-07-01 Wed 12:56]
+:PROPERTIES:
+:ID: 99407d4b-840e-4099-ba7c-69c46a15eed4
+:END:
+
+#+name: Description
+#+begin_quote org
+Often time it is necessary to share documents. Its crucial to share a secure documents. For plaintext docs its easier than for binary files
+#+end_quote
+
+Current method for sharing binary files and edit files via =webdav= protocol. The problem is making the sharing files save and secured
+
+/Delegate:/  [[id:259ed465-87ce-4373-ac2e-96e21baec17f][Webdav Secured File Sharing @internal]]
