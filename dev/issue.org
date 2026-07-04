@@ -6,7 +6,7 @@
 #+TODO: OPEN(y) (e) PROG(g) INTR(q) NEXT(n) | ABRT(a) DONE(f) CLSD(c)
 #+FILETAGS: :topNote:typDev:catIssue:
 
-* CLSD Test Table Render :opTest:subOrgmode:
+* DONE Test Table Render :opTest:subOrgmode:
 CLOSED: [2026-03-18 Wed 10:15]
 :PROPERTIES:
 :ID:       fe211ecb-ef53-41bd-9eb6-86d8873876a2
@@ -26,7 +26,7 @@ Testing =nvim-orgmode= table render \\
 |----------|----------|----------|
 | Cell 1   | Cell 2   | Cell 3   |
 | Cell 4   | Cell 5   | Cell 6   |
-* CLSD Orgmode Tag System Prefix :subOrgmode:opStructure:
+* DONE Orgmode Tag System Prefix :subOrgmode:opStructure:
 CLOSED: [2026-03-18 Wed 10:15]
 :PROPERTIES:
 :ID:       fad7fd61-ac4d-4886-819e-f3acfdad2353
@@ -86,7 +86,7 @@ Plaintext Prefixes:
 - =cat= - for identifier tag e.g. =catOneoff=
 - =HungarianNotation= - for specific tag e.g. =NvimConfig=
 - =lowercase= - for special tag e.g. =noexport=, =meta=, =content=
-* CLSD Orgmode Tag Tests :opTest:subOrgmode:opStructure:
+* DONE Orgmode Tag Tests :opTest:subOrgmode:opStructure:
 CLOSED: [2026-03-17 Tue 21:29]
 :PROPERTIES:
 :ID:       d95dff11-93ed-4f7b-9e6f-96c152127c2b
@@ -139,7 +139,7 @@ CLOSED: [2026-03-17 Tue 17:31]
 =Snack_case= variable is not a valid syntax for a tag on github =org-ruby= parser. But =_= as prefix is valid e.g. =_foo= is a valid tag
 #+end_src
 
-* CLSD Match and Remove :subBash:
+* DONE Match and Remove :subBash:
 CLOSED: [2026-03-18 Wed 20:18]
 :PROPERTIES:
 :ID: b6a92a84-88ad-468d-ad71-f10ba43d4cd9
@@ -148,7 +148,7 @@ CLOSED: [2026-03-18 Wed 20:18]
 #+BEGIN_SRC sh
 rg -l  "\#\+LATEX_HEADER: \\\usepackage" /home/whammou/Journal/ | xargs -i sed -i '/^#+LATEX_HEADER:.*helvet/d' {}
 #+END_SRC
-* CLSD Orgmode Snippets Refactor :subOrgmode:opRefactor:
+* DONE Orgmode Snippets Refactor :subOrgmode:opRefactor:
 CLOSED: [2026-06-16 Tue 22:34]
 :PROPERTIES:
 :ID: e733de64-736b-4ec7-99d9-f5904b87f476
@@ -161,10 +161,11 @@ CLOSED: [2026-03-24 Tue 02:07]
 :ID: 184a34b1-9e01-4ae8-b92d-ef580c8f007d
 :END:
 /Only trigger snippets when there is a special character/
-* CLSD Reflow Note Repos :@Structure:subGit:subGit@Annex:
+* DONE Reflow Note Repos :@Structure:subGit:subGit@Annex:
 CLOSED: [2026-06-17 Wed 02:17]
 :PROPERTIES:
 :ID: ebbcd95c-3e9a-4ef0-b885-1b5d7f77d22f
+:ROAM_ORIGIN: 038b7433-7aa0-425f-a718-0b1ef8fbc11f
 :END:
 
 #+name: Description
@@ -180,7 +181,7 @@ Changing from hierarchy-architect /(with sub-repos)/ to flat-architect /(without
 
 The point of this architect is to make notes truly modular. Each note repo lives as an independent entity that can lives inside or along side any other *Workspace* architect
 
-** CLSD Sub-repo Manager :subGit@Manager:
+** DONE Sub-repo Manager :subGit@Manager:
 CLOSED: [2026-06-17 Wed 02:22]
 :PROPERTIES:
 :ID: e4c2214b-4ae7-445e-a5d1-0bdbffef5694
