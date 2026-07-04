@@ -19,7 +19,10 @@ DEADLINE: <2026-02-09 Mon>
 :ID: 7175e10b-aaf8-4846-8108-d18f9ccf3b7a
 :END:
 
+#+name: Description
+#+begin_quote org
 The PARA method is a universal system for organizing digital and physical information. The acronyms stand for *Projects*, *Areas*, *Resources*, and *Archives*. It categorizes information based on how actionable it is, making it easy to store and retrieve data instantly
+#+end_quote
 
 #+name: PARA Overview
 #+begin_html html
