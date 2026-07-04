@@ -25,6 +25,31 @@ The PARA method is a universal system for organizing digital and physical inform
 #+begin_html html
 <img src="https://fortelabs.com/wp-content/uploads/2017/02/3-BASB_Illos_Gray_211015_PARA-1024x537.jpg" style="width:50%;"/>
 #+end_html
+
+- *Project* - short-term efforts (in your work or personal life) that you take on with a certain goal in mind
+  + Complete a webpage design
+  + Buy a new computer
+  + Write research report
+
+- *Area* - Important parts of you work and life that require ongoing attention. These might include:
+  + Work responsibilities such as marketing, Human Resources Product Management ,Research and Development
+  + Personal responsibilities such as Health, Finances, Writing, ..
+
+- *Resources* - A range of topics you're interested in and learning about
+  + Graphic design
+  + Personal productivity
+  + Modern Architecture
+
+- *Archive* - Include anything from the previous three categories that is no longer active, but you might want to save for future reference
+  + Projects you've competed or put on hold
+  + Areas that are no longer active or relevant
+  + Resources that you're no longer interested in
+
+#+name: Example System Directory
+#+begin_html html
+<img src="https://fortelabs.com/wp-content/uploads/2017/02/PARA-blog-post-PARA-hierarchy-1024x576.jpeg" style="width:50%;"/>
+#+end_html
+
 * OUTL [#A] Managing Para System :subPARA@Manage:
 :PROPERTIES:
 :ID: 16963c5f-6497-48d7-a72c-d767345b7cf0
