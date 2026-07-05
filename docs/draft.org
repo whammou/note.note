@@ -52,6 +52,10 @@ The PARA method is a universal system for organizing digital and physical inform
 #+begin_html html
 <img src="https://fortelabs.com/wp-content/uploads/2017/02/PARA-blog-post-PARA-hierarchy-1024x576.jpeg" style="width:50%;"/>
 #+end_html
+** OUTL Setting Up PARA :subPARA@Setup:
+:PROPERTIES:
+:ID: 2c05e146-281c-4bab-a618-832f88e80b93
+:END:
 
 * OUTL [#A] Managing Para System :subPARA@Manage:
 :PROPERTIES:
