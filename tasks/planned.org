@@ -152,7 +152,7 @@ SCHEDULED: <2026-06-24 Wed>
 - *OBJECTIVE:*  Self-hosting my very own note webpage using =git-pages= /(Deploy git-repo to viewable pages)/
 - *Reference:*  [[https://docs.github.com/en/pages][Github pages @Github-doc]]
 * TODO From Org To Webpage :subOrgmode:subPages:
-SCHEDULED: <2026-07-10 Fri>
+SCHEDULED: <2026-07-12 Sun>
 :PROPERTIES:
 :ID: fafb23ab-192c-46c2-80cc-dcf4b38854f4
 :END:
@@ -160,7 +160,7 @@ SCHEDULED: <2026-07-10 Fri>
 - *Reference:*  [[https://gitlab.com/pages/org-mode][From orgmode to pages @Gitlab]]
 - /Delegate:/   [[id:b8c7b0c2-6bea-4b22-9e5e-6f99c9cd7fe8][Hosting an Note Webpage @Task]]
 * TODO Implement Index Note :@Structure:subOrgmode:
-SCHEDULED: <2026-07-10 Fri>
+SCHEDULED: <2026-07-12 Sun>
 :PROPERTIES:
 :ID: e1f566ca-3321-48e3-98f4-955f8ba12433
 :END:
