@@ -109,3 +109,64 @@ How to improve archives for all notes using =nvim-orgmode=
 #+begin_quote org
 Index notes are notes that define relationship between =nodes= can also be be called =linking-notes=
 #+end_quote
+* OPEN Nvim-orgmode Database Plugin :subNvim@Orgmode@Plugin:
+:PROPERTIES:
+:ID: 4e11f46a-3563-458c-8da4-1cd08f59509b
+:END:
+
+#+name: Nvim-orgmode database plugin
+#+begin_quote org
+This plugin is replica of the original =orgmode-sql=. The attempt is to query orgmode into a faster bandwidth in boot time
+#+end_quote
+
+#+name: org-sql workflow
+#+begin_src mermaid
+flowchart TD
+    %% ── BOOT ──────────────────────────────────────────────
+    subgraph BOOT["1. Startup (lazy.nvim)"]
+        A["nvim starts"] --> B["Plugin loads on first org event<br/>event = { 'BufWritePost *.org', 'FileType org' }"]
+        B --> C["Open SQLite DB via sqlite.lua<br/>~/.cache/orgmode-cache.db"]
+        C --> D["Check PRAGMA user_version<br/>→ run migration ladder if stale"]
+        D --> E["Load index into memory<br/>(in-memory cache: headlines/links/tags)"]
+        E --> F{"Was vault already indexed?"}
+        F -- "yes (warm)" --> G["Ready in ms —<br/>nvim-orgmode NOT loaded, no full-vault parse"]
+        F -- "no (first run)" --> H["Background full index of org_agenda_files<br/>(uv thread / vim.schedule, non-blocking)"]
+        H --> G
+    end
+
+    %% ── QUERY ─────────────────────────────────────────────
+    subgraph QUERY["2. Query surface (your plugin replaces full-vault parse)"]
+        Q1["Agenda view / Org search /<br/>refile targets / backlinks"]
+        Q1 --> Q2["Lookup in-memory index"]
+        Q2 -- "hit" --> Q3["Instant result —<br/>nvim-orgmode still lazy"]
+        Q2 -- "miss" --> Q4["Query SQLite (prepared stmt)"]
+        Q4 --> Q5["Promote to in-memory cache<br/>(avoid cold-SQLite UI freeze)"]
+        Q5 --> Q3
+    end
+
+    %% ── WRITE ─────────────────────────────────────────────
+    subgraph WRITE["3. Save = incremental re-index"]
+        W1["User :w writes foo.org"] --> W2["BufWritePost *.org autocmd"]
+        W2 --> W3["SHA-1 hash of file contents"]
+        W3 --> W4{"Hash == DB hash?"}
+        W4 -- "same" --> W5["No-op (mtime not trusted)"]
+        W4 -- "changed" --> W6["Parse only foo.org<br/>(orgmode.files / tree-sitter)"]
+        W6 --> W7["One transaction:<br/>DELETE foo.org rows → INSERT new<br/>files/headlines/tags/links"]
+        W7 --> W8["Update hash+mtime, invalidate<br/>cache entries for foo.org"]
+        W8 --> W5
+    end
+
+    %% ── WATCH ─────────────────────────────────────────────
+    subgraph WATCH["4. External changes (git pull, sync, other editors)"]
+        V1["uv.fs_event / fs_poll<br/>on vault dirs"] --> V2["Debounce + hash-diff changed files"]
+        V2 --> V3["Same re-index transaction as save"]
+        V3 --> W8
+    end
+
+    %% ── nvim-orgmode's own parse ─────────────────────────
+    G --> Q1
+    W5 --> G
+    X1["User opens foo.org → FileType org<br/>nvim-orgmode parses ONLY this buffer"]
+    X1 --> X2["Org semantics (todos, capture, clock) work as usual"]
+    Q3 -. "never triggers" .-> X3["✗ load_sync(true, 20000)<br/>synchronous full-vault parse"]
+#+end_src
