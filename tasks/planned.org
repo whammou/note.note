@@ -160,7 +160,7 @@ SCHEDULED: <2026-10-07 Wed>
 - *Reference:*  [[https://gitlab.com/pages/org-mode][From orgmode to pages @Gitlab]]
 - /Delegate:/   [[id:b8c7b0c2-6bea-4b22-9e5e-6f99c9cd7fe8][Hosting an Note Webpage @Task]]
 * TODO Implement Index Note :@Structure:subOrgmode:
-SCHEDULED: <2026-10-08 Thu>
+SCHEDULED: <2026-10-06 Tue>
 :PROPERTIES:
 :ID: e1f566ca-3321-48e3-98f4-955f8ba12433
 :END:
