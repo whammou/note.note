@@ -20,6 +20,10 @@ Testing =nvim-orgmode= table render \\
 | 19   | Peter | 1234  | 17  |
 | 0880 | Anna  | 4321  | 25  |
 
+| ID   | Name  | Phone | Age |
+|------+-------+-------+-----|
+| 19 this is a very long line   | Peter | 1234  | 17  |
+| 0880 this is also a very long line | Anna  | 4321  | 25  |
 - Markdown style: \\
 
 | Header 1 | Header 2 | Header 3 |
