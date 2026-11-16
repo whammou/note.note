@@ -22,9 +22,19 @@ Testing =nvim-orgmode= table render \\
 
 | ID   | Name  | Phone | Age |
 |------+-------+-------+-----|
-| 19 this is a very long line   | Peter | 1234  | 17  |
-| 0880 this is also a very long line | Anna  | 4321  | 25  |
+| 19   | Peter | 1234  | 17  |
+| 0880 | Anna  | 4321  | 25  |
 - Markdown style: \\
+
+| Layer | Location | In git? |
+|---|---|---|
+| =khal=, =vdirsyncer=, =python=, =python-pipx=, =stow=, =git=, editor | system | installed |
+| pipx venv: =khalorg 0.2.1= + =orgparse<0.5= + =patches/khalorg-local-fixes.patch= | =~/.local/share/pipx/venvs/khalorg= | patch only |
+| =~/.config/khal/config= (26 calendars), =~/.config/vdirsyncer/config= (25 collections + OAuth client) | home | /enhancement.orgno/ |
+| Org tree, not a git repo (about 46 MB) | =/home/homelab/.local/share/orgmode=, symlinked from =~/.local/share/orgmode= | /no/ |
+| Runner and calendar map | =dotfiles/orgpush/= | yes |
+| systemd units (plain copies, not symlinks) | =dotfiles/systemd/user/= | yes |
+| nvim config, bloocky patch, =secrets.lua= | =dotfiles/nvim-lazy/= (stow), secrets untracked | mostly |
 
 | Header 1 | Header 2 | Header 3 |
 |----------|----------|----------|
