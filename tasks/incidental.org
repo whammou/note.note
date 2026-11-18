@@ -21,7 +21,8 @@
 :END:
 - *OBJECTIVE:*  Testing orgmode =property_inheritance= when moving to archive
 - *Reference:*  [[https://nvim-orgmode.github.io/configuration#org_use_property_inheritance][Nvim-orgmode org_use_property_inheritance @Github-doc]]
-* TODO Test Render Table :subOrgmode:
+* DONE Test Render Table :subOrgmode:
+CLOSED: [2026-11-18 Wed 15:53]
 :PROPERTIES:
 :ID: 274913a8-f8f2-456e-8ba6-34b4b19525c6
 :END:
